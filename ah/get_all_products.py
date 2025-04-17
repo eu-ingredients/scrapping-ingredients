@@ -1,11 +1,14 @@
+import json
+import time
+from pathlib import Path
+
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-import json
 
 headers = {
     "Host": "www.ah.nl",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0",
+    "User-Agent": 'Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135',
     "Accept": "*/*",
     "Accept-Language": "en-US,nl;q=0.7,en;q=0.3",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -13,7 +16,13 @@ headers = {
 }
 
 all_products = []
-results = []
+
+resutling_file = Path("products.json")
+
+if resutling_file.exists():
+    results = json.loads(resutling_file.read_bytes())
+else:
+    results = {}
 
 base_url = r"https://www.ah.nl/producten"
 # Get all drinks from overview
@@ -33,7 +42,7 @@ base_url = r"https://www.ah.nl/producten"
 for i in tqdm(range(1, 23)):
     href = f"https://www.ah.nl/producten/2457/tussendoortjes?page={i}&withOffset=true"
 
-    response_prod = requests.get(href, headers=headers, verify=False)
+    response_prod = requests.get(href, headers=headers)
     last_response = response_prod.status_code
 
     if last_response != 200:
@@ -48,32 +57,34 @@ for i in tqdm(range(1, 23)):
     all_products.extend(products)
 
 
+print(f"Found {len(all_products)} products")
+print(f"Already scrapped {len(results)} products")
 for product_response in tqdm(all_products):
     href = f"https://www.ah.nl{product_response.find('a')['href']}"
 
-    response_prod_cat = requests.get(href, headers=headers, verify=False)
+    if href in results:
+        continue
+    response_prod_cat = requests.get(href, headers=headers)
     last_response = response_prod_cat.status_code
 
     if last_response != 200:
-        raise ConnectionError(f"Did not get a 200 status from {href}")
+        print(f"[ERROR] Did not get a 200 status from {href}")
+        time.sleep(10)
+        continue
 
     product_soup = BeautifulSoup(response_prod_cat.content, "html.parser")
 
-    ingredients_div = product_soup.find("h2", text="Ingrediënten")
+    ingredients_div = product_soup.find("h2", string="Ingrediënten")
     if not ingredients_div:
         continue
 
-    ingredients_raw = ingredients_div.parent.find("p")
-    if not ingredients_raw:
-        continue
-    ingredients = ingredients_raw.text.strip()
-    results.append(
-        {
-            "name": product_soup.find("h1").text,
-            "ingredients": ingredients,
-            "url": href,
-        }
-    )
+    ingredients = ingredients_div.parent.text.strip()
+    results[href] = {
+        "name": product_soup.find("h1").text,
+        "ingredients": ingredients,
+    }
+
+print(f"Scrapped a total of {len(results)} products")
 
 with open("products.json", "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
