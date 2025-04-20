@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "scrapping_ingredients/tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
