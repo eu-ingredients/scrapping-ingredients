@@ -186,3 +186,25 @@ def test_preprocess_ingredients_iglo_biologische_spinazie_a_la_creme():
     result = preprocess_ingredients(ingredients_text)
 
     assert result == expected_result
+
+
+def test_preprocess_ingredients_ah_pureersoep_broccoli_spinazie():
+    ingredients_text = "Ingrediënten: groente (52% broccoli, 17% ui, 8,9% spinazie), 19% kikkererwt, specerijen, kruiden (o.a. 0,8% peterselie), zout, gedroogde groente (prei, tomaat, wortel), natuurlijke aroma's (selderij), water, gistextract.Waarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.48g per 100 milliliter"
+    expected_result = [
+        "groente broccoli",
+        "groente ui",
+        "groente spinazie",
+        "kikkererwt",
+        "specerijen",
+        "kruiden oa peterselie",
+        "zout",
+        "gedroogde groente prei",
+        "gedroogde groente tomaat",
+        "gedroogde groente wortel",
+        "natuurlijke aroma's selderij",
+        "water",
+        "gistextract",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
