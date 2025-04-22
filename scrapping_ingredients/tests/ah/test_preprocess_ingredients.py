@@ -47,3 +47,11 @@ def test_preprocess_ingredients_ah_ananas():
     result = preprocess_ingredients(ingredients_text)
 
     assert result == expected_result
+
+
+def test_preprocess_ingredients_ah_snoepgroente_komkommer():
+    ingredients_text = "IngrediëntenIngrediënten: Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram"
+    expected_result = []
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result

@@ -55,10 +55,14 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
         # Remove leading space
         if ingredient_filtered[0] == " ":
             ingredient_filtered = ingredient_filtered[1:]
+        if len(ingredient_filtered) == 0:
+            continue
 
         # Remove trailing space
         if ingredient_filtered[-1] == " ":
             ingredient_filtered = ingredient_filtered[:-1]
+        if len(ingredient_filtered) == 0:
+            continue
 
         filtered_ingredients.append(ingredient_filtered)
     return filtered_ingredients
