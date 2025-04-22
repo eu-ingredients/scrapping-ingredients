@@ -30,7 +30,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     ingredients_text = ingredients_text.lower()
 
     # Remove all (19%) that are used
-    ingredients_text = re.sub(r"\(?[\d,]+%\)?", "", ingredients_text)
+    ingredients_text = re.sub(r"[\d,]+\s?%", "", ingredients_text)
 
     # Remove the word "ingredient" and "ingrediënten"
     ingredients_text = re.sub(r"ingredi[eë]nten", "", ingredients_text)
@@ -39,6 +39,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     ingredients_text = re.sub(r"kan sporen .*", "", ingredients_text)
     ingredients_text = re.sub(r"kan bevatten.*", "", ingredients_text)
     ingredients_text = re.sub(r"waarvan toegevoegd.*", "", ingredients_text)
+    ingredients_text = re.sub(r"allergie-informatie.*", "", ingredients_text)
 
     # Split based on ,
     ingredients_raw = split_ingredients(ingredients_text)
@@ -88,4 +89,5 @@ if __name__ == "__main__":
             raise e
 
     # Save the products
-    products_path.write_text(json.dumps(products, indent=4), encoding="utf-8")
+    with open("products.json", "w", encoding="utf-8") as f:
+        json.dump(products, f, ensure_ascii=False, indent=4)

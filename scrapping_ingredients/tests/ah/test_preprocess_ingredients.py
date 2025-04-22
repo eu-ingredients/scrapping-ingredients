@@ -55,3 +55,24 @@ def test_preprocess_ingredients_ah_snoepgroente_komkommer():
     result = preprocess_ingredients(ingredients_text)
 
     assert result == expected_result
+
+
+def test_preprocess_ingredients_Liga_Cracotte_vezelrijk():
+    ingredients_text = "IngrediëntenIngrediënten: Meel (VOLKORENTARWE 41,9 %, rijst 16,9 %, VOLKORENROGGE 16,2 %, ROGGE 13,5 %, gemoute TARWE 2,5 %, HAVER 2,2 %), TARWEZEMELEN, suiker, weipoeder (van MELK), palmolie, zout, TARWEKIEMEN.Allergie-informatieBevat: Tarwe, Melk, Glutenbevattende Granen"
+    expected_result = [
+        "meel volkorentarwe",
+        "meel rijst",
+        "meel volkorenrogge",
+        "meel rogge",
+        "meel gemoute tarwe",
+        "meel haver",
+        "tarwezemelen",
+        "suiker",
+        "weipoeder van melk",
+        "palmolie",
+        "zout",
+        "tarwekiemen",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
