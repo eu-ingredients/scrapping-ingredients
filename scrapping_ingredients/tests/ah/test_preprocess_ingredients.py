@@ -39,3 +39,11 @@ def test_preprocess_ingredients_lu_mini_crackers_zout():
     result = preprocess_ingredients(ingredients_text)
 
     assert result == expected_result
+
+
+def test_preprocess_ingredients_ah_ananas():
+    ingredients_text = "IngrediëntenIngrediënten: ananas.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram"
+    expected_result = ["ananas"]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result

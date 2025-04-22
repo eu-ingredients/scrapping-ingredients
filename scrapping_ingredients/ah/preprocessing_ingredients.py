@@ -38,6 +38,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     # When the string "Kan sporen " starts it is the end of the ingredients
     ingredients_text = re.sub("kan sporen .*", "", ingredients_text)
     ingredients_text = re.sub("kan bevatten.*", "", ingredients_text)
+    ingredients_text = re.sub("waarvan toegevoegd.*", "", ingredients_text)
 
     # Split based on ,
     ingredients_raw = split_ingredients(ingredients_text)
