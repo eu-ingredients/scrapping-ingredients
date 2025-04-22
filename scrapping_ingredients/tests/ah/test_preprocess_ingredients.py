@@ -1,4 +1,3 @@
-import pytest
 from ...ah.preprocessing_ingredients import preprocess_ingredients
 
 
@@ -86,6 +85,103 @@ def test_preprocess_ingredients_barber_cream_crackers():
         "gist",
         "zout",
         "rijsmiddel natriumwaterstofcarbonaat",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
+def test_preprocess_ingredients_zuivelhoeve_boer_n_muesli_aardbei():
+    ingredients_text = "IngrediëntenIngrediënten: YOGHURT, 10% muesli [HAVERVLOKKEN, suiker, zonnebloemolie, glucose-fructosestroop, TARWEVLOKKEN, kokos, HAZELNOOT, rijstebloem, TARWEMOUT, TARWEMEEL, TARWEGLUTEN, dextrose, invertsuiker, zout, GERSTEMOUT, melasse, antioxidant (tocoferolrijk extract)], suiker, 4,2% aardbei, 1,4% aardbeipuree uit concentraat, MELKEIWIT, 1,2% aardbeiensap, rijstzetmeel, verdikkingsmiddelen (pectinen, guarpitmeel), wortelconcentraat, citroensapconcentraat, natuurlijk aroma.Allergie-informatieBevat: Melk, Glutenbevattende Granen, Noten, Hazelnoot, Tarwe, Gerst, Haver"
+    expected_result = [
+        "yoghurt",
+        "muesli havervlokken",
+        "muesli suiker",
+        "muesli zonnebloemolie",
+        "muesli glucose-fructosestroop",
+        "muesli tarwevlokken",
+        "muesli kokos",
+        "muesli hazelnoot",
+        "muesli rijstebloem",
+        "muesli tarwemout",
+        "muesli tarwemeel",
+        "muesli tarwegluten",
+        "muesli dextrose",
+        "muesli invertsuiker",
+        "muesli zout",
+        "muesli gerstemout",
+        "muesli melasse",
+        "muesli antioxidant tocoferolrijk extract",
+        "suiker",
+        "aardbei",
+        "aardbeipuree uit concentraat",
+        "melkeiwit",
+        "aardbeiensap",
+        "rijstzetmeel",
+        "verdikkingsmiddelen pectinen",
+        "verdikkingsmiddelen guarpitmeel",
+        "wortelconcentraat",
+        "citroensapconcentraat",
+        "natuurlijk aroma",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
+def test_preprocess_ingredients_ah_kruidkoekreep_zero_5_pack():
+    ingredients_text = "IngrediëntenIngrediënten: roggebloem, oligofructose, zoetstof (xylitol [E967]), water, stabilisator (glycerol [E422]), rijsmiddel (natriumwaterstofcarbonaat [E500(ii)], difosfaten [E450]), zonnebloemolie, kaneel, conserveermiddel (kaliumsorbaat [E202]), specerijen.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gramAllergie-informatieBevat: Glutenbevattende Granen, RoggeKan bevatten: Melk, Noten, Lactose, Amandel, Hazelnoot"
+    expected_result = [
+        "roggebloem",
+        "oligofructose",
+        "zoetstof xylitol e967",
+        "water",
+        "stabilisator glycerol e422",
+        "rijsmiddel natriumwaterstofcarbonaat e500 ii",
+        "rijsmiddel difosfaten e450",
+        "zonnebloemolie",
+        "kaneel",
+        "conserveermiddel kaliumsorbaat e202",
+        "specerijen",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
+def test_preprocess_ingredients_ah_cocktail_augurken_zoetzuur():
+    ingredients_text = "Ingrediënten: 52% augurk, water, azijn, suiker, zout, groente (rode paprika, ui), mosterdzaad, verstevigingsmiddel (calciumchloride [E509]), natuurlijk aroma.Waarvan toegevoegde suikers 4.9g per 100 gram en waarvan toegevoegd zout 0.69g per 100 gram"
+    expected_result = [
+        "augurk",
+        "water",
+        "azijn",
+        "suiker",
+        "zout",
+        "groente rode paprika",
+        "groente ui",
+        "mosterdzaad",
+        "verstevigingsmiddel calciumchloride e509",
+        "natuurlijk aroma",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
+def test_preprocess_ingredients_iglo_biologische_spinazie_a_la_creme():
+    ingredients_text = "Ingrediënten: Gehakte spinazie* 84%, water, ROOM* (MELK) 2,7%, magere MELKpoeder*, TARWEbloem*, koolzaadolie*, zeezout, tapiocazetmeel*, suiker*, witte peper*, nootmuskaat*. Kan MOSTERD en SELDERIJ bevatten. *van biologische oorsprong."
+    expected_result = [
+        "gehakte spinazie",
+        "water",
+        "room melk",
+        "magere melkpoeder",
+        "tarwebloem",
+        "koolzaadolie",
+        "zeezout",
+        "tapiocazetmeel",
+        "suiker",
+        "witte peper",
+        "nootmuskaat",
     ]
     result = preprocess_ingredients(ingredients_text)
 

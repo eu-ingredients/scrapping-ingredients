@@ -4,13 +4,18 @@ import re
 def split_ingredients(ingredients_text: str) -> list[str]:
     # Ingedredients with brackets (like "meel (tarwe, wit)") are split into two
     # ingredients (like "meel tarwe" and "meel wit")
-    ingredients_with_brackets = re.findall(r"[\w\s]*?\(.*?\)", ingredients_text)
-    for ingredient in ingredients_with_brackets:
+    ingredients_text = ingredients_text.replace("[", "(")
+    ingredients_text = ingredients_text.replace("]", ")")
+    ingredients_with_brackets = re.findall(r"[\w\s]*?\([\w\s,]*?\)", ingredients_text)
+
+    # If there are brackets remove them
+    if len(ingredients_with_brackets) > 0:
+        ingredient = min(ingredients_with_brackets, key=len)
         # Remove the brackets
-        ingredient_base = re.findall(r"([\w\s]*?)\(.*?\)", ingredient)[0]
+        ingredient_base = re.findall(r"([\w\s]*?)\([\w\s,]*?\)", ingredient)[0]
         # Remove the leading and trailing spaces
-        ingredient_types_raw = re.findall(r"[\w\s]*?\((.*?)\)", ingredient)[0]
-        ingredient_types = split_ingredients(ingredient_types_raw)
+        ingredient_types_raw = re.findall(r"[\w\s]*?\(([\w\s,]*?)\)", ingredient)[0]
+        ingredient_types = ingredient_types_raw.split(",")
         # Merge them
         ingredient_no_brackets = ", ".join(
             [
@@ -20,9 +25,13 @@ def split_ingredients(ingredients_text: str) -> list[str]:
         )
         # Add the ingredient without brackets to the list
         ingredients_text = ingredients_text.replace(ingredient, ingredient_no_brackets)
-    # Remove all extra spaces
-    ingredients_text = re.sub(r"\s+", " ", ingredients_text)
-    return ingredients_text.split(", ")
+
+        # If there were brackets run this function again
+        return split_ingredients(ingredients_text)
+    else:
+        # Remove all extra spaces
+        ingredients_text = re.sub(r"\s+", " ", ingredients_text)
+        return ingredients_text.split(",")
 
 
 def preprocess_ingredients(ingredients_text: str) -> list[str]:
@@ -40,7 +49,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     ingredients_text = re.sub(r"kan bevatten.*", "", ingredients_text)
     ingredients_text = re.sub(r"waarvan toegevoegd.*", "", ingredients_text)
     ingredients_text = re.sub(r"allergie-informatie.*", "", ingredients_text)
-    ingredients_text = re.sub(r"kan ook .*? bevatten.*", "", ingredients_text)
+    ingredients_text = re.sub(r"kan [\w\d\s]*? bevatten.*", "", ingredients_text)
 
     # Split based on ,
     ingredients_raw = split_ingredients(ingredients_text)
@@ -48,7 +57,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     filtered_ingredients = []
     for ingredient in ingredients_raw:
         # Remove symbols that are not letters
-        ingredient_filtered = re.sub(r"[\.:]", "", ingredient)
+        ingredient_filtered = re.sub(r"[\.:\*]", "", ingredient)
 
         # I the string is empty it was not an ingredient
         if len(ingredient_filtered) == 0:
