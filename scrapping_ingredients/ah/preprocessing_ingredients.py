@@ -30,15 +30,15 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     ingredients_text = ingredients_text.lower()
 
     # Remove all (19%) that are used
-    ingredients_text = re.sub("\(?[\d,]+%\)?", "", ingredients_text)
+    ingredients_text = re.sub(r"\(?[\d,]+%\)?", "", ingredients_text)
 
     # Remove the word "ingredient" and "ingrediënten"
-    ingredients_text = re.sub("ingredi[eë]nten", "", ingredients_text)
+    ingredients_text = re.sub(r"ingredi[eë]nten", "", ingredients_text)
 
     # When the string "Kan sporen " starts it is the end of the ingredients
-    ingredients_text = re.sub("kan sporen .*", "", ingredients_text)
-    ingredients_text = re.sub("kan bevatten.*", "", ingredients_text)
-    ingredients_text = re.sub("waarvan toegevoegd.*", "", ingredients_text)
+    ingredients_text = re.sub(r"kan sporen .*", "", ingredients_text)
+    ingredients_text = re.sub(r"kan bevatten.*", "", ingredients_text)
+    ingredients_text = re.sub(r"waarvan toegevoegd.*", "", ingredients_text)
 
     # Split based on ,
     ingredients_raw = split_ingredients(ingredients_text)
@@ -46,7 +46,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     filtered_ingredients = []
     for ingredient in ingredients_raw:
         # Remove symbols that are not letters
-        ingredient_filtered = re.sub("[\.:]", "", ingredient)
+        ingredient_filtered = re.sub(r"[\.:]", "", ingredient)
 
         # I the string is empty it was not an ingredient
         if len(ingredient_filtered) == 0:
@@ -66,3 +66,26 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
 
         filtered_ingredients.append(ingredient_filtered)
     return filtered_ingredients
+
+
+if __name__ == "__main__":
+    from pathlib import Path
+    import json
+
+    # Load the products
+    products_path = Path(__file__).parent / "products.json"
+    products = json.loads(products_path.read_text(encoding="utf-8"))
+
+    # Preprocess the ingredients
+    for _, product in products.items():
+        ingredients = product["ingredients"]
+        if len(ingredients) == 0:
+            continue
+        try:
+            product["processed_ingredients"] = preprocess_ingredients(ingredients)
+        except Exception as e:
+            print(f"Error processing ingredients for product {product['name']}: {e}")
+            raise e
+
+    # Save the products
+    products_path.write_text(json.dumps(products, indent=4), encoding="utf-8")
