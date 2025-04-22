@@ -40,6 +40,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     ingredients_text = re.sub(r"kan bevatten.*", "", ingredients_text)
     ingredients_text = re.sub(r"waarvan toegevoegd.*", "", ingredients_text)
     ingredients_text = re.sub(r"allergie-informatie.*", "", ingredients_text)
+    ingredients_text = re.sub(r"kan ook .*? bevatten.*", "", ingredients_text)
 
     # Split based on ,
     ingredients_raw = split_ingredients(ingredients_text)

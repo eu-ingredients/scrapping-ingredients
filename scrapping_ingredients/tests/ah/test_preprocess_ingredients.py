@@ -76,3 +76,17 @@ def test_preprocess_ingredients_Liga_Cracotte_vezelrijk():
     result = preprocess_ingredients(ingredients_text)
 
     assert result == expected_result
+
+
+def test_preprocess_ingredients_barber_cream_crackers():
+    ingredients_text = "IngrediëntenIngrediënten: TARWEmeel, palmolie, gist, zout, rijsmiddel (natriumwaterstofcarbonaat)Kan ook melk bevatten.Voor allergenen, waaronder glutenbevattende granen, zie de HOOFDLETTERS ingrediënten.Allergie-informatieBevat: Tarwe, Glutenbevattende GranenKan bevatten: Melk"
+    expected_result = [
+        "tarwemeel",
+        "palmolie",
+        "gist",
+        "zout",
+        "rijsmiddel natriumwaterstofcarbonaat",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
