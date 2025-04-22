@@ -1,20 +1,26 @@
 import re
 
 
+def split_ingredients(ingredient_text: str) -> list[str]:
+    return ingredient_text.split(",")
+
+
 def preprocess_ingredients(ingredient_text: str) -> list[str]:
     # Capital letters do not add the meaning we need
     ingredient_text = ingredient_text.lower()
 
     # Remove all (19%) that are used
-    ingredient_text = re.sub("\(\d+%\)", "", ingredient_text)
+    ingredient_text = re.sub("\(?[\d,]+%\)?", "", ingredient_text)
 
     # Remove the word "ingredient" and "ingrediënten"
     ingredient_text = re.sub("ingredi[eë]nten", "", ingredient_text)
 
     # When the string "Kan sporen " starts it is the end of the ingredients
     ingredient_text = re.sub("kan sporen .*", "", ingredient_text)
+    ingredient_text = re.sub("kan bevatten.*", "", ingredient_text)
+
     # Split based on ,
-    ingredients_raw = ingredient_text.split(",")
+    ingredients_raw = split_ingredients(ingredients_raw)
 
     filtered_ingredients = []
     for ingredient in ingredients_raw:

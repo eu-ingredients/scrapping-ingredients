@@ -24,3 +24,18 @@ def test_preprocess_ingredients_wasa_sesam():
     result = preprocess_ingredients(ingredients_text)
 
     assert result == expected_result
+
+
+def test_preprocess_ingredients_lu_mini_crackers_zout():
+    ingredients_text = "IngrediëntenIngrediënten: TARWEBLOEM 97%, palmolie, zout 2,1%, zuurteregelaar (natriumcarbonaten), GERSTEMOUTMEEL, gistKan bevatten: ei, melk.Allergie-informatieBevat: Gerst, Glutenbevattende Granen, TarweKan bevatten: Eieren, Melk"
+    expected_result = [
+        "tarwebloem",
+        "palmolie",
+        "zout",
+        "zuurteregelaar natriumcarbonaten",
+        "gerstemoutmeel",
+        "gist",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
