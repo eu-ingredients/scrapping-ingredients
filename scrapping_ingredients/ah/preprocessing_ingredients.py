@@ -1,26 +1,46 @@
 import re
 
 
-def split_ingredients(ingredient_text: str) -> list[str]:
-    return ingredient_text.split(",")
+def split_ingredients(ingredients_text: str) -> list[str]:
+    # Ingedredients with brackets (like "meel (tarwe, wit)") are split into two
+    # ingredients (like "meel tarwe" and "meel wit")
+    ingredients_with_brackets = re.findall(r"[\w\s]*?\(.*?\)", ingredients_text)
+    for ingredient in ingredients_with_brackets:
+        # Remove the brackets
+        ingredient_base = re.findall(r"([\w\s]*?)\(.*?\)", ingredient)[0]
+        # Remove the leading and trailing spaces
+        ingredient_types_raw = re.findall(r"[\w\s]*?\((.*?)\)", ingredient)[0]
+        ingredient_types = split_ingredients(ingredient_types_raw)
+        # Merge them
+        ingredient_no_brackets = ", ".join(
+            [
+                f"{ingredient_base} {ingredient_type}"
+                for ingredient_type in ingredient_types
+            ]
+        )
+        # Add the ingredient without brackets to the list
+        ingredients_text = ingredients_text.replace(ingredient, ingredient_no_brackets)
+    # Remove all extra spaces
+    ingredients_text = re.sub(r"\s+", " ", ingredients_text)
+    return ingredients_text.split(", ")
 
 
-def preprocess_ingredients(ingredient_text: str) -> list[str]:
+def preprocess_ingredients(ingredients_text: str) -> list[str]:
     # Capital letters do not add the meaning we need
-    ingredient_text = ingredient_text.lower()
+    ingredients_text = ingredients_text.lower()
 
     # Remove all (19%) that are used
-    ingredient_text = re.sub("\(?[\d,]+%\)?", "", ingredient_text)
+    ingredients_text = re.sub("\(?[\d,]+%\)?", "", ingredients_text)
 
     # Remove the word "ingredient" and "ingrediënten"
-    ingredient_text = re.sub("ingredi[eë]nten", "", ingredient_text)
+    ingredients_text = re.sub("ingredi[eë]nten", "", ingredients_text)
 
     # When the string "Kan sporen " starts it is the end of the ingredients
-    ingredient_text = re.sub("kan sporen .*", "", ingredient_text)
-    ingredient_text = re.sub("kan bevatten.*", "", ingredient_text)
+    ingredients_text = re.sub("kan sporen .*", "", ingredients_text)
+    ingredients_text = re.sub("kan bevatten.*", "", ingredients_text)
 
     # Split based on ,
-    ingredients_raw = split_ingredients(ingredients_raw)
+    ingredients_raw = split_ingredients(ingredients_text)
 
     filtered_ingredients = []
     for ingredient in ingredients_raw:
