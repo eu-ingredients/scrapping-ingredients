@@ -1,37 +1,63 @@
 import re
 
 
+def remove_brackets_from_ingredients_text(ingredients_text: str) -> str:
+    ingredients_text = ingredients_text.replace("[", "(")
+    ingredients_text = ingredients_text.replace("]", ")")
+
+    while "(" in ingredients_text:
+        search_bracket_ingredient = re.search(r"[^,]*?\(", ingredients_text)
+
+        # Get the first ingredient with brackets
+        start_index = search_bracket_ingredient.start()
+        end_index = search_bracket_ingredient.end()
+        number_of_brackets = 1
+
+        while number_of_brackets > 0:
+            next_char = ingredients_text[end_index]
+            if next_char == "(":
+                number_of_brackets += 1
+            elif next_char == ")":
+                number_of_brackets -= 1
+            end_index += 1
+
+        full_ingredient = ingredients_text[start_index:end_index]
+
+        ing_raw, ing_base, ing_types_raw = re.findall(
+            r"(([^\(]*)\((.*)\))", full_ingredient
+        )[0]
+        if "(" in ing_types_raw:
+            ing_types_raw = remove_brackets_from_ingredients_text(ing_types_raw)
+
+        ing_types = ing_types_raw.split(",")
+
+        # Merge them
+        ing_no_brackets = ", ".join(
+            [f"{ing_base} {ingredient_type.strip()}" for ingredient_type in ing_types]
+        )
+        ingredients_text = ingredients_text.replace(ing_raw, ing_no_brackets)
+
+    return ingredients_text
+
+
+def clean_up_ingredient(ingredient: str) -> str:
+    # Remove all extra spaces
+    ingredient = re.sub(r"\s+", " ", ingredient)
+    return ingredient.strip()
+
+
 def split_ingredients(ingredients_text: str) -> list[str]:
     # Ingedredients with brackets (like "meel (tarwe, wit)") are split into two
     # ingredients (like "meel tarwe" and "meel wit")
-    ingredients_text = ingredients_text.replace("[", "(")
-    ingredients_text = ingredients_text.replace("]", ")")
-    ingredients_with_brackets = re.findall(r"[\w\s]*?\([\w\s,]*?\)", ingredients_text)
+    ingredients_text = remove_brackets_from_ingredients_text(ingredients_text)
 
-    # If there are brackets remove them
-    if len(ingredients_with_brackets) > 0:
-        ingredient = min(ingredients_with_brackets, key=len)
-        # Remove the brackets
-        ingredient_base = re.findall(r"([\w\s]*?)\([\w\s,]*?\)", ingredient)[0]
-        # Remove the leading and trailing spaces
-        ingredient_types_raw = re.findall(r"[\w\s]*?\(([\w\s,]*?)\)", ingredient)[0]
-        ingredient_types = ingredient_types_raw.split(",")
-        # Merge them
-        ingredient_no_brackets = ", ".join(
-            [
-                f"{ingredient_base} {ingredient_type}"
-                for ingredient_type in ingredient_types
-            ]
-        )
-        # Add the ingredient without brackets to the list
-        ingredients_text = ingredients_text.replace(ingredient, ingredient_no_brackets)
-
-        # If there were brackets run this function again
-        return split_ingredients(ingredients_text)
-    else:
-        # Remove all extra spaces
-        ingredients_text = re.sub(r"\s+", " ", ingredients_text)
-        return ingredients_text.split(",")
+    # Remove all extra spaces
+    ingredients_text = re.sub(r"\s+", " ", ingredients_text)
+    ingredients_list = ingredients_text.split(",")
+    ingredients_list = [
+        clean_up_ingredient(ingredient) for ingredient in ingredients_list
+    ]
+    return ingredients_list
 
 
 def preprocess_ingredients(ingredients_text: str) -> list[str]:
