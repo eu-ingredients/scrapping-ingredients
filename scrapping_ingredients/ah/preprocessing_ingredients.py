@@ -5,6 +5,13 @@ def remove_brackets_from_ingredients_text(ingredients_text: str) -> str:
     ingredients_text = ingredients_text.replace("[", "(")
     ingredients_text = ingredients_text.replace("]", ")")
 
+    if len(re.findall(r"\(", ingredients_text)) != len(
+        re.findall(r"\)", ingredients_text)
+    ):
+        raise ValueError(
+            f"Number of brackets is not equal in {ingredients_text}. "
+            f"Number of ( is {len(re.findall(r'\(', ingredients_text))} and number of ) is {len(re.findall(r'\)', ingredients_text))}"
+        )
     while "(" in ingredients_text:
         search_bracket_ingredient = re.search(r"[^,]*?\(", ingredients_text)
 
@@ -114,14 +121,19 @@ if __name__ == "__main__":
     products = json.loads(products_path.read_text(encoding="utf-8"))
 
     # Preprocess the ingredients
-    for _, product in products.items():
+    for product_url, product in products.items():
         ingredients = product["ingredients"]
         if len(ingredients) == 0:
             continue
         try:
             product["processed_ingredients"] = preprocess_ingredients(ingredients)
+        except ValueError as e:
+            print(f"ValueError for product {product_url}: {e}")
+            product["processed_ingredients"] = None
+            product["error"] = str(e)
+            continue
         except Exception as e:
-            print(f"Error processing ingredients for product {product['name']}: {e}")
+            print(f"Error processing ingredients for product {product_url}: {e}")
             raise e
 
     # Save the products

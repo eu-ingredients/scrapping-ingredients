@@ -1,3 +1,4 @@
+import pytest
 from ...ah.preprocessing_ingredients import preprocess_ingredients
 
 
@@ -208,3 +209,10 @@ def test_preprocess_ingredients_ah_pureersoep_broccoli_spinazie():
     result = preprocess_ingredients(ingredients_text)
 
     assert result == expected_result
+
+
+def test_preprocess_ingredients_unox_cup_a_soup_kip():
+    ingredients_text = "IngrediëntenIngrediënten: Deegwaar 24% (harde TARWEGRIES, zout), dextrose, aardappelzetmeel, aroma, wortel¹ 4,8%, zout, gistextract, suiker, palmvet, stukjes kippenvlees 2,3% (kippenvlees, palmolie, zout, antioxidant (E304i, E307), gejodeerd zout, mineraalzout (kalium), kippenvet 0,9% (kippenvet, antioxidant E392), prei¹, specerijen¹ (kurkuma, peterseliewortel), uipoeder¹, BLADSELDERIJ 0,2%. Kan ei, soja, melk, mosterd bevatten.¹ op duurzame wijze geteeld.Allergie-informatieBevat: Selderij, Glutenbevattende Granen, TarweKan bevatten: Soja, Eieren, Melk, Mosterd"
+
+    with pytest.raises(ValueError):
+        preprocess_ingredients(ingredients_text)
