@@ -239,6 +239,41 @@ def test_preprocess_ingredients_indo_mie_noodles_kip_smaak():
     assert result == expected_result
 
 
+def test_preprocess_ingredients_unox_good_noodles_pittige_kip():
+    ingredients_text = "IngrediëntenIngrediënten: Deegwaar (noedels) 86% (TARWEBLOEM, zonnebloemolie, zout, gemodificeerd zetmeel, suiker, rijsmiddelen (E500i, E501i), kurkuma-extract), zetmeel, smaakversterkers (E621, E631, E627), aroma, suiker, cayennepeper, mineraalzout (kalium), paprikapoeder, wortel¹, prei¹, gember 0,63%, knoflookpoeder¹, uienpoeder¹, rode chilipeper 0,31%, kleurstof (paprika-extract), peterselie¹ 0,16%, peper. Kan rogge, gerst, haver, ei, soja, melk, selderij, mosterd bevatten. ¹op duurzame wijze geteeld. Kijk voor meer informatie op: www.unox.nl.Allergie-informatieBevat: Tarwe, Glutenbevattende GranenKan bevatten: Rogge, Haver, Soja, Eieren, Mosterd, Selderij, Melk, Gerst"
+    expected_result = [
+        "deegwaar noedels tarwebloem",
+        "deegwaar noedels zonnebloemolie",
+        "deegwaar noedels zout",
+        "deegwaar noedels gemodificeerd zetmeel",
+        "deegwaar noedels suiker",
+        "deegwaar noedels rijsmiddelen e500i",
+        "deegwaar noedels rijsmiddelen e501i",
+        "deegwaar noedels kurkuma-extract",
+        "zetmeel",
+        "smaakversterkers e621",
+        "smaakversterkers e631",
+        "smaakversterkers e627",
+        "aroma",
+        "suiker",
+        "cayennepeper",
+        "mineraalzout kalium",
+        "paprikapoeder",
+        "wortel",
+        "prei",
+        "gember",
+        "knoflookpoeder",
+        "uienpoeder",
+        "rode chilipeper",
+        "kleurstof paprika-extract",
+        "peterselie",
+        "peper",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
 def test_preprocess_ingredients_unox_cup_a_soup_kip():
     ingredients_text = "IngrediëntenIngrediënten: Deegwaar 24% (harde TARWEGRIES, zout), dextrose, aardappelzetmeel, aroma, wortel¹ 4,8%, zout, gistextract, suiker, palmvet, stukjes kippenvlees 2,3% (kippenvlees, palmolie, zout, antioxidant (E304i, E307), gejodeerd zout, mineraalzout (kalium), kippenvet 0,9% (kippenvet, antioxidant E392), prei¹, specerijen¹ (kurkuma, peterseliewortel), uipoeder¹, BLADSELDERIJ 0,2%. Kan ei, soja, melk, mosterd bevatten.¹ op duurzame wijze geteeld.Allergie-informatieBevat: Selderij, Glutenbevattende Granen, TarweKan bevatten: Soja, Eieren, Melk, Mosterd"
 
