@@ -72,8 +72,10 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     # Capital letters do not add the meaning we need
     ingredients_text = ingredients_text.lower()
 
-    # Remove all 19,3% 12 % and 43.1% that are used
-    ingredients_text = re.sub(r"[\d,\.]+\s?%", "", ingredients_text)
+    # Remove all 19,3% 12 % and 43.1g that are used
+    # It needs to start with a digit
+    ingredients_text = re.sub(r"\d[\d,\.]+\s?%", "", ingredients_text)
+    ingredients_text = re.sub(r"\d[\d,\.]+\s?g", "", ingredients_text)
 
     # Remove the word "ingredient" and "ingrediënten"
     ingredients_text = re.sub(r"ingredi[eë]nten", "", ingredients_text)
