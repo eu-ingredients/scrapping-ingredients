@@ -282,6 +282,30 @@ def test_preprocess_ingredients_wasa_dun_rogge_volkoren():
     assert result == expected_result
 
 
+def test_preprocess_ingredients_ah_rauwkost_amsterdamse_uin():
+    ingredients_text = "Ingrediënten: 29% spitskool, 28% rettich, 20% rode paprika, zilverui, 2% bieslook, 2% peterselie, water, azijn, zout, aroma, zuurteregelaar (calciumchloride [E509]), zoetstof (sacharine [E954]), conserveermiddel (natriumbenzoaat [E211]), antioxidant (natriumdisulfiet [E223]), kleurstof (riboflavine [E101]).Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.01g per 100 gram"
+    expected_result = [
+        "spitskool",
+        "rettich",
+        "rode paprika",
+        "zilverui",
+        "bieslook",
+        "peterselie",
+        "water",
+        "azijn",
+        "zout",
+        "aroma",
+        "zuurteregelaar calciumchloride e509",
+        "zoetstof sacharine e954",
+        "conserveermiddel natriumbenzoaat e211",
+        "antioxidant natriumdisulfiet e223",
+        "kleurstof riboflavine e101",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
 def test_preprocess_ingredients_unox_cup_a_soup_kip():
     ingredients_text = "IngrediëntenIngrediënten: Deegwaar 24% (harde TARWEGRIES, zout), dextrose, aardappelzetmeel, aroma, wortel¹ 4,8%, zout, gistextract, suiker, palmvet, stukjes kippenvlees 2,3% (kippenvlees, palmolie, zout, antioxidant (E304i, E307), gejodeerd zout, mineraalzout (kalium), kippenvet 0,9% (kippenvet, antioxidant E392), prei¹, specerijen¹ (kurkuma, peterseliewortel), uipoeder¹, BLADSELDERIJ 0,2%. Kan ei, soja, melk, mosterd bevatten.¹ op duurzame wijze geteeld.Allergie-informatieBevat: Selderij, Glutenbevattende Granen, TarweKan bevatten: Soja, Eieren, Melk, Mosterd"
 
