@@ -211,6 +211,34 @@ def test_preprocess_ingredients_ah_pureersoep_broccoli_spinazie():
     assert result == expected_result
 
 
+def test_preprocess_ingredients_indo_mie_noodles_kip_smaak():
+    ingredients_text = "IngrediëntenIngrediënten: Noedels (87.8%): TARWEMEEL, palmolie (antioxidant: TBHQ), tapiocazetmeel, zout, emulgator (SOJAlecithinen), zuurteregelaars (natirumcarbonaten, kaliumcarbonaten), Kruiding (11.7%): Zout, smaakversterker (mononatriumglutamaat, dinatriuminosinaat, dinatriumguanylaat), getextureerde plantaardige proteïne, gedroogde groenten, kunstmatige kipsmaak (GRONDNOOT, SESAM), witte peper, knoflook, ui, karamel kleur. Chili poeder (0.5%). BEVATTEN: TARWE, SOJA, SESAM, GRONDNOOT. GEPRODUCEERD IN EEN FACILITEIT WAAR OOK PRODUCTEN WORDEN VERWERKT DIE SCHAALDIEREN, VIS, EI, ZUIVEL, SELDERIJ EN KEMIRINOOT BEVATTEN.Allergie-informatieBevat: Tarwe, Soja, Sesamzaad, Pinda's, Glutenbevattende GranenKan bevatten: Schaaldieren, Vis, Eieren, Selderij"
+    expected_result = [
+        "noedels tarwemeel",
+        "palmolie antioxidant tbhq",
+        "tapiocazetmeel",
+        "zout",
+        "emulgator sojalecithinen",
+        "zuurteregelaars natirumcarbonaten",
+        "zuurteregelaars kaliumcarbonaten",
+        "kruiding zout",
+        "smaakversterker mononatriumglutamaat",
+        "smaakversterker dinatriuminosinaat",
+        "smaakversterker dinatriumguanylaat",
+        "getextureerde plantaardige proteïne",
+        "gedroogde groenten",
+        "kunstmatige kipsmaak grondnoot",
+        "kunstmatige kipsmaak sesam",
+        "witte peper",
+        "knoflook",
+        "ui",
+        "karamel kleur chili poeder",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
 def test_preprocess_ingredients_unox_cup_a_soup_kip():
     ingredients_text = "IngrediëntenIngrediënten: Deegwaar 24% (harde TARWEGRIES, zout), dextrose, aardappelzetmeel, aroma, wortel¹ 4,8%, zout, gistextract, suiker, palmvet, stukjes kippenvlees 2,3% (kippenvlees, palmolie, zout, antioxidant (E304i, E307), gejodeerd zout, mineraalzout (kalium), kippenvet 0,9% (kippenvet, antioxidant E392), prei¹, specerijen¹ (kurkuma, peterseliewortel), uipoeder¹, BLADSELDERIJ 0,2%. Kan ei, soja, melk, mosterd bevatten.¹ op duurzame wijze geteeld.Allergie-informatieBevat: Selderij, Glutenbevattende Granen, TarweKan bevatten: Soja, Eieren, Melk, Mosterd"
 

@@ -49,6 +49,7 @@ def remove_brackets_from_ingredients_text(ingredients_text: str) -> str:
 
 def clean_up_ingredient(ingredient: str) -> str:
     # Remove all extra spaces
+    ingredient = re.sub(r"[\.:\*]", "", ingredient)
     ingredient = re.sub(r"\s+", " ", ingredient)
     return ingredient.strip()
 
@@ -71,8 +72,8 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     # Capital letters do not add the meaning we need
     ingredients_text = ingredients_text.lower()
 
-    # Remove all (19%) that are used
-    ingredients_text = re.sub(r"[\d,]+\s?%", "", ingredients_text)
+    # Remove all 19,3% 12 % and 43.1% that are used
+    ingredients_text = re.sub(r"[\d,\.]+\s?%", "", ingredients_text)
 
     # Remove the word "ingredient" and "ingrediënten"
     ingredients_text = re.sub(r"ingredi[eë]nten", "", ingredients_text)
@@ -80,36 +81,17 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
     # When the string "Kan sporen " starts it is the end of the ingredients
     ingredients_text = re.sub(r"kan sporen .*", "", ingredients_text)
     ingredients_text = re.sub(r"kan bevatten.*", "", ingredients_text)
+    ingredients_text = re.sub(r"bevatten:.*", "", ingredients_text)
     ingredients_text = re.sub(r"waarvan toegevoegd.*", "", ingredients_text)
     ingredients_text = re.sub(r"allergie-informatie.*", "", ingredients_text)
     ingredients_text = re.sub(r"kan [\w\d\s]*? bevatten.*", "", ingredients_text)
 
     # Split based on ,
-    ingredients_raw = split_ingredients(ingredients_text)
+    ingredients = split_ingredients(ingredients_text)
 
-    filtered_ingredients = []
-    for ingredient in ingredients_raw:
-        # Remove symbols that are not letters
-        ingredient_filtered = re.sub(r"[\.:\*]", "", ingredient)
-
-        # I the string is empty it was not an ingredient
-        if len(ingredient_filtered) == 0:
-            continue
-
-        # Remove leading space
-        if ingredient_filtered[0] == " ":
-            ingredient_filtered = ingredient_filtered[1:]
-        if len(ingredient_filtered) == 0:
-            continue
-
-        # Remove trailing space
-        if ingredient_filtered[-1] == " ":
-            ingredient_filtered = ingredient_filtered[:-1]
-        if len(ingredient_filtered) == 0:
-            continue
-
-        filtered_ingredients.append(ingredient_filtered)
-    return filtered_ingredients
+    if "" in ingredients:
+        ingredients.remove("")
+    return ingredients
 
 
 if __name__ == "__main__":
