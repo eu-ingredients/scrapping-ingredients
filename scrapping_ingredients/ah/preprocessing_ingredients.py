@@ -119,12 +119,14 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
 if __name__ == "__main__":
     from pathlib import Path
     import json
+    import time
 
     # Load the products
     products_path = Path(__file__).parent / "products.json"
     products = json.loads(products_path.read_text(encoding="utf-8"))
 
     # Preprocess the ingredients
+    start_time = time.time()
     for product_url, product in products.items():
         ingredients = product["ingredients"]
         if len(ingredients) == 0:
@@ -139,7 +141,10 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Error processing ingredients for product {product_url}: {e}")
             raise e
-
+    # Preprocessing completed for 1186 products in 0.13 seconds
+    print(
+        f"Preprocessing completed for {len(products)} products in {time.time() - start_time:.2f} seconds"
+    )
     # Save the products
     with open("products.json", "w", encoding="utf-8") as f:
         json.dump(products, f, ensure_ascii=False, indent=4)
