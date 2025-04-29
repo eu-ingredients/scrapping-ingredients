@@ -1,6 +1,7 @@
 import re
 
 import ollama
+from tqdm import tqdm
 
 ollama.create(
     model="ingredients-preprocessing",
@@ -18,7 +19,7 @@ def preprocess_ingredients(ingredients_text: str) -> list[str]:
         prompt=ingredients_text,
     )
     ingredients_raw = response.response
-    ingredients_list = re.findall(r"[\d+\.\s]*(.*)\n", ingredients_raw)
+    ingredients_list = re.findall(r"[\d+\.\s\-\*]*(.*)\n", ingredients_raw)
     return ingredients_list
 
 
@@ -34,7 +35,7 @@ if __name__ == "__main__":
     # Preprocess the ingredients
     start_time = time.time()
     print("Preprocessing ingredients...")
-    for product_url, product in products.items():
+    for product_url, product in tqdm(products.items()):
         ingredients = product["ingredients"]
         if len(ingredients) == 0:
             continue

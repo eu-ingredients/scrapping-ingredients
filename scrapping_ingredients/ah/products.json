@@ -461,7 +461,7 @@
         "url": "https://www.ah.nl/producten/product/wi465600/ah-snoepgroente-komkommer",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi225345/barber-cream-crackers": {
@@ -813,7 +813,7 @@
     },
     "https://www.ah.nl/producten/product/wi135608/ah-meergranenbiscuit-rozijn": {
         "name": "AH Meergranenbiscuit rozijn",
-        "ingredients": "IngrediëntenIngrediënten: 23% tarwebloem, krent, rozijn, 10% volkoren havermeel, 10% volkoren tarwemeel, suiker, plantaardige olie (palm, raap, zonnebloem), voedingsvezel (inuline), 3,4% volkoren havervlokken, 3,4% gerstemoutextract, mineralen (calcium, ijzer), rijsmiddel (ammoniumcarbonaat [E503], natriumcarbonaat [E500]), melkeiwit, emulgator (mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e]), vitamine B6, invertsuikerstroop, zout, gerstemoutmeel, vanillearoma (melk), dextrose, antioxidant (extracten van rozemarijn [E392]).Waarvan toegevoegde suikers 11g per 100 gram en waarvan toegevoegd zout 0.06g per 100 gramAllergie-informatieBevat: Melk, Glutenbevattende Granen, Gerst, Haver, Lactose, TarweKan bevatten: Eieren, Noten, Pinda's, Sesamzaad, Soja, Khorasantarwe, Spelt, Rogge, Amandel, Cashewnoot, Hazelnoot, Macadamianoot, Pecannoot, Paranoot, Pistachenoot, Walnoot",
+        "ingredients": "IngrediëntenIngrediënten: 23% tarwebloem, krent, rozijn, 10% volkoren havermeel, 10% volkoren tarwemeel, suiker, plantaardige olie (palm, raap, zonnebloem), voedingsvezel (inuline), 3,4% volkoren havervlokken, 3,4% gerstemoutextract, mineralen (calcium, ijzer), rijsmiddel (ammoniumcarbonaat [E503], natriumcarbonaat [E500]), melkeiwit, emulgator (monoen diglyceriden van vetzuren, veresterd met monoacetylen diacetylwijnsteenzuur [E472e]), vitamine B6, invertsuikerstroop, zout, gerstemoutmeel, vanillearoma (melk), dextrose, antioxidant (extracten van rozemarijn [E392]).Waarvan toegevoegde suikers 11g per 100 gram en waarvan toegevoegd zout 0.06g per 100 gramAllergie-informatieBevat: Melk, Glutenbevattende Granen, Gerst, Haver, Lactose, TarweKan bevatten: Eieren, Noten, Pinda's, Sesamzaad, Soja, Khorasantarwe, Spelt, Rogge, Amandel, Cashewnoot, Hazelnoot, Macadamianoot, Pecannoot, Paranoot, Pistachenoot, Walnoot",
         "url": "https://www.ah.nl/producten/product/wi135608/ah-meergranenbiscuit-rozijn",
         "processed_ingredients": [
             "tarwebloem",
@@ -833,8 +833,8 @@
             "rijsmiddel ammoniumcarbonaat e503",
             "rijsmiddel natriumcarbonaat e500",
             "melkeiwit",
-            "emulgator mono- en diglyceriden van vetzuren",
-            "emulgator veresterd met monoacetyl- en diacetylwijnsteenzuur e472e",
+            "emulgator monoen diglyceriden van vetzuren",
+            "emulgator veresterd met monoacetylen diacetylwijnsteenzuur e472e",
             "vitamine b6",
             "invertsuikerstroop",
             "zout",
@@ -859,8 +859,8 @@
             "Ammoniumcarbonaat [E503]",
             "Natriumcarbonaat [E500]",
             "Melkeiwit",
-            "Mono- en diglyceriden van vetzuren",
-            "Veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e]",
+            "Monoen diglyceriden van vetzuren",
+            "Veresterd met monoacetylen diacetylwijnsteenzuur [E472e]",
             "Vitamine B6",
             "Invertsuikerstroop",
             "Zout",
@@ -1191,7 +1191,7 @@
     },
     "https://www.ah.nl/producten/product/wi419899/wasa-glutenvrij-en-lactosevrij-classic": {
         "name": "Wasa Glutenvrij en lactosevrij classic",
-        "ingredients": "IngrediëntenIngrediënten: Aardappelzetmeel, amaranthmeel, zonnebloemolie, rijstmeel, suikerrietvezel, suiker, rijstzuurdesempoeder (rijstmeel, water), emulgator (mono- en diglyceriden van vetzuren), gist, verdikkingsmiddel (hydroxypropylmethylcellulose), rijst proteïne, zout, venkelzaad, anijszaad, komijn. Kan sporen van SESAMZAAD en MELK bevatten.Allergie-informatieKan bevatten: Sesamzaad, Melk",
+        "ingredients": "IngrediëntenIngrediënten: Aardappelzetmeel, amaranthmeel, zonnebloemolie, rijstmeel, suikerrietvezel, suiker, rijstzuurdesempoeder (rijstmeel, water), emulgator (monoen diglyceriden van vetzuren), gist, verdikkingsmiddel (hydroxypropylmethylcellulose), rijst proteïne, zout, venkelzaad, anijszaad, komijn. Kan sporen van SESAMZAAD en MELK bevatten.Allergie-informatieKan bevatten: Sesamzaad, Melk",
         "url": "https://www.ah.nl/producten/product/wi419899/wasa-glutenvrij-en-lactosevrij-classic",
         "processed_ingredients": [
             "aardappelzetmeel",
@@ -1202,7 +1202,7 @@
             "suiker",
             "rijstzuurdesempoeder rijstmeel",
             "rijstzuurdesempoeder water",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "gist",
             "verdikkingsmiddel hydroxypropylmethylcellulose",
             "rijst proteïne",
@@ -1221,7 +1221,7 @@
             "Suiker",
             "Rijst proteïne",
             "Gist",
-            "Emulgator (mono- en diglyceriden van vetzuren)",
+            "Emulgator (monoen diglyceriden van vetzuren)",
             "Verdikkingsmiddel (hydroxypropylmethylcellulose)",
             "Venkelzaad",
             "Anijszaad"
@@ -1608,15 +1608,15 @@
             "% granaatappel",
             "Water",
             "Zoetstoffen:",
-            "- erytritol",
-            "- steviolglycosiden uit Stevia",
+            "erytritol",
+            "steviolglycosiden uit Stevia",
             "Gemodificeerd maïszetmeel",
             "Aroma"
         ]
     },
     "https://www.ah.nl/producten/product/wi560851/ah-protein-bar-melk-choco-pinda-karamel": {
         "name": "AH Protein bar melk choco pinda karamel",
-        "ingredients": "IngrediëntenIngrediënten: melkeiwit, 13% pinda, collageenhydrolysaat, zoetstof (maltitolen [E965]), voedingsvezel (polydextrose), bevochtigingsmiddel (glycerol [E422], sorbitolen [E420]), cacaoboter°, wei-eiwit, water, vollemelkpoeder, cacaomassa°, gecondenseerde melk, 1,7% pindapasta, palmvet, zout, natuurlijke aroma´s, kleurstof (karamel [E150a]), magerecacaopoeder°, vulstof (cellulose [E460]), emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322(soja)]), vanille-extract.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.31g per 100 gram°Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.orgAllergie-informatieBevat: Melk, Pinda's, Soja, LactoseKan bevatten: Eieren, Noten, Glutenbevattende Granen, Gerst, Amandel, Cashewnoot, Hazelnoot, Macadamianoot, Pecannoot, Paranoot, Pistachenoot, Walnoot, Tarwe",
+        "ingredients": "IngrediëntenIngrediënten: melkeiwit, 13% pinda, collageenhydrolysaat, zoetstof (maltitolen [E965]), voedingsvezel (polydextrose), bevochtigingsmiddel (glycerol [E422], sorbitolen [E420]), cacaoboter°, wei-eiwit, water, vollemelkpoeder, cacaomassa°, gecondenseerde melk, 1,7% pindapasta, palmvet, zout, natuurlijke aroma´s, kleurstof (karamel [E150a]), magerecacaopoeder°, vulstof (cellulose [E460]), emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322(soja)]), vanille-extract.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.31g per 100 gram°Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.orgAllergie-informatieBevat: Melk, Pinda's, Soja, LactoseKan bevatten: Eieren, Noten, Glutenbevattende Granen, Gerst, Amandel, Cashewnoot, Hazelnoot, Macadamianoot, Pecannoot, Paranoot, Pistachenoot, Walnoot, Tarwe",
         "url": "https://www.ah.nl/producten/product/wi560851/ah-protein-bar-melk-choco-pinda-karamel",
         "processed_ingredients": [
             "melkeiwit",
@@ -1639,7 +1639,7 @@
             "kleurstof karamel e150a",
             "magerecacaopoeder°",
             "vulstof cellulose e460",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "emulgator lecithinen e322 soja",
             "vanille-extract"
         ],
@@ -1663,7 +1663,7 @@
             "Kleurstof (karamel [E150a])",
             "Magerecacaopoeder°",
             "Vulstof (cellulose [E460])",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322(soja)])"
+            "Emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322(soja)])"
         ]
     },
     "https://www.ah.nl/producten/product/wi575532/ah-protein-pudding-vanille-smaak": {
@@ -1769,13 +1769,13 @@
     },
     "https://www.ah.nl/producten/product/wi515726/danoontje-knijpyoghurt-banaan": {
         "name": "Danoontje Knijpyoghurt banaan",
-        "ingredients": "IngrediëntenIngrediënten: Yoghurt (MELK), banaan (6,2%), suiker (4,6%), verdikkingsmiddelen (gemodificeerd tapioca- en maïszetmeel), mineraal (tricalciumcitraat), natuurlijke aroma's, vitamine D, zuurteregelaar (geconcentreerd citroensap)Allergie-informatieBevat: Melk",
+        "ingredients": "IngrediëntenIngrediënten: Yoghurt (MELK), banaan (6,2%), suiker (4,6%), verdikkingsmiddelen (gemodificeerd tapiocaen maïszetmeel), mineraal (tricalciumcitraat), natuurlijke aroma's, vitamine D, zuurteregelaar (geconcentreerd citroensap)Allergie-informatieBevat: Melk",
         "url": "https://www.ah.nl/producten/product/wi515726/danoontje-knijpyoghurt-banaan",
         "processed_ingredients": [
             "yoghurt melk",
             "banaan",
             "suiker",
-            "verdikkingsmiddelen gemodificeerd tapioca- en maïszetmeel",
+            "verdikkingsmiddelen gemodificeerd tapiocaen maïszetmeel",
             "mineraal tricalciumcitraat",
             "natuurlijke aroma's",
             "vitamine d",
@@ -1786,9 +1786,9 @@
             "banaan",
             "suiker",
             "verdikkingsmiddelen ",
-            "- gemodificeerd tapioca- en maïszetmeel",
+            "gemodificeerd tapiocaen maïszetmeel",
             "mineraal ",
-            "- tricalciumcitraat",
+            "tricalciumcitraat",
             "natuurlijke aroma's",
             "vitamine D"
         ]
@@ -1802,10 +1802,10 @@
             "cherrytomaat geel in wisselende verhoudingen"
         ],
         "ai_processed_ingredients": [
-            "- Mini pruimtaat",
-            "- Rode mini pruimtaat",
-            "- Oranje mini pruimtaat",
-            "- Cherrytomaat"
+            "Mini pruimtaat",
+            "Rode mini pruimtaat",
+            "Oranje mini pruimtaat",
+            "Cherrytomaat"
         ]
     },
     "https://www.ah.nl/producten/product/wi504934/yum-yum-chicken-5-pack": {
@@ -1864,9 +1864,9 @@
             "antioxidant ascorbinezuur e300"
         ],
         "ai_processed_ingredients": [
-            "- Ananas",
-            "- Rode appel",
-            "- Druif"
+            "Ananas",
+            "Rode appel",
+            "Druif"
         ]
     },
     "https://www.ah.nl/producten/product/wi520225/hipro-protein-kwark-banaan": {
@@ -2324,9 +2324,9 @@
             "radijs wit in wisselende verhoudingen"
         ],
         "ai_processed_ingredients": [
-            "- Radijs",
-            "- Paars",
-            "- Rood"
+            "Radijs",
+            "Paars",
+            "Rood"
         ]
     },
     "https://www.ah.nl/producten/product/wi376943/wasa-delicate-crackers-sea-salt": {
@@ -2499,9 +2499,9 @@
             "antioxidant calciumascorbaat e302"
         ],
         "ai_processed_ingredients": [
-            "- Ananas",
-            "- Cantaloupe",
-            "- Kiwi"
+            "Ananas",
+            "Cantaloupe",
+            "Kiwi"
         ]
     },
     "https://www.ah.nl/producten/product/wi556293/ah-protein-pudding-chocoladesmaak": {
@@ -2557,7 +2557,7 @@
     },
     "https://www.ah.nl/producten/product/wi520134/hipro-protein-kwark-bosvruchten": {
         "name": "HiPRO Protein kwark bosvruchten",
-        "ingredients": "Ingrediëntenmagere kwark (50,6%) (melk), yoghurt (melk), bosvruchten (6,1%) (braam (2,9%), aardbei (1,4%), bosbes (0,8%), zwarte bes (0,4%), rode bes (0,4%), framboos (0,2%)), gemodificeerd zetmeel, zuurteregelaar (appelzuur), natuurlijke aroma's, wortel- en blauwbesconcentraat, concentraat van melkmineralen, verdikkingsmiddel (pectinen), zoetstoffen (acesulfaam-K, sucralose), magnesium, vitamine B9 (foliumzuur).",
+        "ingredients": "Ingrediëntenmagere kwark (50,6%) (melk), yoghurt (melk), bosvruchten (6,1%) (braam (2,9%), aardbei (1,4%), bosbes (0,8%), zwarte bes (0,4%), rode bes (0,4%), framboos (0,2%)), gemodificeerd zetmeel, zuurteregelaar (appelzuur), natuurlijke aroma's, wortelen blauwbesconcentraat, concentraat van melkmineralen, verdikkingsmiddel (pectinen), zoetstoffen (acesulfaam-K, sucralose), magnesium, vitamine B9 (foliumzuur).",
         "processed_ingredients": [
             "magere kwark melk",
             "yoghurt melk",
@@ -2570,7 +2570,7 @@
             "gemodificeerd zetmeel",
             "zuurteregelaar appelzuur",
             "natuurlijke aroma's",
-            "wortel- en blauwbesconcentraat",
+            "wortelen blauwbesconcentraat",
             "concentraat van melkmineralen",
             "verdikkingsmiddel pectinen",
             "zoetstoffen acesulfaam-k",
@@ -2650,17 +2650,17 @@
             "raorg"
         ],
         "ai_processed_ingredients": [
-            "- MELK",
-            "- MELKeiwitten",
-            "- erytritol",
-            "- steviolglycosiden uit Stevia",
-            "- magere cacaopoeder",
-            "- carrageen",
-            "- guarpitmeel",
-            "- BCAA: leucine, isoleucine en valine",
-            "- natuurlijk aroma",
-            "- magnesiumcarbonaat",
-            "- vitamine D3"
+            "MELK",
+            "MELKeiwitten",
+            "erytritol",
+            "steviolglycosiden uit Stevia",
+            "magere cacaopoeder",
+            "carrageen",
+            "guarpitmeel",
+            "BCAA: leucine, isoleucine en valine",
+            "natuurlijk aroma",
+            "magnesiumcarbonaat",
+            "vitamine D3"
         ]
     },
     "https://www.ah.nl/producten/product/wi32677/hollandia-matzecrackers-naturel": {
@@ -3100,9 +3100,9 @@
         "ingredients": "IngrediëntenIngrediënten: Waarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliterAllergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker",
-            "- Zout",
-            "- Melk"
+            "Suiker",
+            "Zout",
+            "Melk"
         ]
     },
     "https://www.ah.nl/producten/product/wi505200/liga-proteine-reep-pinda": {
@@ -4873,14 +4873,14 @@
     },
     "https://www.ah.nl/producten/product/wi515846/hipro-protein-mousse-dark-chocolate": {
         "name": "HiPRO Protein mousse dark chocolate",
-        "ingredients": "IngrediëntenIngrediënten: Magere MELK, volle MELK, MELKeiwit, cacaopoeder (4%), gemodificeerd zetmeel, emulgator (melkesters van mono- en diglycerides), rundergelatine, stabilisator (natriumcitraten), zoetstof (sucralose)Kan bevatten: soja en noten.Allergie-informatieBevat: MelkKan bevatten: Noten, Soja",
+        "ingredients": "IngrediëntenIngrediënten: Magere MELK, volle MELK, MELKeiwit, cacaopoeder (4%), gemodificeerd zetmeel, emulgator (melkesters van monoen diglycerides), rundergelatine, stabilisator (natriumcitraten), zoetstof (sucralose)Kan bevatten: soja en noten.Allergie-informatieBevat: MelkKan bevatten: Noten, Soja",
         "processed_ingredients": [
             "magere melk",
             "volle melk",
             "melkeiwit",
             "cacaopoeder",
             "gemodificeerd zetmeel",
-            "emulgator melkesters van mono- en diglycerides",
+            "emulgator melkesters van monoen diglycerides",
             "rundergelatine",
             "stabilisator natriumcitraten",
             "zoetstof sucralose"
@@ -4891,7 +4891,7 @@
             "MELKeiwit",
             "Cacaopoeder (4%)",
             "Gemodificeerd zetmeel",
-            "Emulgator (melkesters van mono- en diglycerides)",
+            "Emulgator (melkesters van monoen diglycerides)",
             "Rundergelatine",
             "Stabilisator (natriumcitraten)",
             "Zoetstof (sucralose)",
@@ -5762,7 +5762,7 @@
     },
     "https://www.ah.nl/producten/product/wi575472/danio-luchtige-kwark-perzik-passievrucht": {
         "name": "Danio Luchtige kwark perzik passievrucht",
-        "ingredients": "IngrediëntenIngrediënten: Magere MELK, magere kwark (MELK) (28,5%), room (MELK), suiker, perzik (7%), passievruchtsap uit concentraat (1,6%), glucose-fructosestroop, kleurstof (carotenen), gemodificeerd maïszetmeel, varkensgelatine, verdikkingsmiddelen (pectinen, guarpitmeel), zuurteregelaars (natriumcitraten, citroenzuur), wortel- en pompoenconcentraat, aroma's, MELKfermentenAllergie-informatieBevat: Melk",
+        "ingredients": "IngrediëntenIngrediënten: Magere MELK, magere kwark (MELK) (28,5%), room (MELK), suiker, perzik (7%), passievruchtsap uit concentraat (1,6%), glucose-fructosestroop, kleurstof (carotenen), gemodificeerd maïszetmeel, varkensgelatine, verdikkingsmiddelen (pectinen, guarpitmeel), zuurteregelaars (natriumcitraten, citroenzuur), wortelen pompoenconcentraat, aroma's, MELKfermentenAllergie-informatieBevat: Melk",
         "processed_ingredients": [
             "magere melk",
             "magere kwark melk",
@@ -5778,7 +5778,7 @@
             "verdikkingsmiddelen guarpitmeel",
             "zuurteregelaars natriumcitraten",
             "zuurteregelaars citroenzuur",
-            "wortel- en pompoenconcentraat",
+            "wortelen pompoenconcentraat",
             "aroma's",
             "melkfermenten"
         ],
@@ -5795,7 +5795,7 @@
             "Varke ngelatine",
             "Verdikkingsmiddelen (pectinen, guarpitmeel)",
             "Zuurteregelaars (natriumcitraten, citroenzuur)",
-            "Wortel- en pompoenconcentraat",
+            "Wortelen pompoenconcentraat",
             "Aroma's"
         ]
     },
@@ -5886,7 +5886,7 @@
     },
     "https://www.ah.nl/producten/product/wi365872/starbucks-cappuccino": {
         "name": "Starbucks Cappuccino",
-        "ingredients": "IngrediëntenIngrediënten: MELK (3,0% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (19,8%), suiker (4,7%), magere cacaopoeder (0,1%), natuurlijke aroma's, zuurteregelaar (kaliumcarbonaat), emulgatoren (mono- en diglyceriden van vetzuren van plantaardige oorsprong), stabilisatoren (carrageenan, guarpitmeel)For allergens, see ingredients in HOOFDLETTERS.Allergie-informatieBevat: Melk",
+        "ingredients": "IngrediëntenIngrediënten: MELK (3,0% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (19,8%), suiker (4,7%), magere cacaopoeder (0,1%), natuurlijke aroma's, zuurteregelaar (kaliumcarbonaat), emulgatoren (monoen diglyceriden van vetzuren van plantaardige oorsprong), stabilisatoren (carrageenan, guarpitmeel)For allergens, see ingredients in HOOFDLETTERS.Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
             "starbucks® arabica koffie water",
@@ -5895,7 +5895,7 @@
             "magere cacaopoeder",
             "natuurlijke aroma's",
             "zuurteregelaar kaliumcarbonaat",
-            "emulgatoren mono- en diglyceriden van vetzuren van plantaardige oorsprong",
+            "emulgatoren monoen diglyceriden van vetzuren van plantaardige oorsprong",
             "stabilisatoren carrageenan",
             "stabilisatoren guarpitmeelfor allergens",
             "see ingredients in hoofdletters"
@@ -5907,7 +5907,7 @@
             "magere cacaopoeder",
             "natuurlijke aroma's",
             "zuurteregelaar (kaliumcarbonaat)",
-            "emulgatoren (mono- en diglyceriden van vetzuren van plantaardige oorsprong)"
+            "emulgatoren (monoen diglyceriden van vetzuren van plantaardige oorsprong)"
         ]
     },
     "https://www.ah.nl/producten/product/wi586041/ah-galia-meloen": {
@@ -5917,8 +5917,8 @@
             "galiameloen"
         ],
         "ai_processed_ingredients": [
-            "- Galiameloen",
-            "- Suiker"
+            "Galiameloen",
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi209333/bolletje-ontbijtkoek-naturel-gesneden": {
@@ -6459,8 +6459,8 @@
             "kokos"
         ],
         "ai_processed_ingredients": [
-            "- Kokos",
-            "- Suiker"
+            "Kokos",
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi513498/bolletje-vezelrijk-boeren-beschuit-volkoren": {
@@ -6575,7 +6575,7 @@
     },
     "https://www.ah.nl/producten/product/wi456008/wasa-sesame-en-sea-salt-glutenvrij": {
         "name": "Wasa Sesame & sea salt glutenvrij",
-        "ingredients": "IngrediëntenIngrediënten: Aardappelzetmeel,SESAMZAAD (9,2%), amaranthmeel,koolzaadolie, rijstebloem, suikerrietvezel,suiker, rijstzuurdesempoeder (rijstmeel,water), emulgator (mono- en diglyceriden vanvetzuren), gist, verdikkingsmiddel(hydroxypropylmethylcellulose), rijst proteïne,zout, zeezout (0,4%). Kan sporen van MELK bevatten.Allergie-informatieBevat: SesamzaadKan bevatten: Melk",
+        "ingredients": "IngrediëntenIngrediënten: Aardappelzetmeel,SESAMZAAD (9,2%), amaranthmeel,koolzaadolie, rijstebloem, suikerrietvezel,suiker, rijstzuurdesempoeder (rijstmeel,water), emulgator (monoen diglyceriden vanvetzuren), gist, verdikkingsmiddel(hydroxypropylmethylcellulose), rijst proteïne,zout, zeezout (0,4%). Kan sporen van MELK bevatten.Allergie-informatieBevat: SesamzaadKan bevatten: Melk",
         "processed_ingredients": [
             "aardappelzetmeel",
             "sesamzaad",
@@ -6586,7 +6586,7 @@
             "suiker",
             "rijstzuurdesempoeder rijstmeel",
             "rijstzuurdesempoeder water",
-            "emulgator mono- en diglyceriden vanvetzuren",
+            "emulgator monoen diglyceriden vanvetzuren",
             "gist",
             "verdikkingsmiddel hydroxypropylmethylcellulose",
             "rijst proteïne",
@@ -6602,7 +6602,7 @@
             "Suikerrietvezel",
             "Suiker",
             "Rijstzuurdesempoeder (rijstmeel, water)",
-            "Emulgator (mono- en diglyceriden van vetzuren)",
+            "Emulgator (monoen diglyceriden van vetzuren)",
             "Gist",
             "Verdikkingsmiddel (hydroxypropylmethylcellulose)",
             "Rijst proteïne",
@@ -7446,7 +7446,7 @@
     },
     "https://www.ah.nl/producten/product/wi585990/ah-protein-kwark-bar-mango": {
         "name": "AH Protein kwark bar mango",
-        "ingredients": "IngrediëntenIngrediënten: magere kwark, wei-eiwit, plantaardige olie (palmpit, palm, shea), water, zoetstof (maltitolen [E965], sucralose [E955], acesulfaam-K [E950]), 3,2% magerecacaopoeder°, mango, varkensgelatine, weipoeder, emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476]), gemodificeerd maïszetmeel, aroma, verdikkingsmiddel (pectinen [E440]), kleurend concentraat (appel, wortel, citroen), zuurteregelaar (citroenzuur [E330], natriumcitraten [E331], calciumcitraten [E333]), conserveermiddel (kaliumsorbaat [E202]), vanilline. Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gramAllergie-informatieBevat: Melk, Lactose",
+        "ingredients": "IngrediëntenIngrediënten: magere kwark, wei-eiwit, plantaardige olie (palmpit, palm, shea), water, zoetstof (maltitolen [E965], sucralose [E955], acesulfaam-K [E950]), 3,2% magerecacaopoeder°, mango, varkensgelatine, weipoeder, emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476]), gemodificeerd maïszetmeel, aroma, verdikkingsmiddel (pectinen [E440]), kleurend concentraat (appel, wortel, citroen), zuurteregelaar (citroenzuur [E330], natriumcitraten [E331], calciumcitraten [E333]), conserveermiddel (kaliumsorbaat [E202]), vanilline. Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gramAllergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [
             "magere kwark",
             "wei-eiwit",
@@ -7461,7 +7461,7 @@
             "mango",
             "varkensgelatine",
             "weipoeder",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "emulgator lecithinen e322",
             "emulgator polyglycerolpolyricinoleaat e476",
             "gemodificeerd maïszetmeel",
@@ -7486,7 +7486,7 @@
             "Mango",
             "Varkestelatine",
             "Weipoeder",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476])",
+            "Emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476])",
             "Gemodificeerd maïszetmeel",
             "Aroma",
             "Verdikkingsmiddel (pectinen [E440])",
@@ -7916,7 +7916,7 @@
     },
     "https://www.ah.nl/producten/product/wi494240/ah-glutenvrij-vezelrijk-knackebrod": {
         "name": "AH Glutenvrij Vezelrijk knäckebröd",
-        "ingredients": "IngrediëntenIngrediënten: 23% glutenvrije volkoren havermeel, zetmeel (aardappel, maïs), 20% rijstebloem, rijstgries, zonnebloemolie, glutenvrije havervlok, suiker, gist, suikerbietenvezel, invertsuikerstroop, verdikkingsmiddel (guarpitmeel [E412], cellulosegom [E466]), gejodeerd zout, rijsmiddel (natriumcarbonaten [E500]), emulgator (mono- en diglyceriden van vetzuren [E471]).Waarvan toegevoegde suikers 1.3g per 100 gram en waarvan toegevoegd zout 1.20g per 100 gramAllergie-informatieBevat: HaverKan bevatten: Sesamzaad",
+        "ingredients": "IngrediëntenIngrediënten: 23% glutenvrije volkoren havermeel, zetmeel (aardappel, maïs), 20% rijstebloem, rijstgries, zonnebloemolie, glutenvrije havervlok, suiker, gist, suikerbietenvezel, invertsuikerstroop, verdikkingsmiddel (guarpitmeel [E412], cellulosegom [E466]), gejodeerd zout, rijsmiddel (natriumcarbonaten [E500]), emulgator (monoen diglyceriden van vetzuren [E471]).Waarvan toegevoegde suikers 1.3g per 100 gram en waarvan toegevoegd zout 1.20g per 100 gramAllergie-informatieBevat: HaverKan bevatten: Sesamzaad",
         "processed_ingredients": [
             "glutenvrije volkoren havermeel",
             "zetmeel aardappel",
@@ -7933,7 +7933,7 @@
             "verdikkingsmiddel cellulosegom e466",
             "gejodeerd zout",
             "rijsmiddel natriumcarbonaten e500",
-            "emulgator mono- en diglyceriden van vetzuren e471"
+            "emulgator monoen diglyceriden van vetzuren e471"
         ],
         "ai_processed_ingredients": [
             "Hier is de lijst van ingrediënten:",
@@ -7950,7 +7950,7 @@
             "Verdikkingsmiddel (guarpitmeel [E412], cellulosegom [E466])",
             "Gejodeerd zout",
             "Rijsmiddel (natriumcarbonaten [E500])",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471])",
+            "Emulgator (monoen diglyceriden van vetzuren [E471])",
             "Toegevoegde suikers: 1.3g per 100 gram",
             "Toegevoegd zout: 1.20g per 100 gram",
             "Allergie-informatie:",
@@ -8846,7 +8846,7 @@
     },
     "https://www.ah.nl/producten/product/wi224892/wasa-zuurdesem-rogge": {
         "name": "Wasa Zuurdesem Rogge",
-        "ingredients": "IngrediëntenIngredienten: Volkoren ROGGEMEEL (95 g*), zuurdesem van volkoren ROGGE (volkoren ROGGE, water) (19 g*), gist, GERSTEMOUTEXTRACT (2,5 g*), zout, emulgator (mono- en diglyceriden van vetzuren). Kan sporen van SESAMZAAD en MELK bevatten. *in g om 100 g van het produkt te maken.Allergie-informatieBevat: Rogge, Gerst, Glutenbevattende GranenKan bevatten: Sesamzaad, Melk",
+        "ingredients": "IngrediëntenIngredienten: Volkoren ROGGEMEEL (95 g*), zuurdesem van volkoren ROGGE (volkoren ROGGE, water) (19 g*), gist, GERSTEMOUTEXTRACT (2,5 g*), zout, emulgator (monoen diglyceriden van vetzuren). Kan sporen van SESAMZAAD en MELK bevatten. *in g om 100 g van het produkt te maken.Allergie-informatieBevat: Rogge, Gerst, Glutenbevattende GranenKan bevatten: Sesamzaad, Melk",
         "processed_ingredients": [
             "volkoren roggemeel",
             "zuurdesem van volkoren rogge volkoren rogge",
@@ -8854,7 +8854,7 @@
             "gist",
             "gerstemoutextract",
             "zout",
-            "emulgator mono- en diglyceriden van vetzuren"
+            "emulgator monoen diglyceriden van vetzuren"
         ],
         "ai_processed_ingredients": [
             "Volkoren Roggemeel",
@@ -8863,7 +8863,7 @@
             "Gist",
             "GERSTEMOUTEXTRACT",
             "Zout",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Sesamzaad"
         ]
     },
@@ -8874,8 +8874,8 @@
             "watermeloen"
         ],
         "ai_processed_ingredients": [
-            "- Watermeloen",
-            "- Suiker"
+            "Watermeloen",
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi570849/alpro-protein-sojadrink": {
@@ -9001,8 +9001,8 @@
             "granaatappel"
         ],
         "ai_processed_ingredients": [
-            "- Granaatappel",
-            "- Suiker"
+            "Granaatappel",
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi561128/ah-druif-blauwe-bes-appel": {
@@ -9015,9 +9015,9 @@
             "antioxidant calciumascorbaat e302"
         ],
         "ai_processed_ingredients": [
-            "- Rode appel",
-            "- Druif",
-            "- Blauwe bes"
+            "Rode appel",
+            "Druif",
+            "Blauwe bes"
         ]
     },
     "https://www.ah.nl/producten/product/wi583039/xxl-nutrition-fit-yoghurt-protein-vanilla": {
@@ -9615,22 +9615,22 @@
             "GERSTmoutextract",
             "Zout",
             "MELKchocolade 20% ",
-            "- Suiker",
-            "- Cacaomassa*",
-            "- Cacaoboter*",
-            "- Magere MELKpoeder",
-            "- MELKvet",
-            "- Emulgator (ammoniumfosfatiden, polyglycerolpolyricinoleaat)",
+            "Suiker",
+            "Cacaomassa*",
+            "Cacaoboter*",
+            "Magere MELKpoeder",
+            "MELKvet",
+            "Emulgator (ammoniumfosfatiden, polyglycerolpolyricinoleaat)",
             "Volkoren graanvlokken 9% ",
-            "- TARWE",
-            "- HAVER",
+            "TARWE",
+            "HAVER",
             "Kokosvet",
             "Karamelpoeder 5% ",
-            "- WEIpoeder",
-            "- Maltodextrine",
-            "- Palmolie",
-            "- Suiker",
-            "- Karamelsuikerstroop",
+            "WEIpoeder",
+            "Maltodextrine",
+            "Palmolie",
+            "Suiker",
+            "Karamelsuikerstroop",
             "Cornflakes (mais, zout, GERSTmoutextract)",
             "Glucose-fructosestroop",
             "Stabilisator (glycerol)",
@@ -9880,7 +9880,7 @@
     },
     "https://www.ah.nl/producten/product/wi575519/lindahls-pro-snack-cocoa": {
         "name": "Lindahls Pro + snack cocoa",
-        "ingredients": "IngrediëntenIngrediënten: Volle MELK (32,8%), zoetstoffen (erytritol, maltitol), wei-eiwit (MELK), plantaardige oliën (palmolie, zonnebloemolie), TARWEbloem, bevochtigingsmiddel (glycerol), mager cacaopoeder (3%), TARWEvezels, emulgator (mono- en diglyceriden van vetzuren), aroma's, rijsmiddel (ammoniumcarbonaten), zoutKan bevatten: Pinda, noot (noten), ei (eieren), soja, mosterd.Allergie-informatieBevat: Melk, Tarwe, Glutenbevattende GranenKan bevatten: Eieren, Mosterd, Noten, Pinda's, Soja",
+        "ingredients": "IngrediëntenIngrediënten: Volle MELK (32,8%), zoetstoffen (erytritol, maltitol), wei-eiwit (MELK), plantaardige oliën (palmolie, zonnebloemolie), TARWEbloem, bevochtigingsmiddel (glycerol), mager cacaopoeder (3%), TARWEvezels, emulgator (monoen diglyceriden van vetzuren), aroma's, rijsmiddel (ammoniumcarbonaten), zoutKan bevatten: Pinda, noot (noten), ei (eieren), soja, mosterd.Allergie-informatieBevat: Melk, Tarwe, Glutenbevattende GranenKan bevatten: Eieren, Mosterd, Noten, Pinda's, Soja",
         "processed_ingredients": [
             "volle melk",
             "zoetstoffen erytritol",
@@ -9892,7 +9892,7 @@
             "bevochtigingsmiddel glycerol",
             "mager cacaopoeder",
             "tarwevezels",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "aroma's",
             "rijsmiddel ammoniumcarbonaten",
             "zout"
@@ -9906,7 +9906,7 @@
             "bevochtigingsmiddel (glycerol)",
             "mager cacaopoeder",
             "TARWEvezels",
-            "emulgator (mono- en diglyceriden van vetzuren)",
+            "emulgator (monoen diglyceriden van vetzuren)",
             "aroma's",
             "rijsmiddel (ammoniumcarbonaten)",
             "zout",
@@ -10110,7 +10110,7 @@
         ]
     },
     "https://www.ah.nl/producten/product/wi456510/tastybasics-crackers-zonnebloem-en-pompoenpitten": {
-        "name": "TastyBasics Crackers Zonnebloem- en Pompoenpitten",
+        "name": "TastyBasics Crackers Zonnebloemen Pompoenpitten",
         "ingredients": "IngrediëntenIngrediënten: 22% pitten (11%zonnebloempitten, 11% pompoenpitten), TARWEGLUTEN, SOJAmeel, raapolie, water, volkoren TARWEmeel, TARWEzemelen, SOJA-eiwit, 4% lijnzaad, gist, GERSTEMOUTextract, zout, TARWEMOUTmeel, appelvezel. Kan sporen van melk en sesam bevatten.Allergie-informatieBevat: Tarwe, Soja, Gerst, Glutenbevattende GranenKan bevatten: Sesamzaad, Melk",
         "processed_ingredients": [
             "pitten zonnebloempitten",
@@ -10768,7 +10768,7 @@
     },
     "https://www.ah.nl/producten/product/wi518748/hero-b-tween-protein-noten-en-karamel": {
         "name": "Hero B'tween protein noten & karamel",
-        "ingredients": "IngrediëntenIngrediënten: geroosterde PINDA's 46%, glucosestroop, granencrispies (rijstmeel, suiker, maismeel, dextrose, zout), geroosterde AMANDELEN 8%, karamelsaus 5% (glucosestroop, gezoete, gecondenseerde magere MELK (magere MELK, suiker), suiker, dextrose, water, BOTER, stabilisator (glycerol), zout, emulgator (mono- en diglyceriden van vetzuren), natuurlijk aroma, zuurteregelaar (natriumfosfaat), vanille extract), suiker, geroosterde HAZELNOTEN 3%, glucose-frustosestroop, cacaoboter, bevochtigingsmiddel (glycerol), zonnebloemolie, volle MELKpoeder, karamelpoeder 1% (magere MELK, zoete WEI, suiker, BOTER, natuurlijk aroma), PINDApasta 1%, emulgator (SOJAlecithine), natuurlijk aroma, cacaopoeder met verlaagd vetgehalte, karamelsuiker 0,2%, zout. Kan andere NOTEN bevatten.Allergie-informatieBevat: Pinda's, Melk, Amandel, Hazelnoot, Soja, Noten",
+        "ingredients": "IngrediëntenIngrediënten: geroosterde PINDA's 46%, glucosestroop, granencrispies (rijstmeel, suiker, maismeel, dextrose, zout), geroosterde AMANDELEN 8%, karamelsaus 5% (glucosestroop, gezoete, gecondenseerde magere MELK (magere MELK, suiker), suiker, dextrose, water, BOTER, stabilisator (glycerol), zout, emulgator (monoen diglyceriden van vetzuren), natuurlijk aroma, zuurteregelaar (natriumfosfaat), vanille extract), suiker, geroosterde HAZELNOTEN 3%, glucose-frustosestroop, cacaoboter, bevochtigingsmiddel (glycerol), zonnebloemolie, volle MELKpoeder, karamelpoeder 1% (magere MELK, zoete WEI, suiker, BOTER, natuurlijk aroma), PINDApasta 1%, emulgator (SOJAlecithine), natuurlijk aroma, cacaopoeder met verlaagd vetgehalte, karamelsuiker 0,2%, zout. Kan andere NOTEN bevatten.Allergie-informatieBevat: Pinda's, Melk, Amandel, Hazelnoot, Soja, Noten",
         "processed_ingredients": [
             "geroosterde pinda's",
             "glucosestroop",
@@ -10788,7 +10788,7 @@
             "karamelsaus boter",
             "karamelsaus stabilisator glycerol",
             "karamelsaus zout",
-            "karamelsaus emulgator mono- en diglyceriden van vetzuren",
+            "karamelsaus emulgator monoen diglyceriden van vetzuren",
             "karamelsaus natuurlijk aroma",
             "karamelsaus zuurteregelaar natriumfosfaat",
             "karamelsaus vanille extract",
@@ -10826,7 +10826,7 @@
             "Water",
             "Boter",
             "Stabilisator (glycerol)",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Natuurlijk aroma",
             "Zuurteregelaar (natriumfosfaat)",
             "Vanille extract",
@@ -10867,16 +10867,16 @@
             "antioxidant calciumascorbaat e302"
         ],
         "ai_processed_ingredients": [
-            "- Ananas",
-            "- Rode appel",
-            "- Mango",
-            "- Druif",
-            "- Groene appels"
+            "Ananas",
+            "Rode appel",
+            "Mango",
+            "Druif",
+            "Groene appels"
         ]
     },
     "https://www.ah.nl/producten/product/wi228406/schar-crackers-glutenvrij": {
         "name": "Schär Crackers glutenvrij",
-        "ingredients": "IngrediëntenIngrediënten: Maïszetmeel, maïsmeel, plantaardig margarine [plantaardige vetten en oliën in wisselende verhoudingen (palm, palmpitten, koolzaad), water, zout, emulgator: mono- en diglyceriden van vetzuren; aroma], maltodextrine, rijststroop, gemodificeerd tapiocazetmeel, SOJAMEEL, zout, gist, verdikkingsmiddelen: guargom, hydroxypropylmethylcellulose, rijsmiddelen: monokaliumtartraat, ammoniumbicarbonaat, natriumbicarbonaat, emulgator: mono- en diglyceriden van vetzuren, natuurlijk aromaLactosevrij, Tarwevrij.Allergie-informatieBevat: Soja",
+        "ingredients": "IngrediëntenIngrediënten: Maïszetmeel, maïsmeel, plantaardig margarine [plantaardige vetten en oliën in wisselende verhoudingen (palm, palmpitten, koolzaad), water, zout, emulgator: monoen diglyceriden van vetzuren; aroma], maltodextrine, rijststroop, gemodificeerd tapiocazetmeel, SOJAMEEL, zout, gist, verdikkingsmiddelen: guargom, hydroxypropylmethylcellulose, rijsmiddelen: monokaliumtartraat, ammoniumbicarbonaat, natriumbicarbonaat, emulgator: monoen diglyceriden van vetzuren, natuurlijk aromaLactosevrij, Tarwevrij.Allergie-informatieBevat: Soja",
         "processed_ingredients": [
             "maïszetmeel",
             "maïsmeel",
@@ -10885,7 +10885,7 @@
             "plantaardig margarine plantaardige vetten en oliën in wisselende verhoudingen koolzaad",
             "plantaardig margarine water",
             "plantaardig margarine zout",
-            "plantaardig margarine emulgator mono- en diglyceriden van vetzuren; aroma",
+            "plantaardig margarine emulgator monoen diglyceriden van vetzuren; aroma",
             "maltodextrine",
             "rijststroop",
             "gemodificeerd tapiocazetmeel",
@@ -10897,7 +10897,7 @@
             "rijsmiddelen monokaliumtartraat",
             "ammoniumbicarbonaat",
             "natriumbicarbonaat",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "natuurlijk aromalactosevrij",
             "tarwevrij"
         ],
@@ -10907,7 +10907,7 @@
             "Plantaardig margarine ",
             "Water",
             "Zout",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Maltodextrine",
             "Rijststroop",
             "Gemodificeerd tapiocazetmeel",
@@ -10921,7 +10921,7 @@
     },
     "https://www.ah.nl/producten/product/wi556309/lindahls-protein-snack-coconut": {
         "name": "Lindahls Protein snack coconut",
-        "ingredients": "IngrediëntenIngrediënten: Volle MELK (30,2%), zoetstoffen (maltitol, erythritol), MELKeiwitten, TARWEbloem, plantaardig vet (palm), kokosmelk [kokosnootextract, water] (5,8%), bevochtigingsmiddel (glycerol), plantaardige olie (zonnebloemolie), mager cacaopoeder, gedehydrateerde kokosmelk (0,4%), emulgator (mono- en diglyceriden van vetzuren), rijsmiddel (E530ii), aroma's, zout, gedehydrateerde geraspte kokosnootKan bevatten: pinda, noten, eieren, soja, mosterd.Allergie-informatieBevat: Melk, Tarwe, Glutenbevattende GranenKan bevatten: Eieren, Mosterd, Noten, Pinda's, Soja",
+        "ingredients": "IngrediëntenIngrediënten: Volle MELK (30,2%), zoetstoffen (maltitol, erythritol), MELKeiwitten, TARWEbloem, plantaardig vet (palm), kokosmelk [kokosnootextract, water] (5,8%), bevochtigingsmiddel (glycerol), plantaardige olie (zonnebloemolie), mager cacaopoeder, gedehydrateerde kokosmelk (0,4%), emulgator (monoen diglyceriden van vetzuren), rijsmiddel (E530ii), aroma's, zout, gedehydrateerde geraspte kokosnootKan bevatten: pinda, noten, eieren, soja, mosterd.Allergie-informatieBevat: Melk, Tarwe, Glutenbevattende GranenKan bevatten: Eieren, Mosterd, Noten, Pinda's, Soja",
         "processed_ingredients": [
             "volle melk",
             "zoetstoffen maltitol",
@@ -10935,7 +10935,7 @@
             "plantaardige olie zonnebloemolie",
             "mager cacaopoeder",
             "gedehydrateerde kokosmelk",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "rijsmiddel e530ii",
             "aroma's",
             "zout",
@@ -10952,7 +10952,7 @@
             "plantaardige olie (zonnebloemolie)",
             "mager cacaopoeder",
             "gedehydrateerde kokosmelk",
-            "emulgator (mono- en diglyceriden van vetzuren)",
+            "emulgator (monoen diglyceriden van vetzuren)",
             "rijsmiddel (E530ii)",
             "aroma's",
             "zout",
@@ -11038,11 +11038,11 @@
             "stabilisator natriumfosfaat e339"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- Arabicakoffie",
-            "- Suiker",
-            "- Gekaramelliseerde suikerstroop",
-            "- Carrageen [E407]"
+            "Halfvolle melk",
+            "Arabicakoffie",
+            "Suiker",
+            "Gekaramelliseerde suikerstroop",
+            "Carrageen [E407]"
         ]
     },
     "https://www.ah.nl/producten/product/wi585300/servero-fruit-to-go-very-berry-voordeelpak": {
@@ -12059,13 +12059,13 @@
             "natuurlijk aroma"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle MELK",
-            "- water",
-            "- koffie-extract*",
-            "- suiker",
-            "- maltodextrine",
-            "- magere cacaopoeder",
-            "- zuurteregelaars (E500, E339)"
+            "Halfvolle MELK",
+            "water",
+            "koffie-extract*",
+            "suiker",
+            "maltodextrine",
+            "magere cacaopoeder",
+            "zuurteregelaars (E500, E339)"
         ]
     },
     "https://www.ah.nl/producten/product/wi388427/unox-cup-a-soup-koninginnensoep": {
@@ -12234,7 +12234,7 @@
     },
     "https://www.ah.nl/producten/product/wi585991/ah-protein-kwark-bar-aardbei": {
         "name": "AH Protein kwark bar aardbei",
-        "ingredients": "IngrediëntenIngrediënten: magere kwark, wei-eiwit, plantaardige olie (palmpit, palm, shea), water, zoetstof (maltitolen [E965], sucralose [E955], acesulfaam-K [E950]), 3,2% magerecacaopoeder°, aardbei, varkensgelatine, weipoeder, emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476]), gemodificeerd maïszetmeel, aroma, kleurend wortelconcentraat, zuurteregelaar (citroenzuur [E330], natriumcitraten [E331], calciumcitraten [E333]), verdikkingsmiddel (pectinen [E440]), conserveermiddel (kaliumsorbaat [E202]), vanilline. Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gramAllergie-informatieBevat: Melk, Lactose",
+        "ingredients": "IngrediëntenIngrediënten: magere kwark, wei-eiwit, plantaardige olie (palmpit, palm, shea), water, zoetstof (maltitolen [E965], sucralose [E955], acesulfaam-K [E950]), 3,2% magerecacaopoeder°, aardbei, varkensgelatine, weipoeder, emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476]), gemodificeerd maïszetmeel, aroma, kleurend wortelconcentraat, zuurteregelaar (citroenzuur [E330], natriumcitraten [E331], calciumcitraten [E333]), verdikkingsmiddel (pectinen [E440]), conserveermiddel (kaliumsorbaat [E202]), vanilline. Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gramAllergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [
             "magere kwark",
             "wei-eiwit",
@@ -12249,7 +12249,7 @@
             "aardbei",
             "varkensgelatine",
             "weipoeder",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "emulgator lecithinen e322",
             "emulgator polyglycerolpolyricinoleaat e476",
             "gemodificeerd maïszetmeel",
@@ -12276,7 +12276,7 @@
             "Aardbei",
             "Varke ngelatine",
             "Weipoeder",
-            "Mono- en diglyceriden van vetzuren [E471]",
+            "Monoen diglyceriden van vetzuren [E471]",
             "Lecithinen [E322]",
             "Polyglycerolpolyricinoleaat [E476]",
             "Gemodificeerd maïszetmeel",
@@ -12291,7 +12291,7 @@
     },
     "https://www.ah.nl/producten/product/wi585992/ah-protein-kwark-bar-vanille": {
         "name": "AH Protein kwark bar vanille",
-        "ingredients": "IngrediëntenIngrediënten: magere kwark, wei-eiwit, plantaardige olie (palmpit, palm, shea), water, zoetstof (maltitolen [E965], sucralose [E955], acesulfaam-K [E950]), 3,2% magerecacaopoeder°, varkensgelatine, weipoeder, emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476]), gemodificeerd maïszetmeel, aroma, natuurlijk vanillearoma, zuurteregelaar (citroenzuur [E330], natriumcitraten [E331], calciumcitraten [E333]), kleurend concentraat (appel, wortel, citroen), 0,06% gemalen vanillestokje, verdikkingsmiddel (pectinen [E440]), conserveermiddel (kaliumsorbaat [E202]), vanilline.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gramAllergie-informatieBevat: Melk, Lactose",
+        "ingredients": "IngrediëntenIngrediënten: magere kwark, wei-eiwit, plantaardige olie (palmpit, palm, shea), water, zoetstof (maltitolen [E965], sucralose [E955], acesulfaam-K [E950]), 3,2% magerecacaopoeder°, varkensgelatine, weipoeder, emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322], polyglycerolpolyricinoleaat [E476]), gemodificeerd maïszetmeel, aroma, natuurlijk vanillearoma, zuurteregelaar (citroenzuur [E330], natriumcitraten [E331], calciumcitraten [E333]), kleurend concentraat (appel, wortel, citroen), 0,06% gemalen vanillestokje, verdikkingsmiddel (pectinen [E440]), conserveermiddel (kaliumsorbaat [E202]), vanilline.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gramAllergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [
             "magere kwark",
             "wei-eiwit",
@@ -12305,7 +12305,7 @@
             "magerecacaopoeder°",
             "varkensgelatine",
             "weipoeder",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "emulgator lecithinen e322",
             "emulgator polyglycerolpolyricinoleaat e476",
             "gemodificeerd maïszetmeel",
@@ -12335,7 +12335,7 @@
             "Magere cacaopoeder",
             "Varkestelatine",
             "Weipoeder",
-            "Mono- en diglyceriden van vetzuren [E471]",
+            "Monoen diglyceriden van vetzuren [E471]",
             "Lecithinen [E322]",
             "Polyglycerolpolyricinoleaat [E476]",
             "Gemodificeerd maïszetmeel",
@@ -13016,7 +13016,7 @@
     },
     "https://www.ah.nl/producten/product/wi584977/ah-kopsoep-champignon": {
         "name": "AH Kopsoep champignon",
-        "ingredients": "IngrediëntenIngrediënten: aardappelzetmeel, plantaardige olie (gefractioneerde palm, ongeharde palm, zonnebloem), tarwebloem, mageremelkpoeder, zout, 4,5% natuurlijk champignonaroma, gistextract, gedroogde glucosestroop, wei-eiwitconcentraat, gehydrolyseerd plantaardig eiwit (maïs, raapzaad, zonnebloem),kaliumchloride (dieetzout), room, glucosestroop, 1,5% champignon, natuurlijke aroma's, melkeiwit, aroma, 0,3% peterselie, 0,2% gedroogd eekhoorntjesbrood, antiklontermiddel (siliciumdioxide [E551]), nootmuskaat, emulgator (mono- en diglyceriden van vetzuren [E471]), antioxidant (extracten van rozemarijn [E392]), gist.Waarvan toegevoegde suikers 0.04g per 100 milliliter en waarvan toegevoegd zout 0.62g per 100 milliliterAllergie-informatieBevat: Melk, Glutenbevattende Granen, Lactose, TarweKan bevatten: Eieren, Selderij, Mosterd",
+        "ingredients": "IngrediëntenIngrediënten: aardappelzetmeel, plantaardige olie (gefractioneerde palm, ongeharde palm, zonnebloem), tarwebloem, mageremelkpoeder, zout, 4,5% natuurlijk champignonaroma, gistextract, gedroogde glucosestroop, wei-eiwitconcentraat, gehydrolyseerd plantaardig eiwit (maïs, raapzaad, zonnebloem),kaliumchloride (dieetzout), room, glucosestroop, 1,5% champignon, natuurlijke aroma's, melkeiwit, aroma, 0,3% peterselie, 0,2% gedroogd eekhoorntjesbrood, antiklontermiddel (siliciumdioxide [E551]), nootmuskaat, emulgator (monoen diglyceriden van vetzuren [E471]), antioxidant (extracten van rozemarijn [E392]), gist.Waarvan toegevoegde suikers 0.04g per 100 milliliter en waarvan toegevoegd zout 0.62g per 100 milliliterAllergie-informatieBevat: Melk, Glutenbevattende Granen, Lactose, TarweKan bevatten: Eieren, Selderij, Mosterd",
         "processed_ingredients": [
             "aardappelzetmeel",
             "plantaardige olie gefractioneerde palm",
@@ -13043,7 +13043,7 @@
             "gedroogd eekhoorntjesbrood",
             "antiklontermiddel siliciumdioxide e551",
             "nootmuskaat",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "antioxidant extracten van rozemarijn e392",
             "gist"
         ],
@@ -13069,7 +13069,7 @@
             "Gedroogd eekhoorntjesbrood",
             "Antiklontermiddel (siliciumdioxide [E551])",
             "Nootmuskaat",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471])"
+            "Emulgator (monoen diglyceriden van vetzuren [E471])"
         ]
     },
     "https://www.ah.nl/producten/product/wi548154/trek-protein-havermout-repen-peanut-butter": {
@@ -13487,35 +13487,35 @@
             "Palmolie",
             "Zout",
             "Meelverbeteraars ",
-            "- Natriumcarbonaat",
-            "- Trifosfaten",
+            "Natriumcarbonaat",
+            "Trifosfaten",
             "Stabilisator ",
-            "- Kaliumcarbonaat",
+            "Kaliumcarbonaat",
             "Verdikkingsmiddel ",
-            "- Guarpitmeel",
+            "Guarpitmeel",
             "Antioxidant ",
-            "- Tocoferolrijk extract",
+            "Tocoferolrijk extract",
             "Kruidenpoeder",
             "Zout",
             "Smaakversterkers ",
-            "- Monomatriumglutamaat",
-            "- Dinatriumguanylaat",
-            "- Dinatriuminosinaat",
+            "Monomatriumglutamaat",
+            "Dinatriumguanylaat",
+            "Dinatriuminosinaat",
             "Suiker",
             "Kippenvleespoeder ",
-            "- 6,2% in kruidenpoeder",
+            "6,2% in kruidenpoeder",
             "Specerijen",
             "Sojasauspoeder ",
-            "- SOJABONEN",
-            "- TARWE",
-            "- Zout",
-            "- Maltodextrine",
+            "SOJABONEN",
+            "TARWE",
+            "Zout",
+            "Maltodextrine",
             "Prei",
             "Gistextract",
             "Aroma",
             "Raapzaadolie",
             "Antiklontermiddel ",
-            "- Siliciumdioxide",
+            "Siliciumdioxide",
             "Kruidenolie",
             "Gerosterde SESAMOLIE",
             "Raapzaadolie",
@@ -13577,9 +13577,9 @@
             "Zoete ingrediënten:",
             "zonnebloemolie",
             "geroosterde knoflookmix ",
-            "- geroosterde knoflook (1,5 g)",
-            "- knoflook (1,4 g)",
-            "- zonnebloemolie",
+            "geroosterde knoflook (1,5 g)",
+            "knoflook (1,4 g)",
+            "zonnebloemolie",
             "natuurlijk aroma",
             "peterselie",
             "Zout en voedingsstoffen:",
@@ -14635,9 +14635,9 @@
             "mango"
         ],
         "ai_processed_ingredients": [
-            "- Ananas",
-            "- Mango",
-            "- Suiker"
+            "Ananas",
+            "Mango",
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi456421/ah-dunne-crackers-volkoren": {
@@ -15043,14 +15043,14 @@
             "natuurlijk aroma"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle MELK",
-            "- water",
-            "- koffie-extract*",
-            "- suiker",
-            "- maltodextrine",
-            "- magere cacaopoeder",
-            "- aroma",
-            "- zuurteregelaars (E500, E339)"
+            "Halfvolle MELK",
+            "water",
+            "koffie-extract*",
+            "suiker",
+            "maltodextrine",
+            "magere cacaopoeder",
+            "aroma",
+            "zuurteregelaars (E500, E339)"
         ]
     },
     "https://www.ah.nl/producten/product/wi508485/carr-s-cream-crackers": {
@@ -15390,7 +15390,7 @@
             "lactase"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk"
+            "Halfvolle melk"
         ]
     },
     "https://www.ah.nl/producten/product/wi566957/upfront-eiwitreep-cookie-dough": {
@@ -15584,9 +15584,9 @@
             "bleekselderij"
         ],
         "ai_processed_ingredients": [
-            "- Rode paprika",
-            "- Bleekselderij",
-            "- Suiker"
+            "Rode paprika",
+            "Bleekselderij",
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi503860/samyang-gestoofde-kip": {
@@ -16653,9 +16653,9 @@
             "wortel"
         ],
         "ai_processed_ingredients": [
-            "- Radijs",
-            "- Wortel",
-            "- Suiker"
+            "Radijs",
+            "Wortel",
+            "Suiker"
         ]
     },
     "https://www.ah.nl/producten/product/wi588030/liga-repen-noten-en-granen-chocolade-hazelnoot": {
@@ -17389,9 +17389,9 @@
     },
     "https://www.ah.nl/producten/product/wi508296/body-en-fit-perfection-bar-crunch-white-choc-cook": {
         "name": "Body & Fit Perfection bar crunch white choc. cook",
-        "ingredients": "IngrediëntenIngredienten: Eiwitblend (?MELKeiwitconcentraat, wei-eiwitisolaat (MELK), (MELKeiwit), emulgator (SOJAlecithine)), witte chocoladesmaak omhulling (13%), (zoetstoffen (isomalt, sucralose), palm- en palmpitolie, weipoeder (MELK), TARWEbloem (TARWEbloem, calciumcarbonaat, elementair ijzer, nicotinamide, thiaminehydrochloride), emulgator (SOJAlecithine), aroma), bevochtigingsmiddel (glycerol), karamel (10%) bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, magere MELKpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (SOJAlecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), krokante eiwitstukjes (SOJA-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), fructooligosaccharides, zonneboemolie, SOJAeiwitisolaat, gehydroliseerd TARWE-eiwit, bevochtigingsmiddel (maltitolen), vulstof (polydextrose), aroma, zout, zoetstof (sucralose), antioxidant (tocoferolrijk extract). Kan sporen bevatten van ei, pindas en noten.Allergie-informatieBevat: Melk, Tarwe, Soja, Glutenbevattende GranenKan bevatten: Pinda's, Noten, Eieren",
+        "ingredients": "IngrediëntenIngredienten: Eiwitblend (?MELKeiwitconcentraat, wei-eiwitisolaat (MELK), (MELKeiwit), emulgator (SOJAlecithine)), witte chocoladesmaak omhulling (13%), (zoetstoffen (isomalt, sucralose), palmen palmpitolie, weipoeder (MELK), TARWEbloem (TARWEbloem, calciumcarbonaat, elementair ijzer, nicotinamide, thiaminehydrochloride), emulgator (SOJAlecithine), aroma), bevochtigingsmiddel (glycerol), karamel (10%) bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, magere MELKpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (SOJAlecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), krokante eiwitstukjes (SOJA-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), fructooligosaccharides, zonneboemolie, SOJAeiwitisolaat, gehydroliseerd TARWE-eiwit, bevochtigingsmiddel (maltitolen), vulstof (polydextrose), aroma, zout, zoetstof (sucralose), antioxidant (tocoferolrijk extract). Kan sporen bevatten van ei, pindas en noten.Allergie-informatieBevat: Melk, Tarwe, Soja, Glutenbevattende GranenKan bevatten: Pinda's, Noten, Eieren",
         "processed_ingredients": null,
-        "error": "Number of brackets is not equal in : eiwitblend (?melkeiwitconcentraat, wei-eiwitisolaat (melk), (melkeiwit), emulgator (sojalecithine)), witte chocoladesmaak omhulling (), (zoetstoffen (isomalt, sucralose), palm- en palmpitolie, weipoeder (melk), tarwebloem (tarwebloem, calciumcarbonaat, elementair ijzer, nicotinamide, thiaminehydrochloride), emulgator (sojalecithine), aroma), bevochtigingsmiddel (glycerol), karamel () bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, magere melkpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (sojalecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), krokante eiwitstukjes (soja-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), fructooligosaccharides, zonneboemolie, sojaeiwitisolaat, gehydroliseerd tarwe-eiwit, bevochtigingsmiddel (maltitolen), vulstof (polydextrose), aroma, zout, zoetstof (sucralose), antioxidant (tocoferolrijk extract). . Number of ( is 26 and number of ) is 27",
+        "error": "Number of brackets is not equal in : eiwitblend (?melkeiwitconcentraat, wei-eiwitisolaat (melk), (melkeiwit), emulgator (sojalecithine)), witte chocoladesmaak omhulling (), (zoetstoffen (isomalt, sucralose), palmen palmpitolie, weipoeder (melk), tarwebloem (tarwebloem, calciumcarbonaat, elementair ijzer, nicotinamide, thiaminehydrochloride), emulgator (sojalecithine), aroma), bevochtigingsmiddel (glycerol), karamel () bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, magere melkpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (sojalecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), krokante eiwitstukjes (soja-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), fructooligosaccharides, zonneboemolie, sojaeiwitisolaat, gehydroliseerd tarwe-eiwit, bevochtigingsmiddel (maltitolen), vulstof (polydextrose), aroma, zout, zoetstof (sucralose), antioxidant (tocoferolrijk extract). . Number of ( is 26 and number of ) is 27",
         "ai_processed_ingredients": [
             "Eiwitblend",
             "MELKeiwitconcentraat",
@@ -17400,7 +17400,7 @@
             "emulgator (SOJAlecithine)",
             "witte chocoladesmaak omhulling",
             "zoetstoffen (isomalt, sucralose)",
-            "palm- en palmpitolie",
+            "palmen palmpitolie",
             "weipoeder (MELK)",
             "TARWEbloem",
             "TARWEbloem",
@@ -17738,12 +17738,12 @@
             "gist"
         ],
         "ai_processed_ingredients": [
-            "- VOLKOREN ROGGEMEEL",
-            "- water",
-            "- bruin lijnzaad 4%",
-            "- gierstzaad 4%",
-            "- geroosterd koolzaad 4%",
-            "- zeezout 1,2%"
+            "VOLKOREN ROGGEMEEL",
+            "water",
+            "bruin lijnzaad 4%",
+            "gierstzaad 4%",
+            "geroosterd koolzaad 4%",
+            "zeezout 1,2%"
         ]
     },
     "https://www.ah.nl/producten/product/wi585900/melkunie-protein-chocolate-fudge-flavoured-mousse": {
@@ -17826,53 +17826,53 @@
             "Palmolie",
             "Zout",
             "Meelverbeteraars ",
-            "- Natriumcarbonaat",
-            "- Trifosfaten",
+            "Natriumcarbonaat",
+            "Trifosfaten",
             "Stabilisator ",
-            "- Kaliumcarbonaat",
+            "Kaliumcarbonaat",
             "Verdikkingsmiddel ",
-            "- Guarpitmeel",
+            "Guarpitmeel",
             "Antioxidant ",
-            "- Tocoferolrijk extract",
+            "Tocoferolrijk extract",
             "Kruidenpoeder ",
-            "- Zout",
-            "- Moninatriumglutamaat",
-            "- Dinatriumguanylaat",
-            "- Dinatriuminosinaat",
+            "Zout",
+            "Moninatriumglutamaat",
+            "Dinatriumguanylaat",
+            "Dinatriuminosinaat",
             "Sojasauspoeder ",
-            "- SOJABONEN",
-            "- TARWE",
-            "- Zout",
-            "- Maltodextrine",
+            "SOJABONEN",
+            "TARWE",
+            "Zout",
+            "Maltodextrine",
             "Suiker",
             "Dextrose",
             "Rundvleesaroma's ",
-            "- Bevat TARWE",
-            "- Bevat SOJA",
+            "Bevat TARWE",
+            "Bevat SOJA",
             "Specerijen ",
-            "- Bevat SELDERIJ",
+            "Bevat SELDERIJ",
             "Rundvleesextractpoeder ",
-            "- Maltodextrine",
-            "- Rundvleesextract",
+            "Maltodextrine",
+            "Rundvleesextract",
             "Kleurstof ",
-            "- Ammoniakkaramel",
+            "Ammoniakkaramel",
             "Prei",
             "Roompoeder ",
-            "- Gluosestroop",
-            "- Palmolie",
-            "- MELKEIWITTEN",
+            "Gluosestroop",
+            "Palmolie",
+            "MELKEIWITTEN",
             "Gistextract",
             "Raapzaadolie",
             "Antiklontermiddel ",
-            "- Siliciumdioxide",
+            "Siliciumdioxide",
             "Rundervetpoeder ",
-            "- Rundervet",
-            "- Rundvleesextract",
+            "Rundervet",
+            "Rundvleesextract",
             "Zuurteregelaar ",
-            "- Citroenzuur",
+            "Citroenzuur",
             "Kruidenolie ",
-            "- Rundervet",
-            "- Rapzaadolie"
+            "Rundervet",
+            "Rapzaadolie"
         ]
     },
     "https://www.ah.nl/producten/product/wi456506/tastybasics-vezelrijke-crackers-kaas-en-peper": {
@@ -17945,7 +17945,7 @@
     },
     "https://www.ah.nl/producten/product/wi518815/body-en-fit-perfection-bar-crunchy-chocolate-cookie": {
         "name": "Body & Fit Perfection bar crunchy chocolate cookie",
-        "ingredients": "IngrediëntenIngredienten: Eiwitblend (MELKeiwitconcentraat, wei-eiwitisolaat (MELK), MELKeiwit, emulgator (SOJAlecithine)), melkchocoladesmaak omhulling (13%), (zoetstoffen (isomalt, sucralose), palm- en palmpitolie, weipoeder (MELK), magere cacaopoeder, TARWEbloem (TARWEbloem, calciumcarbonaat, elementair ijzer, nicotinamide, thiaminehydrochloride), emulgatoren (SOJAlecithine, polyglycerolpolyricinoleaat), aroma), bevochtigingsmiddel (glycerol), karamel (10%) (bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, mager MELKpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (SOJAlecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), krokante eiwitstukjes (SOJA-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), fructooligosaccharides, zonnebloemolie, SOJAeiwitisolaat, gehydrolyseerd TARWE-eiwit, bevochtigingsmiddel (maltitolen), cacaonibs, aroma, zout, zoetstof (sucralose), antioxidant (tocoferolrijk extract). Kan sporen bevatten van ei, pinda's en noten.Allergie-informatieBevat: Melk, Tarwe, Soja, Glutenbevattende GranenKan bevatten: Pinda's, Noten, Eieren",
+        "ingredients": "IngrediëntenIngredienten: Eiwitblend (MELKeiwitconcentraat, wei-eiwitisolaat (MELK), MELKeiwit, emulgator (SOJAlecithine)), melkchocoladesmaak omhulling (13%), (zoetstoffen (isomalt, sucralose), palmen palmpitolie, weipoeder (MELK), magere cacaopoeder, TARWEbloem (TARWEbloem, calciumcarbonaat, elementair ijzer, nicotinamide, thiaminehydrochloride), emulgatoren (SOJAlecithine, polyglycerolpolyricinoleaat), aroma), bevochtigingsmiddel (glycerol), karamel (10%) (bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, mager MELKpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (SOJAlecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), krokante eiwitstukjes (SOJA-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), fructooligosaccharides, zonnebloemolie, SOJAeiwitisolaat, gehydrolyseerd TARWE-eiwit, bevochtigingsmiddel (maltitolen), cacaonibs, aroma, zout, zoetstof (sucralose), antioxidant (tocoferolrijk extract). Kan sporen bevatten van ei, pinda's en noten.Allergie-informatieBevat: Melk, Tarwe, Soja, Glutenbevattende GranenKan bevatten: Pinda's, Noten, Eieren",
         "processed_ingredients": [
             "eiwitblend melkeiwitconcentraat",
             "eiwitblend wei-eiwitisolaat melk",
@@ -17954,7 +17954,7 @@
             "melkchocoladesmaak omhulling",
             "zoetstoffen isomalt",
             "zoetstoffen sucralose",
-            "palm- en palmpitolie",
+            "palmen palmpitolie",
             "weipoeder melk",
             "magere cacaopoeder",
             "tarwebloem tarwebloem",
@@ -18002,7 +18002,7 @@
             "MELK",
             "emulgator (SOJAlecithine)",
             "zoetstoffen (isomalt, sucralose)",
-            "palm- en palmpitolie",
+            "palmen palmpitolie",
             "weipoeder (MELK)",
             "magere cacaopoeder",
             "TARWEbloem",
@@ -18111,17 +18111,17 @@
             "Magere MELK",
             ",7% MELKeiwitten",
             "Zoetstoffen:",
-            "- erytritol",
-            "- steviolglycosiden uit Stevia",
+            "erytritol",
+            "steviolglycosiden uit Stevia",
             "ROOM",
             "Rundergelatine",
             "Gemodificeerd maïszetmeel",
             "Verdikkingsmiddelen:",
-            "- carrageen",
-            "- guarpitmeel",
+            "carrageen",
+            "guarpitmeel",
             "Zuurteregelaars:",
-            "- natriumfosfaten",
-            "- natriumcarbonaten",
+            "natriumfosfaten",
+            "natriumcarbonaten",
             "Kleurstof: carotenen",
             "Natuurlijk aroma"
         ]
@@ -18430,7 +18430,7 @@
     },
     "https://www.ah.nl/producten/product/wi585930/xxl-nutrition-fitmousse-salted-caramel-chocolate": {
         "name": "XXL Nutrition Fitmousse salted caramel chocolate",
-        "ingredients": "IngrediëntenIngrediënten: water, MELKEIWIT, magere MELKPOEDER, 3,5% mager cacaopoeder, room (MELK), rundergelatine, emulgator (mono- en diglyceriden van vetzuren), zuurteregelaar (natriumcitraten), aroma, zout, zoetstoffen (aspartaam, acesulfaam-K).Allergie-informatieBevat: Melk",
+        "ingredients": "IngrediëntenIngrediënten: water, MELKEIWIT, magere MELKPOEDER, 3,5% mager cacaopoeder, room (MELK), rundergelatine, emulgator (monoen diglyceriden van vetzuren), zuurteregelaar (natriumcitraten), aroma, zout, zoetstoffen (aspartaam, acesulfaam-K).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "water",
             "melkeiwit",
@@ -18438,7 +18438,7 @@
             "mager cacaopoeder",
             "room melk",
             "rundergelatine",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "zuurteregelaar natriumcitraten",
             "aroma",
             "zout",
@@ -18452,7 +18452,7 @@
             ",5% mager cacaopoeder",
             "room (MELK)",
             "rundergelatine",
-            "emulgator (mono- en diglyceriden van vetzuren)",
+            "emulgator (monoen diglyceriden van vetzuren)",
             "zuurteregelaar (natriumcitraten)",
             "aroma",
             "zout"
@@ -19085,17 +19085,17 @@
             "Rijst",
             "Suiker",
             "Tamari SOJAsaus ",
-            "- Water",
-            "- SOJAbonen",
-            "- Rijst",
-            "- Zout",
+            "Water",
+            "SOJAbonen",
+            "Rijst",
+            "Zout",
             "Zwarte SESAM",
             "Witte SESAM",
             "Tamari SOJAsauspoeder ",
-            "- Zout",
-            "- SOJAbonen",
-            "- Rijst",
-            "- Maltodextrine",
+            "Zout",
+            "SOJAbonen",
+            "Rijst",
+            "Maltodextrine",
             "Gistextract",
             "Knoflookpoeder",
             "Antioxidant (E306)"
@@ -19113,12 +19113,12 @@
             "lactase"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- Melkeiwit",
-            "- Maïszetmeel",
-            "- Natuurlijk aroma",
-            "- Natriumfosfaat",
-            "- Sucralose"
+            "Halfvolle melk",
+            "Melkeiwit",
+            "Maïszetmeel",
+            "Natuurlijk aroma",
+            "Natriumfosfaat",
+            "Sucralose"
         ]
     },
     "https://www.ah.nl/producten/product/wi479944/wasa-sandwich-sour-cream-en-onion": {
@@ -19221,7 +19221,7 @@
     },
     "https://www.ah.nl/producten/product/wi585927/xxl-nutrition-fitmousse-chocolate-flavour": {
         "name": "XXL Nutrition Fitmousse chocolate flavour",
-        "ingredients": "IngrediëntenIngrediënten: water, MELKEIWIT, magere MELKPOEDER, 4% mager cacaopoeder, room (MELK), rundergelatine, emulgator (mono- en diglyceriden van vetzuren), zuurteregelaar (natriumcitraten), zoetstoffen (aspartaam, acesulfaam-K).Allergie-informatieBevat: Melk",
+        "ingredients": "IngrediëntenIngrediënten: water, MELKEIWIT, magere MELKPOEDER, 4% mager cacaopoeder, room (MELK), rundergelatine, emulgator (monoen diglyceriden van vetzuren), zuurteregelaar (natriumcitraten), zoetstoffen (aspartaam, acesulfaam-K).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "water",
             "melkeiwit",
@@ -19229,7 +19229,7 @@
             "mager cacaopoeder",
             "room melk",
             "rundergelatine",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "zuurteregelaar natriumcitraten",
             "zoetstoffen aspartaam",
             "zoetstoffen acesulfaam-k"
@@ -19241,13 +19241,13 @@
             "% mager cacaopoeder",
             "room (MELK)",
             "rundergelatine",
-            "emulgator (mono- en diglyceriden van vetzuren)",
+            "emulgator (monoen diglyceriden van vetzuren)",
             "zuurteregelaar (natriumcitraten)"
         ]
     },
     "https://www.ah.nl/producten/product/wi589033/samyang-buldak-spicy-ramen-carbonara": {
         "name": "Samyang Buldak spicy ramen carbonara",
-        "ingredients": "IngrediëntenIngrediënten: Noedels (72,2%): TARWEmeel (GLUTEN),gemodificeerd zetmeel (tapioca, aardappel), palmolie, TARWEGLUTEN, zout, geëmulgeerde olie (emulgatoren (E422, E322, E475), bevat SOJA), zuurteregelaars (E401, E500, E339, E330), uienkruiden smaakversterker (E635), emulgator (E471), verdikkingsmiddel (E412),tocoferolen olie (emulgatoren (E422, E475), antioxidant E306) bevat SOJA), aroma van groene thee, kleurstof (E101), Vloeibare saus (16,2%): water, aroma met kipsmaak (bevat TARWE, GLUTEN, SOJA, SELDERIJ), SOJAsaus (water, SOJAbonen, TARWE (GLUTEN), zout, fructose, smaakversterker (E635) knoflook, aroma, yuccaextractpoeder, zoetstof(E960a), suiker, habanero-peperkruiden (antiklontermiddel (E551), smaakversterkers (E631, E627), kleurstof (E160c), bevat SOJA), chilipeperkruiden (smaakversterker (E621), bevat SOJA)), sojaolie, ui, chilipeper, chilipeperzaadolie, knoflook verdikkingsmiddel (E1420), chilipeperextract, kleurstof (E160c), zwarte-peperpoeder, yucca-extractpoeder, Sauspoeder (11,6%): aroma (bevat SOJA), suiker, zout, verdikkingsmiddel (E1420), krulpeterselie, SOJAolie, knoflookpoeder (zuurteregelaar (E330)), peperkruiden (zuurteregelaar (E341), bevat SOJA)Kan schaal- en schelpdieren, ei, vis, pinda's, melk, noten, mosterd, sesamzaden en weekdieren bevatten.Voor allergenen: HOOFDLETTERSAllergie-informatieBevat: Glutenbevattende Granen, Soja, SelderijKan bevatten: Schelpdieren, Eieren, Vis, Pinda's, Melk, Noten, Mosterd, Sesamzaad, Weekdieren",
+        "ingredients": "IngrediëntenIngrediënten: Noedels (72,2%): TARWEmeel (GLUTEN),gemodificeerd zetmeel (tapioca, aardappel), palmolie, TARWEGLUTEN, zout, geëmulgeerde olie (emulgatoren (E422, E322, E475), bevat SOJA), zuurteregelaars (E401, E500, E339, E330), uienkruiden smaakversterker (E635), emulgator (E471), verdikkingsmiddel (E412),tocoferolen olie (emulgatoren (E422, E475), antioxidant E306) bevat SOJA), aroma van groene thee, kleurstof (E101), Vloeibare saus (16,2%): water, aroma met kipsmaak (bevat TARWE, GLUTEN, SOJA, SELDERIJ), SOJAsaus (water, SOJAbonen, TARWE (GLUTEN), zout, fructose, smaakversterker (E635) knoflook, aroma, yuccaextractpoeder, zoetstof(E960a), suiker, habanero-peperkruiden (antiklontermiddel (E551), smaakversterkers (E631, E627), kleurstof (E160c), bevat SOJA), chilipeperkruiden (smaakversterker (E621), bevat SOJA)), sojaolie, ui, chilipeper, chilipeperzaadolie, knoflook verdikkingsmiddel (E1420), chilipeperextract, kleurstof (E160c), zwarte-peperpoeder, yucca-extractpoeder, Sauspoeder (11,6%): aroma (bevat SOJA), suiker, zout, verdikkingsmiddel (E1420), krulpeterselie, SOJAolie, knoflookpoeder (zuurteregelaar (E330)), peperkruiden (zuurteregelaar (E341), bevat SOJA)Kan schaalen schelpdieren, ei, vis, pinda's, melk, noten, mosterd, sesamzaden en weekdieren bevatten.Voor allergenen: HOOFDLETTERSAllergie-informatieBevat: Glutenbevattende Granen, Soja, SelderijKan bevatten: Schelpdieren, Eieren, Vis, Pinda's, Melk, Noten, Mosterd, Sesamzaad, Weekdieren",
         "processed_ingredients": null,
         "error": "Number of brackets is not equal in : noedels (): tarwemeel (gluten),gemodificeerd zetmeel (tapioca, aardappel), palmolie, tarwegluten, zout, geëmulgeerde olie (emulgatoren (e422, e322, e475), bevat soja), zuurteregelaars (e401, e500, e339, e330), uienkruiden smaakversterker (e635), emulgator (e471), verdikkingsmiddel (e412),tocoferolen olie (emulgatoren (e422, e475), antioxidant e306) bevat soja), aroma van groene thee, kleurstof (e101), vloeibare saus (): water, aroma met kipsmaak (bevat tarwe, gluten, soja, selderij), sojasaus (water, sojabonen, tarwe (gluten), zout, fructose, smaakversterker (e635) knoflook, aroma, yuccaextractpoeder, zoetstof(e960a), suiker, habanero-peperkruiden (antiklontermiddel (e551), smaakversterkers (e631, e627), kleurstof (e160c), bevat soja), chilipeperkruiden (smaakversterker (e621), bevat soja)), sojaolie, ui, chilipeper, chilipeperzaadolie, knoflook verdikkingsmiddel (e1420), chilipeperextract, kleurstof (e160c), zwarte-peperpoeder, yucca-extractpoeder, sauspoeder (): aroma (bevat soja), suiker, zout, verdikkingsmiddel (e1420), krulpeterselie, sojaolie, knoflookpoeder (zuurteregelaar (e330)), peperkruiden (zuurteregelaar (e341), bevat soja). Number of ( is 33 and number of ) is 34",
         "ai_processed_ingredients": [
@@ -19601,15 +19601,15 @@
     },
     "https://www.ah.nl/producten/product/wi548274/starbucks-caramel-macchiato": {
         "name": "Starbucks Caramel macchiato",
-        "ingredients": "IngrediëntenIngrediënten: MELK (1,8% vet) (75%), Starbucks® Arabica koffie (water, koffie- extract) (20%), suiker (4,7%), aroma met karamelsmaak (bevat MELK), zuurteregelaar (kaliumcarbonaat), emulgatoren (mono- en diglyceriden van vetzuren van plantaardige oorsprong), stabilisatoren (carrageen, guarpitmeel).Allergie-informatieBevat: Melk",
+        "ingredients": "IngrediëntenIngrediënten: MELK (1,8% vet) (75%), Starbucks® Arabica koffie (water, koffieextract) (20%), suiker (4,7%), aroma met karamelsmaak (bevat MELK), zuurteregelaar (kaliumcarbonaat), emulgatoren (monoen diglyceriden van vetzuren van plantaardige oorsprong), stabilisatoren (carrageen, guarpitmeel).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
             "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie- extract",
+            "starbucks® arabica koffie koffieextract",
             "suiker",
             "aroma met karamelsmaak bevat melk",
             "zuurteregelaar kaliumcarbonaat",
-            "emulgatoren mono- en diglyceriden van vetzuren van plantaardige oorsprong",
+            "emulgatoren monoen diglyceriden van vetzuren van plantaardige oorsprong",
             "stabilisatoren carrageen",
             "stabilisatoren guarpitmeel"
         ],
@@ -19622,7 +19622,7 @@
             "Suiker",
             "Aroma met karamelsmaak",
             "Zuurteregelaar (kaliumcarbonaat)",
-            "Emulgatoren (mono- en diglyceriden van vetzuren van plantaardige oorsprong)"
+            "Emulgatoren (monoen diglyceriden van vetzuren van plantaardige oorsprong)"
         ]
     },
     "https://www.ah.nl/producten/product/wi563581/wasa-delicate-crackers-paprika": {
@@ -19817,13 +19817,13 @@
     },
     "https://www.ah.nl/producten/product/wi576735/optimum-nutrition-chocolate-brownie-crunch-bar": {
         "name": "Optimum Nutrition Chocolate brownie crunch bar",
-        "ingredients": "IngrediëntenIngrediënten: Krokante brokjes eiwit (31 %) (SOJA-eiwitisolaat, zetmeel, zout), omhulsel met pure chocoladesmaak (26 %) (zoetstoffen: isolmalt, sucralose; palm- en palpitolie, magere cacaopoeder, emulgatoren: lecithine [SOJA], polyglycerolpolyricinoleaat), fructo oligosacchariden, polydextrose, MELKeiwitten (WEI-eiwitisolaat, WEI-eiwitconcentraat, MELKeiwitconcentraat, emulgator: lecithine [SOJA]), isomalto-oligosaccariden, bevochtigingsmiddel (glycerol), aroma’s [MELK], magere cacaopoeder, zoetstof (sucralose), antioxidant (tocoferolrijk extract). VOOR ALLERGENEN ZIE DE VETGEDRUKTE INGREDIËNTEN IN HOOFDLETTERS. Kan bevatten: gluten, eieren, noten en pinda's.Allergie-informatieBevat: Soja, MelkKan bevatten: Glutenbevattende Granen, Eieren, Noten, Pinda's",
+        "ingredients": "IngrediëntenIngrediënten: Krokante brokjes eiwit (31 %) (SOJA-eiwitisolaat, zetmeel, zout), omhulsel met pure chocoladesmaak (26 %) (zoetstoffen: isolmalt, sucralose; palmen palpitolie, magere cacaopoeder, emulgatoren: lecithine [SOJA], polyglycerolpolyricinoleaat), fructo oligosacchariden, polydextrose, MELKeiwitten (WEI-eiwitisolaat, WEI-eiwitconcentraat, MELKeiwitconcentraat, emulgator: lecithine [SOJA]), isomalto-oligosaccariden, bevochtigingsmiddel (glycerol), aroma’s [MELK], magere cacaopoeder, zoetstof (sucralose), antioxidant (tocoferolrijk extract). VOOR ALLERGENEN ZIE DE VETGEDRUKTE INGREDIËNTEN IN HOOFDLETTERS. Kan bevatten: gluten, eieren, noten en pinda's.Allergie-informatieBevat: Soja, MelkKan bevatten: Glutenbevattende Granen, Eieren, Noten, Pinda's",
         "processed_ingredients": [
             "krokante brokjes eiwit soja-eiwitisolaat",
             "krokante brokjes eiwit zetmeel",
             "krokante brokjes eiwit zout",
             "omhulsel met pure chocoladesmaak zoetstoffen isolmalt",
-            "omhulsel met pure chocoladesmaak sucralose; palm- en palpitolie",
+            "omhulsel met pure chocoladesmaak sucralose; palmen palpitolie",
             "omhulsel met pure chocoladesmaak magere cacaopoeder",
             "omhulsel met pure chocoladesmaak emulgatoren lecithine soja",
             "omhulsel met pure chocoladesmaak polyglycerolpolyricinoleaat",
@@ -19846,7 +19846,7 @@
             "Zout",
             "Isolmalt",
             "Sucralose",
-            "Palm- en palpitolie",
+            "Palmen palpitolie",
             "Magere cacaopoeder",
             "Lecithine [SOJA]",
             "Polyglycerolpolyricinoleaat",
@@ -20487,7 +20487,7 @@
             "SOJA crispies",
             "WEI eiwit",
             "Natuurlijke aroma's",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Zout"
         ]
     },
@@ -20578,7 +20578,7 @@
     },
     "https://www.ah.nl/producten/product/wi587882/ah-glutenvrij-mini-crackers": {
         "name": "AH Glutenvrij Mini crackers",
-        "ingredients": "IngrediëntenIngrediënten: zetmeel (maïszetmeel, aardappelzetmeel), bloem (rijstebloem, maïsmeel), zonnebloemolie, scharrelei, extra vierge olijfolie, verdikkingsmiddel (guarpitmeel [E412]), emulgator (mono- en diglyceriden van vetzuren [E471]), suiker, zout, gemodificeerd tapiocazetmeel, zuurteregelaar (natriumcarbonaten [E500]), aroma's, biergist, antioxidant (extracten van rozemarijn [E392])Waarvan toegevoegde suikers 1.3g per 100 gram en waarvan toegevoegd zout 1.20g per 100 gramAllergie-informatieBevat: EierenKan bevatten: Melk, Soja, Lactose",
+        "ingredients": "IngrediëntenIngrediënten: zetmeel (maïszetmeel, aardappelzetmeel), bloem (rijstebloem, maïsmeel), zonnebloemolie, scharrelei, extra vierge olijfolie, verdikkingsmiddel (guarpitmeel [E412]), emulgator (monoen diglyceriden van vetzuren [E471]), suiker, zout, gemodificeerd tapiocazetmeel, zuurteregelaar (natriumcarbonaten [E500]), aroma's, biergist, antioxidant (extracten van rozemarijn [E392])Waarvan toegevoegde suikers 1.3g per 100 gram en waarvan toegevoegd zout 1.20g per 100 gramAllergie-informatieBevat: EierenKan bevatten: Melk, Soja, Lactose",
         "processed_ingredients": [
             "zetmeel maïszetmeel",
             "zetmeel aardappelzetmeel",
@@ -20588,7 +20588,7 @@
             "scharrelei",
             "extra vierge olijfolie",
             "verdikkingsmiddel guarpitmeel e412",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "suiker",
             "zout",
             "gemodificeerd tapiocazetmeel",
@@ -20605,7 +20605,7 @@
             "Scharrelei",
             "Extra vierge olijfolie",
             "Verdikkingsmiddel (guarpitmeel [E412])",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471])",
+            "Emulgator (monoen diglyceriden van vetzuren [E471])",
             "Suiker",
             "Zout",
             "Gemodificeerd tapiocazetmeel",
@@ -20633,16 +20633,16 @@
             "bevat alcohol"
         ],
         "ai_processed_ingredients": [
-            "- Water",
-            "- SOJAbonen",
-            "- Rijst",
-            "- Zout",
-            "- Alcohol",
-            "- Wakame zeewier",
-            "- Kelp zeewier extract",
-            "- Gist extract",
-            "- Suiker",
-            "- SOJAsaus (bevat TARWE)"
+            "Water",
+            "SOJAbonen",
+            "Rijst",
+            "Zout",
+            "Alcohol",
+            "Wakame zeewier",
+            "Kelp zeewier extract",
+            "Gist extract",
+            "Suiker",
+            "SOJAsaus (bevat TARWE)"
         ]
     },
     "https://www.ah.nl/producten/product/wi576355/nature-valley-crunchy-chocolate-chip": {
@@ -20762,7 +20762,7 @@
             "WEI-eiwit",
             "Natuurlijke aroma's",
             "Cacaopoeder met verminderd vetgehalte",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Zout"
         ]
     },
@@ -21388,7 +21388,7 @@
     },
     "https://www.ah.nl/producten/product/wi576787/snickers-hi-protein-milk-reep": {
         "name": "Snickers Hi protein milk reep",
-        "ingredients": "IngrediëntenIngrediënten:melkchocolade met zoetstof (19%) (zoetstof (maltitol) , cacaoboter , volle MELKpoeder ,cacaomassa , emulgator (SOJAlecithine) , vanille-extract), MELKeiwit, collageenhydrolysaat,geroosterde PINDA'S (11%), karamel gearomatiseerde laag (11%) (zoetstof (maltitol) ,gecondenseerde MELK , cacaoboter , bevochtigingsmiddel (sorbitol) , emulgator (mono- endiglyceriden  van vetzuren) , natuurlijk aroma , zout , kleurstof (karamel)), bevochtigingsmiddel(glycerol), water, oligofructose, PINDApasta, eiwit van wei (MELK), palmvet, zeezout,aroma, natuurlijk aroma, kleurstof (karamel). Kan ei, glutenbevattende granen, notenbevatten.",
+        "ingredients": "IngrediëntenIngrediënten:melkchocolade met zoetstof (19%) (zoetstof (maltitol) , cacaoboter , volle MELKpoeder ,cacaomassa , emulgator (SOJAlecithine) , vanille-extract), MELKeiwit, collageenhydrolysaat,geroosterde PINDA'S (11%), karamel gearomatiseerde laag (11%) (zoetstof (maltitol) ,gecondenseerde MELK , cacaoboter , bevochtigingsmiddel (sorbitol) , emulgator (monoendiglyceriden  van vetzuren) , natuurlijk aroma , zout , kleurstof (karamel)), bevochtigingsmiddel(glycerol), water, oligofructose, PINDApasta, eiwit van wei (MELK), palmvet, zeezout,aroma, natuurlijk aroma, kleurstof (karamel). Kan ei, glutenbevattende granen, notenbevatten.",
         "processed_ingredients": [
             "melkchocolade met zoetstof zoetstof maltitol",
             "melkchocolade met zoetstof cacaoboter",
@@ -21403,7 +21403,7 @@
             "karamel gearomatiseerde laag gecondenseerde melk",
             "karamel gearomatiseerde laag cacaoboter",
             "karamel gearomatiseerde laag bevochtigingsmiddel sorbitol",
-            "karamel gearomatiseerde laag emulgator mono- endiglyceriden van vetzuren",
+            "karamel gearomatiseerde laag emulgator monoendiglyceriden van vetzuren",
             "karamel gearomatiseerde laag natuurlijk aroma",
             "karamel gearomatiseerde laag zout",
             "karamel gearomatiseerde laag kleurstof karamel",
@@ -21433,7 +21433,7 @@
             "Gecondenseerde melk",
             "Cacaoboter",
             "Bevochtigingsmiddel (sorbitol)",
-            "Emulgator (mono- endiglyceriden van vetzuren)",
+            "Emulgator (monoendiglyceriden van vetzuren)",
             "Natuurlijk aroma",
             "Zout",
             "Kleurstof (karamel)",
@@ -21550,11 +21550,11 @@
     },
     "https://www.ah.nl/producten/product/wi553401/starbucks-cappuccino": {
         "name": "Starbucks Cappuccino",
-        "ingredients": "IngrediëntenIngrediënten: MELK (3% vet) (75%), Starbucks® Arabica koffie (water, koffie- extract) (19,1%), suiker (4,7%), cichorei-inuline, natuurlijke aroma's, magere cacaopoeder (0,1%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen).Allergie-informatieBevat: Melk",
+        "ingredients": "IngrediëntenIngrediënten: MELK (3% vet) (75%), Starbucks® Arabica koffie (water, koffieextract) (19,1%), suiker (4,7%), cichorei-inuline, natuurlijke aroma's, magere cacaopoeder (0,1%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
             "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie- extract",
+            "starbucks® arabica koffie koffieextract",
             "suiker",
             "cichorei-inuline",
             "natuurlijke aroma's",
@@ -21645,14 +21645,14 @@
             "stabilisator natriumfosfaat; zoetstof sucralose"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- MELK",
-            "- MELKeiwit",
-            "- Cacaopoeder",
-            "- Maïszetmeel",
-            "- Natuurlijk aroma",
-            "- Lactase",
-            "- Natriumfosfaat"
+            "Halfvolle melk",
+            "MELK",
+            "MELKeiwit",
+            "Cacaopoeder",
+            "Maïszetmeel",
+            "Natuurlijk aroma",
+            "Lactase",
+            "Natriumfosfaat"
         ]
     },
     "https://www.ah.nl/producten/product/wi130265/ah-drinkyoghurt-perziksmaak-6-pack": {
@@ -21753,7 +21753,7 @@
     },
     "https://www.ah.nl/producten/product/wi584922/body-en-fit-protein-bar-crunchy-vanilla-toffee": {
         "name": "Body & Fit Protein bar crunchy vanilla toffee",
-        "ingredients": "IngrediëntenIngrediënten: melkchocolade smaak omhulling (32%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, cacaomassa, emulgator (SOJAlecithine), vanilla-extract), MELKeiwit, gehydrolyseerd collageen, zoetstof (maltitolen), SOY crispies (7,8%) (SOJA-eiwit, rijstmeel, GERSTEmoutextract, zout), bevochtigingsmiddelen, (glycerol, sorbitolen), SOJA-eiwit, gecondenseerde MELK, palmvet, witte chocoladesmaak (1,1%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, emulgator (lecithinen), vanilla-extract), cacaoboter, aroma, emulgator (mono- en diglyceriden van vetzuren), vulstof (microkristallijne cellulose), zout, kleurstoffen (karamel, carotenen). Kan sporen bevatten van noten, ei en pinda's.Allergie-informatieBevat: Melk, Soja, Gerst, Glutenbevattende GranenKan bevatten: Noten, Eieren, Pinda's",
+        "ingredients": "IngrediëntenIngrediënten: melkchocolade smaak omhulling (32%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, cacaomassa, emulgator (SOJAlecithine), vanilla-extract), MELKeiwit, gehydrolyseerd collageen, zoetstof (maltitolen), SOY crispies (7,8%) (SOJA-eiwit, rijstmeel, GERSTEmoutextract, zout), bevochtigingsmiddelen, (glycerol, sorbitolen), SOJA-eiwit, gecondenseerde MELK, palmvet, witte chocoladesmaak (1,1%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, emulgator (lecithinen), vanilla-extract), cacaoboter, aroma, emulgator (monoen diglyceriden van vetzuren), vulstof (microkristallijne cellulose), zout, kleurstoffen (karamel, carotenen). Kan sporen bevatten van noten, ei en pinda's.Allergie-informatieBevat: Melk, Soja, Gerst, Glutenbevattende GranenKan bevatten: Noten, Eieren, Pinda's",
         "processed_ingredients": [
             "melkchocolade smaak omhulling zoetstof maltitolen",
             "melkchocolade smaak omhulling cacaoboter",
@@ -21781,7 +21781,7 @@
             "witte chocoladesmaak vanilla-extract",
             "cacaoboter",
             "aroma",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "vulstof microkristallijne cellulose",
             "zout",
             "kleurstoffen karamel",
@@ -21813,7 +21813,7 @@
             "Witte chocoladesmaak",
             "Lecithinen",
             "Aroma",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Microkristallijne cellulose",
             "Karamel"
         ]
@@ -21920,10 +21920,10 @@
             "antioxidant calciumascorbaat e302"
         ],
         "ai_processed_ingredients": [
-            "- Ananas",
-            "- Watermeloen",
-            "- Groene appel",
-            "- Blauwe bes"
+            "Ananas",
+            "Watermeloen",
+            "Groene appel",
+            "Blauwe bes"
         ]
     },
     "https://www.ah.nl/producten/product/wi586036/upfront-eiwit-yoghurt-original": {
@@ -22185,12 +22185,12 @@
             "stabilisator natriumfosfaat; zoetstof sucralose"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- Melkeiwit",
-            "- Maïszetmeel",
-            "- Natuurlijk aroma",
-            "- Lactase",
-            "- Natriumfosfaat"
+            "Halfvolle melk",
+            "Melkeiwit",
+            "Maïszetmeel",
+            "Natuurlijk aroma",
+            "Lactase",
+            "Natriumfosfaat"
         ]
     },
     "https://www.ah.nl/producten/product/wi587626/ah-glutenvrij-crackers-zaden": {
@@ -22656,7 +22656,7 @@
     },
     "https://www.ah.nl/producten/product/wi570879/nxt-level-pocket-protein-raspberry-cheesecake": {
         "name": "NXT Level Pocket protein raspberry cheesecake",
-        "ingredients": "IngrediëntenWitte chocolade met zoetstof 25,5% (zoetstof: maltitolen; cacaoboter, volle MELKpoeder, emulgator: lecithinen (SOJA); natuurlijk aroma), MELKproteïne, frambozensmaaklaag 14,5% (vulmiddel: polydextrose; sojaolie, zoetstof: xylitol; magere MELKpoeder, zout, emulgator: citroenzuuresters van mono- en diglyceriden van vetzuren; aroma, kleurstof: karmijn), bevochtigingsmiddel: glycerol; gehydrolyseerd TARWEgluten, gehydrolyseerd collageen, SOJA-eiwit, oplosbare maïsvezels, sojaolie, magere yoghurtpoeder (MELK), aroma, zout, zoetstof: sucralose; kleurstof: carotenenAllergie-informatieBevat: Glutenbevattende Granen, Soja, Lactose, MelkKan bevatten: Eieren, Pinda's, Noten",
+        "ingredients": "IngrediëntenWitte chocolade met zoetstof 25,5% (zoetstof: maltitolen; cacaoboter, volle MELKpoeder, emulgator: lecithinen (SOJA); natuurlijk aroma), MELKproteïne, frambozensmaaklaag 14,5% (vulmiddel: polydextrose; sojaolie, zoetstof: xylitol; magere MELKpoeder, zout, emulgator: citroenzuuresters van monoen diglyceriden van vetzuren; aroma, kleurstof: karmijn), bevochtigingsmiddel: glycerol; gehydrolyseerd TARWEgluten, gehydrolyseerd collageen, SOJA-eiwit, oplosbare maïsvezels, sojaolie, magere yoghurtpoeder (MELK), aroma, zout, zoetstof: sucralose; kleurstof: carotenenAllergie-informatieBevat: Glutenbevattende Granen, Soja, Lactose, MelkKan bevatten: Eieren, Pinda's, Noten",
         "processed_ingredients": [
             "witte chocolade met zoetstof zoetstof maltitolen; cacaoboter",
             "witte chocolade met zoetstof volle melkpoeder",
@@ -22665,7 +22665,7 @@
             "frambozensmaaklaag vulmiddel polydextrose; sojaolie",
             "frambozensmaaklaag zoetstof xylitol; magere melkpoeder",
             "frambozensmaaklaag zout",
-            "frambozensmaaklaag emulgator citroenzuuresters van mono- en diglyceriden van vetzuren; aroma",
+            "frambozensmaaklaag emulgator citroenzuuresters van monoen diglyceriden van vetzuren; aroma",
             "frambozensmaaklaag kleurstof karmijn",
             "bevochtigingsmiddel glycerol; gehydrolyseerd tarwegluten",
             "gehydrolyseerd collageen",
@@ -22691,7 +22691,7 @@
             "Xylitol",
             "Magere melkpoeder",
             "Zout",
-            "Citroenzuuresters van mono- en diglyceriden van vetzuren",
+            "Citroenzuuresters van monoen diglyceriden van vetzuren",
             "Aroma",
             "Karmijn",
             "Glycerol",
@@ -23382,7 +23382,7 @@
     },
     "https://www.ah.nl/producten/product/wi576788/snickers-hi-protein-white-reep": {
         "name": "Snickers Hi protein white reep",
-        "ingredients": "IngrediëntenIngrediënten: witte chocolade met zoetstof (19%) (zoetstof (maltitol) , cacaoboter , volleMELKpoeder , emulgator (lecithine) , vanille-extract), MELKeiwit, collageenhydrolysaat,geroosterde PINDA'S (11%), karamel gearomatiseerde laag (11%) (zoetstof (maltitol) ,gecondenseerde MELK , cacaoboter , bevochtigingsmiddel (sorbitol) , emulgator (mono- endiglyceriden van vetzuren) , natuurlijk aroma , zout , kleurstof (karamel)), bevochtigingsmiddel(glycerol), water, oligofructose, PINDApasta, eiwit van wei (MELK), palmvet, zeezout,aroma, natuurlijk aroma, kleurstof (karamel). Kan ei, glutenbevattende granen, noten,soja bevatten.",
+        "ingredients": "IngrediëntenIngrediënten: witte chocolade met zoetstof (19%) (zoetstof (maltitol) , cacaoboter , volleMELKpoeder , emulgator (lecithine) , vanille-extract), MELKeiwit, collageenhydrolysaat,geroosterde PINDA'S (11%), karamel gearomatiseerde laag (11%) (zoetstof (maltitol) ,gecondenseerde MELK , cacaoboter , bevochtigingsmiddel (sorbitol) , emulgator (monoendiglyceriden van vetzuren) , natuurlijk aroma , zout , kleurstof (karamel)), bevochtigingsmiddel(glycerol), water, oligofructose, PINDApasta, eiwit van wei (MELK), palmvet, zeezout,aroma, natuurlijk aroma, kleurstof (karamel). Kan ei, glutenbevattende granen, noten,soja bevatten.",
         "processed_ingredients": [
             "witte chocolade met zoetstof zoetstof maltitol",
             "witte chocolade met zoetstof cacaoboter",
@@ -23396,7 +23396,7 @@
             "karamel gearomatiseerde laag gecondenseerde melk",
             "karamel gearomatiseerde laag cacaoboter",
             "karamel gearomatiseerde laag bevochtigingsmiddel sorbitol",
-            "karamel gearomatiseerde laag emulgator mono- endiglyceriden van vetzuren",
+            "karamel gearomatiseerde laag emulgator monoendiglyceriden van vetzuren",
             "karamel gearomatiseerde laag natuurlijk aroma",
             "karamel gearomatiseerde laag zout",
             "karamel gearomatiseerde laag kleurstof karamel",
@@ -23423,7 +23423,7 @@
             "Geroosterde PINDA'S",
             "Gecondenseerde melk",
             "Sorbitol",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Natuurlijk aroma",
             "Zout",
             "Kleurstof (karamel)",
@@ -23587,12 +23587,12 @@
             "lactase"
         ],
         "ai_processed_ingredients": [
-            "- Magere melk",
-            "- Melkeiwit",
-            "- Suiker",
-            "- Gellangom",
-            "- Carrageen",
-            "- Trinatriumcitraat"
+            "Magere melk",
+            "Melkeiwit",
+            "Suiker",
+            "Gellangom",
+            "Carrageen",
+            "Trinatriumcitraat"
         ]
     },
     "https://www.ah.nl/producten/product/wi574293/knorr-korean-bbq-style-noodles-smokey-spicy": {
@@ -23918,7 +23918,7 @@
     },
     "https://www.ah.nl/producten/product/wi508478/ah-sesam-crackers": {
         "name": "AH Sesam crackers",
-        "ingredients": "IngrediëntenIngrediënten: tarwebloem, volkoren tarwemeel, palmvet, glucosestroop, tarwezetmeel, sesamzaad, roggebloem, raapolie, tarwemoutmeel, zout, scharrelei-eiwitpoeder, suiker, gerstemoutextract, emulgator (mono- en diglyceriden van vetzuren [E471]), zuurteregelaar (citroenzuur [E330]), meelverbeteraar (ascorbinezuur [E300]), rijsmiddel (ammoniumcarbonaat [E503], natriumcarbonaat [E500]), gistextract.Waarvan toegevoegde suikers 9.4g per 100 gram en waarvan toegevoegd zout 0.67g per 100 gramAllergie-informatieBevat: Eieren, Sesamzaad, Glutenbevattende Granen, Gerst, Rogge, TarweKan bevatten: Melk, Lactose",
+        "ingredients": "IngrediëntenIngrediënten: tarwebloem, volkoren tarwemeel, palmvet, glucosestroop, tarwezetmeel, sesamzaad, roggebloem, raapolie, tarwemoutmeel, zout, scharrelei-eiwitpoeder, suiker, gerstemoutextract, emulgator (monoen diglyceriden van vetzuren [E471]), zuurteregelaar (citroenzuur [E330]), meelverbeteraar (ascorbinezuur [E300]), rijsmiddel (ammoniumcarbonaat [E503], natriumcarbonaat [E500]), gistextract.Waarvan toegevoegde suikers 9.4g per 100 gram en waarvan toegevoegd zout 0.67g per 100 gramAllergie-informatieBevat: Eieren, Sesamzaad, Glutenbevattende Granen, Gerst, Rogge, TarweKan bevatten: Melk, Lactose",
         "processed_ingredients": [
             "tarwebloem",
             "volkoren tarwemeel",
@@ -23933,7 +23933,7 @@
             "scharrelei-eiwitpoeder",
             "suiker",
             "gerstemoutextract",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "zuurteregelaar citroenzuur e330",
             "meelverbeteraar ascorbinezuur e300",
             "rijsmiddel ammoniumcarbonaat e503",
@@ -23955,7 +23955,7 @@
             "Scharrelei-eiwitpoeder",
             "Suiker",
             "Gerstemoutextract",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471])",
+            "Emulgator (monoen diglyceriden van vetzuren [E471])",
             "Zuurteregelaar (citroenzuur [E330])",
             "Meelverbeteraar (ascorbinezuur [E300])",
             "Rijsmiddel (ammoniumcarbonaat [E503], natriumcarbonaat [E500])"
@@ -24099,13 +24099,13 @@
     },
     "https://www.ah.nl/producten/product/wi576734/optimum-nutrition-marshmallow-crunch-bar": {
         "name": "Optimum Nutrition Marshmallow crunch bar",
-        "ingredients": "IngrediëntenIngrediënten: Krokante brokjes eiwit (31 %) (SOJA-eiwitisolaat, zetmeel, zout), omhulsel met witte chocoladesmaak (26 %) (zoetstoffen: isomalt, sucralose; palm- en palpitolie, WEIpoeder [MELK], TARWEmeel [GLUTEN], emulgator: lecithine [SOJA]; aroma), fructo-oligosacchariden, polydextrose, MELKeiwitten (WEI-eiwitisolaat, WEI-eiwitconcentraat, MELKeiwitconcentraat, emulgator: lecithine [SOJA]), isomalto-oligosaccariden, bevochtigingsmiddel (glycerol), aroma’s [MELK], zoetstof (sucralose), antioxidant (tocoferolrijk extract). VOOR ALLERGENEN ZIE DE VETGEDRUKTE INGREDIËNTEN IN HOOFDLETTERS. Kan bevatten: eieren, noten en pinda's.Allergie-informatieBevat: Soja, Melk, Tarwe, Glutenbevattende GranenKan bevatten: Eieren, Noten, Pinda's",
+        "ingredients": "IngrediëntenIngrediënten: Krokante brokjes eiwit (31 %) (SOJA-eiwitisolaat, zetmeel, zout), omhulsel met witte chocoladesmaak (26 %) (zoetstoffen: isomalt, sucralose; palmen palpitolie, WEIpoeder [MELK], TARWEmeel [GLUTEN], emulgator: lecithine [SOJA]; aroma), fructo-oligosacchariden, polydextrose, MELKeiwitten (WEI-eiwitisolaat, WEI-eiwitconcentraat, MELKeiwitconcentraat, emulgator: lecithine [SOJA]), isomalto-oligosaccariden, bevochtigingsmiddel (glycerol), aroma’s [MELK], zoetstof (sucralose), antioxidant (tocoferolrijk extract). VOOR ALLERGENEN ZIE DE VETGEDRUKTE INGREDIËNTEN IN HOOFDLETTERS. Kan bevatten: eieren, noten en pinda's.Allergie-informatieBevat: Soja, Melk, Tarwe, Glutenbevattende GranenKan bevatten: Eieren, Noten, Pinda's",
         "processed_ingredients": [
             "krokante brokjes eiwit soja-eiwitisolaat",
             "krokante brokjes eiwit zetmeel",
             "krokante brokjes eiwit zout",
             "omhulsel met witte chocoladesmaak zoetstoffen isomalt",
-            "omhulsel met witte chocoladesmaak sucralose; palm- en palpitolie",
+            "omhulsel met witte chocoladesmaak sucralose; palmen palpitolie",
             "omhulsel met witte chocoladesmaak weipoeder melk",
             "omhulsel met witte chocoladesmaak tarwemeel gluten",
             "omhulsel met witte chocoladesmaak emulgator lecithine soja; aroma",
@@ -24127,7 +24127,7 @@
             "Zout",
             "Isomalt",
             "Sucralose",
-            "Palm- en palpitolie",
+            "Palmen palpitolie",
             "WEIpoeder [MELK]",
             "TARWEmeel [GLUTEN]",
             "Lecithine [SOJA]",
@@ -24204,7 +24204,7 @@
     },
     "https://www.ah.nl/producten/product/wi584866/body-en-fit-protein-bar-crunchy-mocha-caramel": {
         "name": "Body & Fit Protein bar crunchy mocha caramel",
-        "ingredients": "IngrediëntenIngrediënten: witte chocoladesmaak omhulling (32%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, emulgator (lecithinen), vanilla-extract), MELKeiwit, polydextrose, gehydrolyseerd collageen, SOY crispies (7,8%) (SOJA-eiwit, rijstmeel, GERSTEmoutextract, zout), bevochtigingsmiddelen, (glycerol, sorbitolen), SOJA-eiwit, palmvet, gecondenseerde MELK, melkchocolade smaak (1,1%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, cacaomassa, emulgator (SOJAlecithine), vanilla-extract), cacaoboter, aroma (MELK), emulgator (mono- en diglyceriden van vetzuren), magere cacaopoeder, zout, kleurstof (karamel). Kan sporen bevatten van noten, ei en pinda's.Allergie-informatieBevat: Melk, Soja, Gerst, Glutenbevattende GranenKan bevatten: Noten, Eieren, Pinda's",
+        "ingredients": "IngrediëntenIngrediënten: witte chocoladesmaak omhulling (32%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, emulgator (lecithinen), vanilla-extract), MELKeiwit, polydextrose, gehydrolyseerd collageen, SOY crispies (7,8%) (SOJA-eiwit, rijstmeel, GERSTEmoutextract, zout), bevochtigingsmiddelen, (glycerol, sorbitolen), SOJA-eiwit, palmvet, gecondenseerde MELK, melkchocolade smaak (1,1%) (zoetstof (maltitolen), cacaoboter, volle MELKpoeder, cacaomassa, emulgator (SOJAlecithine), vanilla-extract), cacaoboter, aroma (MELK), emulgator (monoen diglyceriden van vetzuren), magere cacaopoeder, zout, kleurstof (karamel). Kan sporen bevatten van noten, ei en pinda's.Allergie-informatieBevat: Melk, Soja, Gerst, Glutenbevattende GranenKan bevatten: Noten, Eieren, Pinda's",
         "processed_ingredients": [
             "witte chocoladesmaak omhulling zoetstof maltitolen",
             "witte chocoladesmaak omhulling cacaoboter",
@@ -24232,7 +24232,7 @@
             "melkchocolade smaak vanilla-extract",
             "cacaoboter",
             "aroma melk",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "magere cacaopoeder",
             "zout",
             "kleurstof karamel"
@@ -24264,7 +24264,7 @@
             "Emulgator (SOJAlecithine)",
             "Vanilla-extract",
             "Aroma (MELK)",
-            "Emulgator (mono- en diglyceriden van vetzuren)",
+            "Emulgator (monoen diglyceriden van vetzuren)",
             "Magere cacaopoeder",
             "Zout"
         ]
@@ -24280,9 +24280,9 @@
             "zuurteregelaar natriumbicarbonaat"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle MELK",
-            "- Water",
-            "- Arabica koffie "
+            "Halfvolle MELK",
+            "Water",
+            "Arabica koffie "
         ]
     },
     "https://www.ah.nl/producten/product/wi570880/nxt-level-pocket-protein-caramel-cookie": {
@@ -24429,7 +24429,7 @@
     },
     "https://www.ah.nl/producten/product/wi589032/samyang-buldak-spicy-ramen-cheese": {
         "name": "Samyang Buldak spicy ramen cheese",
-        "ingredients": "IngrediëntenIngrediënten: Noedels (73,2%): TARWEmeel (GLUTEN), gemodificeerd zetmeel (tapioca), palmolie, TARWEGLUTEN, zout, emulgatorolie (emulgatoren (E 422, E 322, E 475), bevat SOJA), zuurteregelaars (E 501, E 500, E 339, E 330), uienkruiden smaakversterker (E 635), emulgator (E 471), verdikkingsmiddel (E 412), tocoferolen olie (emulgatoren (E 422, E 475), antioxidant (E 306), bevat SOJA), aroma van groene thee, kleurstof (E 101), Vloeibare saus (24,0%): water, aroma met kipsmaak (bevat TARWE, GLUTEN, SOJA,SELDERIJ), SOJAsaus (water, SOJAbonen,TARWE (GLUTEN), zout, fructose, smaakversterker (E 635), knoflook, aroma, yucca-extractpoeder, zoetstof (E 960a)), suiker, aroma (bevat SOJA), sojaolie habanero-peperkruiden (antiklontermiddel (E 551), smaakversterkers (E 631, E 627), kleurstof (E 160c), bevat SOJA), chilipeperkruiden (smaakversterker (E 621), bevat SOJA), ui, knoflook, verdikkingsmiddel (E 1420), kleurstof (E 160c), chilipeper, chilipeperextract, zwarte-peperpoeder, yucca-extractpoeder, Sauspoeder (2,8%): aroma (bevat SOJA), geroosterde SESAMZADEN, plantaardige-oliepoeder (emulgator (E 1450), säureregulatoren (E339, E452), antiklontermiddel (E 551), antioxidant (E 306, bevat SOJA), umamipoeder smaakversterker (E 635),geroosterd zeewier, gistextractpoederKan schaal- en schelpdieren, ei, vis, pinda's, melk, noten, mosterd en weekdieren bevatten.Voor allergenen: HOOFDLETTERS ingrediënten.Allergie-informatieBevat: Glutenbevattende Granen, Soja, Selderij, SesamzaadKan bevatten: Schaaldieren, Eieren, Vis, Melk, Pinda's, Noten, Mosterd, Weekdieren",
+        "ingredients": "IngrediëntenIngrediënten: Noedels (73,2%): TARWEmeel (GLUTEN), gemodificeerd zetmeel (tapioca), palmolie, TARWEGLUTEN, zout, emulgatorolie (emulgatoren (E 422, E 322, E 475), bevat SOJA), zuurteregelaars (E 501, E 500, E 339, E 330), uienkruiden smaakversterker (E 635), emulgator (E 471), verdikkingsmiddel (E 412), tocoferolen olie (emulgatoren (E 422, E 475), antioxidant (E 306), bevat SOJA), aroma van groene thee, kleurstof (E 101), Vloeibare saus (24,0%): water, aroma met kipsmaak (bevat TARWE, GLUTEN, SOJA,SELDERIJ), SOJAsaus (water, SOJAbonen,TARWE (GLUTEN), zout, fructose, smaakversterker (E 635), knoflook, aroma, yucca-extractpoeder, zoetstof (E 960a)), suiker, aroma (bevat SOJA), sojaolie habanero-peperkruiden (antiklontermiddel (E 551), smaakversterkers (E 631, E 627), kleurstof (E 160c), bevat SOJA), chilipeperkruiden (smaakversterker (E 621), bevat SOJA), ui, knoflook, verdikkingsmiddel (E 1420), kleurstof (E 160c), chilipeper, chilipeperextract, zwarte-peperpoeder, yucca-extractpoeder, Sauspoeder (2,8%): aroma (bevat SOJA), geroosterde SESAMZADEN, plantaardige-oliepoeder (emulgator (E 1450), säureregulatoren (E339, E452), antiklontermiddel (E 551), antioxidant (E 306, bevat SOJA), umamipoeder smaakversterker (E 635),geroosterd zeewier, gistextractpoederKan schaalen schelpdieren, ei, vis, pinda's, melk, noten, mosterd en weekdieren bevatten.Voor allergenen: HOOFDLETTERS ingrediënten.Allergie-informatieBevat: Glutenbevattende Granen, Soja, Selderij, SesamzaadKan bevatten: Schaaldieren, Eieren, Vis, Melk, Pinda's, Noten, Mosterd, Weekdieren",
         "processed_ingredients": null,
         "error": "Number of brackets is not equal in : noedels (): tarwemeel (gluten), gemodificeerd zetmeel (tapioca), palmolie, tarwegluten, zout, emulgatorolie (emulgatoren (e 422, e 322, e 475), bevat soja), zuurteregelaars (e 501, e 500, e 339, e 330), uienkruiden smaakversterker (e 635), emulgator (e 471), verdikkingsmiddel (e 412), tocoferolen olie (emulgatoren (e 422, e 475), antioxidant (e 306), bevat soja), aroma van groene thee, kleurstof (e 101), vloeibare saus (): water, aroma met kipsmaak (bevat tarwe, gluten, soja,selderij), sojasaus (water, sojabonen,tarwe (gluten), zout, fructose, smaakversterker (e 635), knoflook, aroma, yucca-extractpoeder, zoetstof (e 960a)), suiker, aroma (bevat soja), sojaolie habanero-peperkruiden (antiklontermiddel (e 551), smaakversterkers (e 631, e 627), kleurstof (e 160c), bevat soja), chilipeperkruiden (smaakversterker (e 621), bevat soja), ui, knoflook, verdikkingsmiddel (e 1420), kleurstof (e 160c), chilipeper, chilipeperextract, zwarte-peperpoeder, yucca-extractpoeder, sauspoeder (): aroma (bevat soja), geroosterde sesamzaden, plantaardige-oliepoeder (emulgator (e 1450), säureregulatoren (e339, e452), antiklontermiddel (e 551), antioxidant (e 306, bevat soja), umamipoeder smaakversterker (e 635),geroosterd zeewier, gistextractpoeder. Number of ( is 36 and number of ) is 35",
         "ai_processed_ingredients": [
@@ -24998,7 +24998,7 @@
     },
     "https://www.ah.nl/producten/product/wi589034/samyang-buldak-spicy-ramen-original": {
         "name": "Samyang Buldak spicy ramen original",
-        "ingredients": "IngrediëntenIngrediënten: Noedels (76,0%): TARWEmeel (GLUTEN), gemodificeerd zetmeel (tapioca), palmolie, TARWEGLUTEN, zout, geemulgeerde olie (emulgatoren (E422, E322, E475), bevat SOJA), zuurteregelaars (E501, E500, E339, E30), uienkruiden (smaakversterker (E635), emulgator (E471), antioxidant (E306), bevat SOJA), aroma van groene thee, kleurstof (E101), Vloeibare saus (23,2%): water, aroma met kipsmaak (bevat TARWE, GLUTEN, SOJA, SELDERIJ), SOJAsaus (water, SOJAbonen, TARWE (GLUTEN), zout, fructose, smaakversterker (E635), knoflook, aroma, yucca-extractpoeder, zoetstof (E960a), suiker, habanero peperkruiden (antiklontermiddel (E551), smaakversterkers (E631, E627), kleurstof (E160c), bevat SOJA), chilipeperkruiden (smaakversterker (E621), bevat SOJA), SOJAolie,ui, chilipeperzaadolie, chilipeperpoeder, knoflook, verdikkingsmiddel (E1420), chilipeperextract, kleurstof (E160c), zwarte peperpoeder, yucca-extractpoeder, Vlokken (0,8%): geroosterde SESAMZADEN, geroosterd zeewierKan schaal- en schelpdieren, ei, vis, pinda's, melk, noten, mosterd en weekdieren bevatten.Voor allergenen: HOOFDLETTERS ingrediënten.Allergie-informatieBevat: Glutenbevattende Granen, Soja, Selderij, SesamzaadKan bevatten: Schelpdieren, Eieren, Pinda's, Noten, Mosterd, Weekdieren",
+        "ingredients": "IngrediëntenIngrediënten: Noedels (76,0%): TARWEmeel (GLUTEN), gemodificeerd zetmeel (tapioca), palmolie, TARWEGLUTEN, zout, geemulgeerde olie (emulgatoren (E422, E322, E475), bevat SOJA), zuurteregelaars (E501, E500, E339, E30), uienkruiden (smaakversterker (E635), emulgator (E471), antioxidant (E306), bevat SOJA), aroma van groene thee, kleurstof (E101), Vloeibare saus (23,2%): water, aroma met kipsmaak (bevat TARWE, GLUTEN, SOJA, SELDERIJ), SOJAsaus (water, SOJAbonen, TARWE (GLUTEN), zout, fructose, smaakversterker (E635), knoflook, aroma, yucca-extractpoeder, zoetstof (E960a), suiker, habanero peperkruiden (antiklontermiddel (E551), smaakversterkers (E631, E627), kleurstof (E160c), bevat SOJA), chilipeperkruiden (smaakversterker (E621), bevat SOJA), SOJAolie,ui, chilipeperzaadolie, chilipeperpoeder, knoflook, verdikkingsmiddel (E1420), chilipeperextract, kleurstof (E160c), zwarte peperpoeder, yucca-extractpoeder, Vlokken (0,8%): geroosterde SESAMZADEN, geroosterd zeewierKan schaalen schelpdieren, ei, vis, pinda's, melk, noten, mosterd en weekdieren bevatten.Voor allergenen: HOOFDLETTERS ingrediënten.Allergie-informatieBevat: Glutenbevattende Granen, Soja, Selderij, SesamzaadKan bevatten: Schelpdieren, Eieren, Pinda's, Noten, Mosterd, Weekdieren",
         "processed_ingredients": null,
         "error": "Number of brackets is not equal in : noedels (): tarwemeel (gluten), gemodificeerd zetmeel (tapioca), palmolie, tarwegluten, zout, geemulgeerde olie (emulgatoren (e422, e322, e475), bevat soja), zuurteregelaars (e501, e500, e339, e30), uienkruiden (smaakversterker (e635), emulgator (e471), antioxidant (e306), bevat soja), aroma van groene thee, kleurstof (e101), vloeibare saus (): water, aroma met kipsmaak (bevat tarwe, gluten, soja, selderij), sojasaus (water, sojabonen, tarwe (gluten), zout, fructose, smaakversterker (e635), knoflook, aroma, yucca-extractpoeder, zoetstof (e960a), suiker, habanero peperkruiden (antiklontermiddel (e551), smaakversterkers (e631, e627), kleurstof (e160c), bevat soja), chilipeperkruiden (smaakversterker (e621), bevat soja), sojaolie,ui, chilipeperzaadolie, chilipeperpoeder, knoflook, verdikkingsmiddel (e1420), chilipeperextract, kleurstof (e160c), zwarte peperpoeder, yucca-extractpoeder, vlokken (): geroosterde sesamzaden, geroosterd zeewier. Number of ( is 26 and number of ) is 25",
         "ai_processed_ingredients": [
@@ -25023,7 +25023,7 @@
             "SOJAolie, ui, chilipeperzaadolie, chilipeperpoeder, knoflook, verdikkingsmiddel (E1420), chilipeperextract, kleurstof (E160c), zwarte peperpoeder, yucca-extractpoeder, ",
             "Vlokken (0,8%): ",
             "geroosterde SESAMZADEN, ",
-            "geroosterd zeewierKan schaal- en schelpdieren, ",
+            "geroosterd zeewierKan schaalen schelpdieren, ",
             "ei, ",
             "vis, ",
             "pinda's, ",
@@ -25113,7 +25113,7 @@
         ]
     },
     "https://www.ah.nl/producten/product/wi518140/tastybasics-beschuit-zonnebloem-en-pompoenpitten": {
-        "name": "TastyBasics Beschuit zonnebloem- en pompoenpitten",
+        "name": "TastyBasics Beschuit zonnebloemen pompoenpitten",
         "ingredients": "IngrediëntenIngrediënten: volkorenmeel (TARWE, SPELT), gist, EI, 5% pompoenpitten, 5% zonnebloempitten, GERSTEmoutextract, lijnzaad, SESAMzaad, TARWEgluten, zout, moutmeel (GERST, TARWE), (voorverstijfseld) TARWEbloem, meelverbeteraar (ascorbinezuur), enzym (TARWE), inactieve gist. Kan sporen van soja bevatten.Allergie-informatieBevat: Glutenbevattende Granen, Tarwe, Eieren, Sesamzaad, Spelt, GerstKan bevatten: Soja",
         "processed_ingredients": [
             "volkorenmeel tarwe",
@@ -26018,10 +26018,10 @@
             "Dextrose",
             "Gemodificeerd maïszetmeel",
             "Rijsmiddelen:",
-            "- Ammoniumbicarbonaat",
-            "- Monokaliumtartraat",
-            "- Natriumbicarbonaat",
-            "- Zeezout (2,3%)",
+            "Ammoniumbicarbonaat",
+            "Monokaliumtartraat",
+            "Natriumbicarbonaat",
+            "Zeezout (2,3%)",
             "Emulgator: SOJA lecithine",
             "Verdikkingsmiddel: guargom",
             "Voedingszuur: citroenzuur"
@@ -27062,12 +27062,12 @@
             "zuurteregelaar natriumbicarbonaat"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle MELK",
-            "- Arabica koffie ",
-            "- Water",
-            "- Koffie*",
-            "- Ongeraffineerde demerara suiker",
-            "- Natuurlijk aroma"
+            "Halfvolle MELK",
+            "Arabica koffie ",
+            "Water",
+            "Koffie*",
+            "Ongeraffineerde demerara suiker",
+            "Natuurlijk aroma"
         ]
     },
     "https://www.ah.nl/producten/product/wi571881/the-noodle-poodle-thai-green-curry": {
@@ -27659,13 +27659,13 @@
             "cacaomassa",
             "WEI-eiwitisolaat [MELK]",
             "krokantje stukjes SOJA-eiwit (7,4%) ",
-            "- SOJA-proteïne-isolaat",
-            "- zetmeel",
-            "- zout",
+            "SOJA-proteïne-isolaat",
+            "zetmeel",
+            "zout",
             "krokante stukjes cacao-SOJA-eiwit (7%) ",
-            "- SOJA proteïne-isolaat",
-            "- zetmeel",
-            "- magere cacoapoeder",
+            "SOJA proteïne-isolaat",
+            "zetmeel",
+            "magere cacoapoeder",
             "polydextrose",
             "BOTERvet [MELK]",
             "magere MELKpoeder",
@@ -27688,17 +27688,17 @@
             "zuurteregelaars e332"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- Koffie",
-            "- Water",
-            "- Oploskoffie",
-            "- Suiker",
-            "- Stabilisatoren",
-            "- E460",
-            "- E466",
-            "- Aroma's",
-            "- Zuurteregelaars",
-            "- E500"
+            "Halfvolle melk",
+            "Koffie",
+            "Water",
+            "Oploskoffie",
+            "Suiker",
+            "Stabilisatoren",
+            "E460",
+            "E466",
+            "Aroma's",
+            "Zuurteregelaars",
+            "E500"
         ]
     },
     "https://www.ah.nl/producten/product/wi584913/ah-cracker-zaden-en-vijg": {
@@ -27883,17 +27883,17 @@
             "zuurteregelaars e332"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- Koffie",
-            "- Water",
-            "- Oploskoffie",
-            "- Suiker",
-            "- Stabilisatoren ",
-            "- E460",
-            "- E466",
-            "- Aroma's",
-            "- Zuurteregelaars ",
-            "- E500"
+            "Halfvolle melk",
+            "Koffie",
+            "Water",
+            "Oploskoffie",
+            "Suiker",
+            "Stabilisatoren ",
+            "E460",
+            "E466",
+            "Aroma's",
+            "Zuurteregelaars ",
+            "E500"
         ]
     },
     "https://www.ah.nl/producten/product/wi577796/koh-thai-woksaus-basil-en-chili": {
@@ -27942,14 +27942,14 @@
             "zuurteregelaar citroenzuur"
         ],
         "ai_processed_ingredients": [
-            "- Perzik",
-            "- Peer",
-            "- Ananas",
-            "- Kers",
-            "- Kleurstof E127",
-            "- Geklaard wit druivensap",
-            "- Concentraat",
-            "- Ascorbinezuur"
+            "Perzik",
+            "Peer",
+            "Ananas",
+            "Kers",
+            "Kleurstof E127",
+            "Geklaard wit druivensap",
+            "Concentraat",
+            "Ascorbinezuur"
         ]
     },
     "https://www.ah.nl/producten/product/wi587591/schar-hafer-knackebrot-glutenvrij": {
@@ -28195,7 +28195,7 @@
     },
     "https://www.ah.nl/producten/product/wi576710/nutramino-protein-bar-crunchy-chocolate-en-brownie": {
         "name": "Nutramino Protein bar crunchy chocolate & brownie",
-        "ingredients": "IngrediëntenIngrediënten: Laagje MELKchocolade, met zoetstof (32%) (zoetstof: maltitol; cacaoboter, volle MELKpoeder, cacaomassa, emulgator: lecithinen (SOJA); vanille-extrat), laagje met karamelsmaak (16%) (zoetstof: maltitol; gecondenseerde MELK, cacaoboter, bevochtigingsmiddel: sorbitol; emulgator: mono- en diglyceriden van vetzuren; aroma, zout, kleurstof: karamel), MELK-eiwit, collageen hydrolysaat, krokante stukjes SOJA met cacao (9,1%) (SOJA-eiwit, cacaopoeder, zetmeel), bevochtigingsmiddel (glycerol), vand, SOJA-eiwit, kokosvet, magere cacaopoeder, aroma. Voor allergenen zie de vetgedrukte ingrediënten in hoofdletters. Kan bevatten; eieren, noten en aardnoten.Allergie-informatieBevat: Melk, SojaKan bevatten: Eieren, Noten, Pinda's",
+        "ingredients": "IngrediëntenIngrediënten: Laagje MELKchocolade, met zoetstof (32%) (zoetstof: maltitol; cacaoboter, volle MELKpoeder, cacaomassa, emulgator: lecithinen (SOJA); vanille-extrat), laagje met karamelsmaak (16%) (zoetstof: maltitol; gecondenseerde MELK, cacaoboter, bevochtigingsmiddel: sorbitol; emulgator: monoen diglyceriden van vetzuren; aroma, zout, kleurstof: karamel), MELK-eiwit, collageen hydrolysaat, krokante stukjes SOJA met cacao (9,1%) (SOJA-eiwit, cacaopoeder, zetmeel), bevochtigingsmiddel (glycerol), vand, SOJA-eiwit, kokosvet, magere cacaopoeder, aroma. Voor allergenen zie de vetgedrukte ingrediënten in hoofdletters. Kan bevatten; eieren, noten en aardnoten.Allergie-informatieBevat: Melk, SojaKan bevatten: Eieren, Noten, Pinda's",
         "processed_ingredients": [
             "laagje melkchocolade",
             "met zoetstof zoetstof maltitol; cacaoboter",
@@ -28204,7 +28204,7 @@
             "met zoetstof emulgator lecithinen soja; vanille-extrat",
             "laagje met karamelsmaak zoetstof maltitol; gecondenseerde melk",
             "laagje met karamelsmaak cacaoboter",
-            "laagje met karamelsmaak bevochtigingsmiddel sorbitol; emulgator mono- en diglyceriden van vetzuren; aroma",
+            "laagje met karamelsmaak bevochtigingsmiddel sorbitol; emulgator monoen diglyceriden van vetzuren; aroma",
             "laagje met karamelsmaak zout",
             "laagje met karamelsmaak kleurstof karamel",
             "melk-eiwit",
@@ -28231,7 +28231,7 @@
             "Karamelsmaak",
             "Gecondenseerde MELK",
             "Sorbitol",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Aroma",
             "Zout",
             "Kleurstof: karamel",
@@ -28280,25 +28280,25 @@
             "Eiwit",
             "MELK",
             "chocolade (20%) ",
-            "- WEl-eiwitconcentraat [MELK]",
-            "- cacaoboter",
-            "- volle MELKpoeder",
-            "- zoetstof: maltitol; cacaomassa, natuurlijk vanillearoma",
+            "WEl-eiwitconcentraat [MELK]",
+            "cacaoboter",
+            "volle MELKpoeder",
+            "zoetstof: maltitol; cacaomassa, natuurlijk vanillearoma",
             "Stukjes SOJA-eiwitisolaat (13%)",
             "Laagje met karamelsmaak (13%) ",
-            "- bevochtigingsmiddel: glycerol",
-            "- maltodextrine",
-            "- fructo-oligosacchariden",
-            "- zoetstof: maltitol; kokosolie, magere MELKpoeder, kleurstof: karamel; emulgator: lecithine [SOJA]",
-            "- zout",
-            "- natuurlijke aroma's",
+            "bevochtigingsmiddel: glycerol",
+            "maltodextrine",
+            "fructo-oligosacchariden",
+            "zoetstof: maltitol; kokosolie, magere MELKpoeder, kleurstof: karamel; emulgator: lecithine [SOJA]",
+            "zout",
+            "natuurlijke aroma's",
             "Fructo-oligosacchariden",
             "Rozijnen (8%)",
             "Geroosterde PINDA'S (7%)",
             "Krokante stukjes eitwit (7%) ",
-            "- SOJA-eiwitisolaat",
-            "- zetmeel",
-            "- zout",
+            "SOJA-eiwitisolaat",
+            "zetmeel",
+            "zout",
             "Polydextrose",
             "WEl-eiwitisolaat [MELK]",
             "Isomalto-oligosachariden",
@@ -28324,17 +28324,17 @@
             "zuurteregelaars e332"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- Koffie",
-            "- Water",
-            "- Oploskoffie",
-            "- Suiker",
-            "- Stabilisatoren ",
-            "- E460",
-            "- E466",
-            "- Aroma's",
-            "- Zuurteregelaars ",
-            "- E500"
+            "Halfvolle melk",
+            "Koffie",
+            "Water",
+            "Oploskoffie",
+            "Suiker",
+            "Stabilisatoren ",
+            "E460",
+            "E466",
+            "Aroma's",
+            "Zuurteregelaars ",
+            "E500"
         ]
     },
     "https://www.ah.nl/producten/product/wi588495/upfront-clear-whey-limonade-mojitosmaak": {
@@ -28347,17 +28347,17 @@
             "zoetstof sucralose"
         ],
         "ai_processed_ingredients": [
-            "- Eiwitisolaat",
-            "- MELK",
-            "- Citroenzuur",
-            "- Zonnebloemlechitine",
-            "- Muntpoeder",
-            "- Natuurlijk citroenaroma"
+            "Eiwitisolaat",
+            "MELK",
+            "Citroenzuur",
+            "Zonnebloemlechitine",
+            "Muntpoeder",
+            "Natuurlijk citroenaroma"
         ]
     },
     "https://www.ah.nl/producten/product/wi1625/ah-beschuit-volkoren": {
         "name": "AH Beschuit volkoren",
-        "ingredients": "IngrediëntenIngrediënten: volkoren tarwemeel, suiker, tarwegluten, gist, glucosestroop, 1,4% vrije-uitloopei, emulgator (lecithinen [E322], natrium-, kalium- en calciumzouten van vetzuren [E470a], polyoxyethyleensorbitaanmonoöleaat (polysorbaat 80) [E433]), raapolie, zout, meelverbeteraar (ascorbinezuur [E300]).Waarvan toegevoegde suikers 6.5g per 100 gram en waarvan toegevoegd zout 0.42g per 100 gramAllergie-informatieBevat: Eieren, Glutenbevattende Granen, TarweKan bevatten: Sesamzaad, Gerst, Haver, Spelt, Rogge",
+        "ingredients": "IngrediëntenIngrediënten: volkoren tarwemeel, suiker, tarwegluten, gist, glucosestroop, 1,4% vrije-uitloopei, emulgator (lecithinen [E322], natrium-, kaliumen calciumzouten van vetzuren [E470a], polyoxyethyleensorbitaanmonoöleaat (polysorbaat 80) [E433]), raapolie, zout, meelverbeteraar (ascorbinezuur [E300]).Waarvan toegevoegde suikers 6.5g per 100 gram en waarvan toegevoegd zout 0.42g per 100 gramAllergie-informatieBevat: Eieren, Glutenbevattende Granen, TarweKan bevatten: Sesamzaad, Gerst, Haver, Spelt, Rogge",
         "processed_ingredients": [
             "volkoren tarwemeel",
             "suiker",
@@ -28367,7 +28367,7 @@
             "vrije-uitloopei",
             "emulgator lecithinen e322",
             "emulgator natrium-",
-            "emulgator kalium- en calciumzouten van vetzuren e470a",
+            "emulgator kaliumen calciumzouten van vetzuren e470a",
             "emulgator polyoxyethyleensorbitaanmonoöleaat polysorbaat 80 e433",
             "raapolie",
             "zout",
@@ -28381,7 +28381,7 @@
             "Gist",
             "Glucosestroop",
             ",4% vrije-uitloopei",
-            "Emulgator (lecithinen [E322], natrium-, kalium- en calciumzouten van vetzuren [E470a], polyoxyethyleensorbitaanmonoöleaat (polysorbaat 80) [E433])",
+            "Emulgator (lecithinen [E322], natrium-, kaliumen calciumzouten van vetzuren [E470a], polyoxyethyleensorbitaanmonoöleaat (polysorbaat 80) [E433])",
             "Raapolie",
             "Zout",
             "Meelverbeteraar (ascorbinezuur [E300])",
@@ -28396,7 +28396,7 @@
     },
     "https://www.ah.nl/producten/product/wi1624/ah-beschuit-naturel": {
         "name": "AH Beschuit naturel",
-        "ingredients": "IngrediëntenIngrediënten: tarwebloem, suiker, gist, glucosestroop, raapolie, emulgator (lecithinen [E322], natrium-, kalium- en calciumzouten van vetzuren [E470a], polyoxyethyleensorbitaanmonoöleaat (polysorbaat 80) [E433]), voedingsvezel (inuline, tarwe), 0,5% vrije-uitloopei, zout, roggebloem, meelverbeteraar (ascorbinezuur [E300]).Waarvan toegevoegde suikers 6.9g per 100 gram en waarvan toegevoegd zout 0.40g per 100 gramAllergie-informatieBevat: Eieren, Glutenbevattende Granen, Rogge, TarweKan bevatten: Melk, Sesamzaad, Gerst, Haver, Lactose",
+        "ingredients": "IngrediëntenIngrediënten: tarwebloem, suiker, gist, glucosestroop, raapolie, emulgator (lecithinen [E322], natrium-, kaliumen calciumzouten van vetzuren [E470a], polyoxyethyleensorbitaanmonoöleaat (polysorbaat 80) [E433]), voedingsvezel (inuline, tarwe), 0,5% vrije-uitloopei, zout, roggebloem, meelverbeteraar (ascorbinezuur [E300]).Waarvan toegevoegde suikers 6.9g per 100 gram en waarvan toegevoegd zout 0.40g per 100 gramAllergie-informatieBevat: Eieren, Glutenbevattende Granen, Rogge, TarweKan bevatten: Melk, Sesamzaad, Gerst, Haver, Lactose",
         "processed_ingredients": [
             "tarwebloem",
             "suiker",
@@ -28405,7 +28405,7 @@
             "raapolie",
             "emulgator lecithinen e322",
             "emulgator natrium-",
-            "emulgator kalium- en calciumzouten van vetzuren e470a",
+            "emulgator kaliumen calciumzouten van vetzuren e470a",
             "emulgator polyoxyethyleensorbitaanmonoöleaat polysorbaat 80 e433",
             "voedingsvezel inuline",
             "voedingsvezel tarwe",
@@ -28446,9 +28446,9 @@
         "ingredients": "IngrediëntenWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter*Van weidemelk.Allergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker",
-            "- Zout",
-            "- Weidemelk"
+            "Suiker",
+            "Zout",
+            "Weidemelk"
         ]
     },
     "https://www.ah.nl/producten/product/wi133870/ah-melkbiscuit-aardbeiensmaak": {
@@ -28519,7 +28519,7 @@
     },
     "https://www.ah.nl/producten/product/wi560850/ah-protein-bar-white-choco-pinda-karamel": {
         "name": "AH Protein bar white choco pinda karamel",
-        "ingredients": "IngrediëntenIngrediënten: melkeiwit, collageenhydrolysaat, 11% pinda, zoetstof (maltitolen [E965], sucralose [E955]), voedingsvezel (polydextrose), bevochtigingsmiddel (glycerol [E422], sorbitolen [E420]), cacaoboter°, water, vollemelkpoeder, soja-eiwit, palmvet, gecondenseerde melk, havermout, aroma´s, zout, magerecacaopoeder°, emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322]), natuurlijke aroma´s, kleurstof (karamel [E150a]), vanille-extract.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.41g per 100 gram°Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.orgAllergie-informatieBevat: Melk, Pinda's, Soja, Haver, LactoseKan bevatten: Eieren, Noten, Glutenbevattende Granen, Gerst, Amandel, Cashewnoot, Hazelnoot, Macadamianoot, Pecannoot, Paranoot, Pistachenoot, Walnoot, Tarwe",
+        "ingredients": "IngrediëntenIngrediënten: melkeiwit, collageenhydrolysaat, 11% pinda, zoetstof (maltitolen [E965], sucralose [E955]), voedingsvezel (polydextrose), bevochtigingsmiddel (glycerol [E422], sorbitolen [E420]), cacaoboter°, water, vollemelkpoeder, soja-eiwit, palmvet, gecondenseerde melk, havermout, aroma´s, zout, magerecacaopoeder°, emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322]), natuurlijke aroma´s, kleurstof (karamel [E150a]), vanille-extract.Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.41g per 100 gram°Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.orgAllergie-informatieBevat: Melk, Pinda's, Soja, Haver, LactoseKan bevatten: Eieren, Noten, Glutenbevattende Granen, Gerst, Amandel, Cashewnoot, Hazelnoot, Macadamianoot, Pecannoot, Paranoot, Pistachenoot, Walnoot, Tarwe",
         "processed_ingredients": [
             "melkeiwit",
             "collageenhydrolysaat",
@@ -28539,7 +28539,7 @@
             "aroma´s",
             "zout",
             "magerecacaopoeder°",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "emulgator lecithinen e322",
             "natuurlijke aroma´s",
             "kleurstof karamel e150a",
@@ -28562,7 +28562,7 @@
             "Aroma´s",
             "Zout",
             "Magerecacaopoeder",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471], lecithinen [E322])",
+            "Emulgator (monoen diglyceriden van vetzuren [E471], lecithinen [E322])",
             "Natuurlijke aroma´s",
             "Kleurstof (karamel [E150a])"
         ]
@@ -28678,13 +28678,13 @@
             "voedingszuur natriumfosfaat e339"
         ],
         "ai_processed_ingredients": [
-            "- Halfvolle melk",
-            "- Suiker",
-            "- Cacaopoeder",
-            "- Natuurlijke aroma's",
-            "- Cellulosegom [E466]",
-            "- Cellulose [E460]",
-            "- Carrageen [E407]"
+            "Halfvolle melk",
+            "Suiker",
+            "Cacaopoeder",
+            "Natuurlijke aroma's",
+            "Cellulosegom [E466]",
+            "Cellulose [E460]",
+            "Carrageen [E407]"
         ]
     },
     "https://www.ah.nl/producten/product/wi456078/ah-meerzadenbeschuit": {
@@ -29021,10 +29021,10 @@
             "cherrytomaat geel in wisselende verhoudingen"
         ],
         "ai_processed_ingredients": [
-            "- Mini pruimtaat",
-            "- Rode mini pruimtaat",
-            "- Oranje mini pruimtaat",
-            "- Cherrytomaat"
+            "Mini pruimtaat",
+            "Rode mini pruimtaat",
+            "Oranje mini pruimtaat",
+            "Cherrytomaat"
         ]
     },
     "https://www.ah.nl//producten/product/wi395960/ah-spinazie": {
@@ -29045,7 +29045,7 @@
         "url": "https://www.ah.nl//producten/product/wi107685/ah-romaatjes",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi165583/ah-sweet-cherry-cherrytomaten": {
@@ -29054,7 +29054,7 @@
         "url": "https://www.ah.nl//producten/product/wi165583/ah-sweet-cherry-cherrytomaten",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi418283/ah-roerbakgroente-italiaans-fijngesneden": {
@@ -29081,7 +29081,7 @@
         "url": "https://www.ah.nl//producten/product/wi192851/ah-bimi",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi439146/ah-rode-uien": {
@@ -29090,7 +29090,7 @@
         "url": "https://www.ah.nl//producten/product/wi439146/ah-rode-uien",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi455430/ah-finest-red-nederlandse-trostomaten": {
@@ -29135,7 +29135,7 @@
         "url": "https://www.ah.nl//producten/product/wi238968/ah-koriander",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi476241/ah-mini-krieltjes": {
@@ -29156,7 +29156,7 @@
         "url": "https://www.ah.nl//producten/product/wi164358/ah-oranje-zoete-aardappel",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi4071/ah-zuurkool-naturel": {
@@ -29181,8 +29181,8 @@
             "lollo rossa"
         ],
         "ai_processed_ingredients": [
-            "- Rucola",
-            "- Snijbiet"
+            "Rucola",
+            "Snijbiet"
         ]
     },
     "https://www.ah.nl//producten/product/wi186650/ah-biologisch-prei": {
@@ -29191,7 +29191,7 @@
         "url": "https://www.ah.nl//producten/product/wi186650/ah-biologisch-prei",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi56338/ah-andijvie-fijngesneden-kleinverpakking": {
@@ -29202,8 +29202,8 @@
             "andijvie"
         ],
         "ai_processed_ingredients": [
-            "- Andijvie",
-            "- Suiker"
+            "Andijvie",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi167873/ah-terra-kikkererwten": {
@@ -29238,8 +29238,8 @@
             "veldsla"
         ],
         "ai_processed_ingredients": [
-            "- Veldsla",
-            "- Suiker"
+            "Veldsla",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi101132/ah-biologisch-kastanjechampignons": {
@@ -29248,7 +29248,7 @@
         "url": "https://www.ah.nl//producten/product/wi101132/ah-biologisch-kastanjechampignons",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi435427/ah-snoepgroente-worteltjes": {
@@ -29299,7 +29299,7 @@
         "url": "https://www.ah.nl//producten/product/wi207061/ah-munt-grootverpakking",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi449311/ah-biologisch-baby-romaine": {
@@ -29308,7 +29308,7 @@
         "url": "https://www.ah.nl//producten/product/wi449311/ah-biologisch-baby-romaine",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi217088/ah-bakaardappeltjes": {
@@ -29505,7 +29505,7 @@
         "url": "https://www.ah.nl//producten/product/wi185774/ah-biologisch-knoflook",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi238971/ah-platte-peterselie": {
@@ -29514,7 +29514,7 @@
         "url": "https://www.ah.nl//producten/product/wi238971/ah-platte-peterselie",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi198386/ah-tomatensoep": {
@@ -29550,18 +29550,18 @@
         ],
         "ai_processed_ingredients": [
             "Groente",
-            "- Romatomaat",
-            "- Ui",
-            "- Winterpeen",
-            "- Wortel",
-            "- Prei",
-            "- Selderij",
-            "- Tomaat",
+            "Romatomaat",
+            "Ui",
+            "Winterpeen",
+            "Wortel",
+            "Prei",
+            "Selderij",
+            "Tomaat",
             "Tomatenpuree",
             "Knoflook",
             "Zout",
             "Kruiden",
-            "- Tijm",
+            "Tijm",
             "Suiker",
             "Smaakversterker (mononatriumglutamaat [E621])",
             "Maltodextrine",
@@ -29569,18 +29569,18 @@
             "Maïszetmeel",
             "Aroma",
             "Gedroogde groente",
-            "- Wortel",
-            "- Prei",
-            "- Selderij",
-            "- Tomaat",
-            "- Ui",
+            "Wortel",
+            "Prei",
+            "Selderij",
+            "Tomaat",
+            "Ui",
             "Gedroogde paddenstoelen",
-            "- Witte champignon",
-            "- Bruine ringboleet",
-            "- Shiitake",
-            "- Eekhoorntjesbrood",
+            "Witte champignon",
+            "Bruine ringboleet",
+            "Shiitake",
+            "Eekhoorntjesbrood",
             "Specerijen",
-            "- Selderij",
+            "Selderij",
             "Gekaramelliseerde suikerstroop"
         ]
     },
@@ -29642,7 +29642,7 @@
         "url": "https://www.ah.nl//producten/product/wi128874/ah-biologisch-paprika-rood",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- "
+            ""
         ]
     },
     "https://www.ah.nl//producten/product/wi395947/ah-sperziebonen-grootverpakking": {
@@ -29682,10 +29682,10 @@
             "taugé"
         ],
         "ai_processed_ingredients": [
-            "- Rode ui",
-            "- Paksoi",
-            "- Chinese kool",
-            "- Sugarsnap"
+            "Rode ui",
+            "Paksoi",
+            "Chinese kool",
+            "Sugarsnap"
         ]
     },
     "https://www.ah.nl//producten/product/wi441049/ah-radijs": {
@@ -29694,7 +29694,7 @@
         "url": "https://www.ah.nl//producten/product/wi441049/ah-radijs",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi486429/iglo-spinazie-a-la-creme": {
@@ -29745,7 +29745,7 @@
         "url": "https://www.ah.nl//producten/product/wi490798/ah-snoepgroente-komkommer",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi382984/ah-kropsla": {
@@ -29754,7 +29754,7 @@
         "url": "https://www.ah.nl//producten/product/wi382984/ah-kropsla",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Toegevoegde suiker"
+            "Toegevoegde suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi238969/ah-munt": {
@@ -29763,7 +29763,7 @@
         "url": "https://www.ah.nl//producten/product/wi238969/ah-munt",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi4074/ah-andijvie-gesneden": {
@@ -29800,9 +29800,9 @@
             "zuurteregelaar citroenzuur e330"
         ],
         "ai_processed_ingredients": [
-            "- Tomaat",
-            "- Tomaten sap ",
-            "- Citroenzuur (E330)"
+            "Tomaat",
+            "Tomaten sap ",
+            "Citroenzuur (E330)"
         ]
     },
     "https://www.ah.nl//producten/product/wi203003/ah-biologisch-pastinaak": {
@@ -29811,7 +29811,7 @@
         "url": "https://www.ah.nl//producten/product/wi203003/ah-biologisch-pastinaak",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi497411/ah-mini-krieltjes-bbq": {
@@ -29844,7 +29844,7 @@
         "url": "https://www.ah.nl//producten/product/wi226498/ah-sperziebonen-gebroken",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi160709/ah-fijne-soepgroente-grootverpakking": {
@@ -29901,8 +29901,8 @@
             "spruiten"
         ],
         "ai_processed_ingredients": [
-            "- Spruiten",
-            "- Suiker"
+            "Spruiten",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi133277/ah-roerbakgroente-italiaans-champignons": {
@@ -29933,10 +29933,10 @@
             "rode chilipeper"
         ],
         "ai_processed_ingredients": [
-            "- Witte kool",
-            "- Prei",
-            "- Groene paprika",
-            "- Rode ui"
+            "Witte kool",
+            "Prei",
+            "Groene paprika",
+            "Rode ui"
         ]
     },
     "https://www.ah.nl//producten/product/wi462427/ah-avocado": {
@@ -29945,7 +29945,7 @@
         "url": "https://www.ah.nl//producten/product/wi462427/ah-avocado",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi409995/ah-biologisch-sperziebonen": {
@@ -29954,7 +29954,7 @@
         "url": "https://www.ah.nl//producten/product/wi409995/ah-biologisch-sperziebonen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi186629/ah-biologisch-bloemkool": {
@@ -29981,10 +29981,10 @@
             "rode chilipeper"
         ],
         "ai_processed_ingredients": [
-            "- Spitskool",
-            "- Prei",
-            "- Wortel",
-            "- Taugé"
+            "Spitskool",
+            "Prei",
+            "Wortel",
+            "Taugé"
         ]
     },
     "https://www.ah.nl//producten/product/wi238965/ah-bieslook": {
@@ -29993,7 +29993,7 @@
         "url": "https://www.ah.nl//producten/product/wi238965/ah-bieslook",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi164108/ah-haricots-verts": {
@@ -30002,7 +30002,7 @@
         "url": "https://www.ah.nl//producten/product/wi164108/ah-haricots-verts",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi123184/ah-aardappelpartjes": {
@@ -30035,7 +30035,7 @@
         "url": "https://www.ah.nl//producten/product/wi186750/ah-biologisch-witlof",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi394814/ah-kastanjechampignons": {
@@ -30044,7 +30044,7 @@
         "url": "https://www.ah.nl//producten/product/wi394814/ah-kastanjechampignons",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi202196/hak-witte-bonen-in-tomatensaus": {
@@ -30077,7 +30077,7 @@
         "url": "https://www.ah.nl//producten/product/wi418282/ah-platte-peterselie-grootverpakking",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi117618/ah-broccoli-wortel-bloemkool": {
@@ -30104,8 +30104,8 @@
             "babyspinazie"
         ],
         "ai_processed_ingredients": [
-            "- Babyspinazie",
-            "- Suiker"
+            "Babyspinazie",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi476742/ah-biologisch-rucola": {
@@ -30126,12 +30126,12 @@
         "url": "https://www.ah.nl//producten/product/wi41219/ah-paksoi",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Toegevoegde suiker"
+            "Toegevoegde suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi133275/ah-aardappelpuree": {
         "name": "AH Aardappelpuree",
-        "ingredients": "Ingrediënten: 77% aardappel, halfvolle melk, 4,5% roomboter, water, 1,5% aardappelvlok, rijstzetmeel, zout, specerijen, emulgator (mono- en diglyceriden van vetzuren [E471]), antioxidant (extracten van rozemarijn [E392]).Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.25g per 100 gram",
+        "ingredients": "Ingrediënten: 77% aardappel, halfvolle melk, 4,5% roomboter, water, 1,5% aardappelvlok, rijstzetmeel, zout, specerijen, emulgator (monoen diglyceriden van vetzuren [E471]), antioxidant (extracten van rozemarijn [E392]).Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.25g per 100 gram",
         "url": "https://www.ah.nl//producten/product/wi133275/ah-aardappelpuree",
         "processed_ingredients": [
             "aardappel",
@@ -30142,7 +30142,7 @@
             "rijstzetmeel",
             "zout",
             "specerijen",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "antioxidant extracten van rozemarijn e392"
         ],
         "ai_processed_ingredients": [
@@ -30154,7 +30154,7 @@
             "Rijstzetmeel",
             "Zout",
             "Specerijen",
-            "Emulgator (mono- en diglyceriden van vetzuren [E471])"
+            "Emulgator (monoen diglyceriden van vetzuren [E471])"
         ]
     },
     "https://www.ah.nl//producten/product/wi497403/ah-verse-friet": {
@@ -30175,7 +30175,7 @@
         "url": "https://www.ah.nl//producten/product/wi238966/ah-dille",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi238970/ah-peterselie": {
@@ -30184,7 +30184,7 @@
         "url": "https://www.ah.nl//producten/product/wi238970/ah-peterselie",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi62824/ah-augurken-schijven-zoetzuur": {
@@ -30228,9 +30228,9 @@
             "bloemkool"
         ],
         "ai_processed_ingredients": [
-            "- Wortel",
-            "- Prei",
-            "- Bladselderij"
+            "Wortel",
+            "Prei",
+            "Bladselderij"
         ]
     },
     "https://www.ah.nl//producten/product/wi186043/ah-biologisch-bleekselderij": {
@@ -30239,7 +30239,7 @@
         "url": "https://www.ah.nl//producten/product/wi186043/ah-biologisch-bleekselderij",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi470588/ah-baby-avocado-eetrijp": {
@@ -30248,7 +30248,7 @@
         "url": "https://www.ah.nl//producten/product/wi470588/ah-baby-avocado-eetrijp",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi475828/ah-mini-krieltjes-kruidenboter": {
@@ -30283,7 +30283,7 @@
         "url": "https://www.ah.nl//producten/product/wi525846/ah-sjalotten",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi533328/ah-biologisch-broccoliroosjes": {
@@ -30360,7 +30360,7 @@
         "url": "https://www.ah.nl//producten/product/wi207077/ah-koriander-grootverpakking",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi465600/ah-snoepgroente-komkommer": {
@@ -30369,7 +30369,7 @@
         "url": "https://www.ah.nl//producten/product/wi465600/ah-snoepgroente-komkommer",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi167872/ah-terra-linzen": {
@@ -30399,14 +30399,14 @@
         "url": "https://www.ah.nl//producten/product/wi525848/ah-biologisch-gele-uien",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- ",
-            "- ",
-            "- ",
-            "- ",
-            "- ",
-            "- ",
-            "- ",
-            "- "
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ]
     },
     "https://www.ah.nl//producten/product/wi39103/ah-doperwten-en-wortelen": {
@@ -30436,11 +30436,11 @@
             "peul"
         ],
         "ai_processed_ingredients": [
-            "- Rode ui",
-            "- Paksoikool",
-            "- Prei",
-            "- Wortel",
-            "- Kastanjechampignon"
+            "Rode ui",
+            "Paksoikool",
+            "Prei",
+            "Wortel",
+            "Kastanjechampignon"
         ]
     },
     "https://www.ah.nl//producten/product/wi239244/ah-biologisch-aubergine": {
@@ -30449,7 +30449,7 @@
         "url": "https://www.ah.nl//producten/product/wi239244/ah-biologisch-aubergine",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi160707/ah-spinazie-grootverpakking": {
@@ -30467,7 +30467,7 @@
         "url": "https://www.ah.nl//producten/product/wi395959/ah-prei",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi215683/ah-krieltjes-vastkokend": {
@@ -30476,7 +30476,7 @@
         "url": "https://www.ah.nl//producten/product/wi215683/ah-krieltjes-vastkokend",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi395954/ah-broccoliroosjes": {
@@ -30487,8 +30487,8 @@
             "broccoli"
         ],
         "ai_processed_ingredients": [
-            "- Broccoli",
-            "- Suiker"
+            "Broccoli",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi500621/heinz-tomato-frito-biologisch": {
@@ -30523,9 +30523,9 @@
             "rode ui"
         ],
         "ai_processed_ingredients": [
-            "- Wortel",
-            "- Spitskool",
-            "- Prei"
+            "Wortel",
+            "Spitskool",
+            "Prei"
         ]
     },
     "https://www.ah.nl//producten/product/wi3537/bonduelle-crispy-mais": {
@@ -30552,8 +30552,8 @@
             "wortel"
         ],
         "ai_processed_ingredients": [
-            "- Krulsla",
-            "- Radicchio"
+            "Krulsla",
+            "Radicchio"
         ]
     },
     "https://www.ah.nl//producten/product/wi159762/ah-roerbakgroente-italiaans-grootverpakking": {
@@ -30582,7 +30582,7 @@
             "snijboon"
         ],
         "ai_processed_ingredients": [
-            "- Snijboon"
+            "Snijboon"
         ]
     },
     "https://www.ah.nl//producten/product/wi435436/ah-biologisch-slamelange-rucola-veldsla": {
@@ -30618,7 +30618,7 @@
         "url": "https://www.ah.nl//producten/product/wi123955/ah-kruimige-aardappelen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi230681/ah-fijngesneden-prei": {
@@ -30627,7 +30627,7 @@
         "url": "https://www.ah.nl//producten/product/wi230681/ah-fijngesneden-prei",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi409994/ah-biologisch-tuinerwten": {
@@ -30636,8 +30636,8 @@
         "url": "https://www.ah.nl//producten/product/wi409994/ah-biologisch-tuinerwten",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Toegevoegde suiker",
-            "- EU "
+            "Toegevoegde suiker",
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi382562/ah-terra-tuinerwt-fijn": {
@@ -30648,8 +30648,8 @@
             "tuinerwten fijn"
         ],
         "ai_processed_ingredients": [
-            "- Tuin",
-            "- Röntgen"
+            "Tuin",
+            "Röntgen"
         ]
     },
     "https://www.ah.nl//producten/product/wi67746/ah-bladspinazie-grof-gesneden": {
@@ -30690,8 +30690,8 @@
             "spruiten"
         ],
         "ai_processed_ingredients": [
-            "- Spruiten",
-            "- Suiker"
+            "Spruiten",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi582544/ah-paprikablokjes": {
@@ -30704,8 +30704,8 @@
             "gele paprika"
         ],
         "ai_processed_ingredients": [
-            "- Rode paprika",
-            "- Groene paprika"
+            "Rode paprika",
+            "Groene paprika"
         ]
     },
     "https://www.ah.nl//producten/product/wi525255/ah-biologisch-oesterzwammen": {
@@ -30714,7 +30714,7 @@
         "url": "https://www.ah.nl//producten/product/wi525255/ah-biologisch-oesterzwammen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi495901/ah-gesneden-verspakket-oosterse-nasi": {
@@ -30819,7 +30819,7 @@
         "url": "https://www.ah.nl//producten/product/wi395961/ah-gesneden-spitskool",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi168154/ah-slamelange-jonge-bladsla-veldsla": {
@@ -30978,8 +30978,8 @@
             "ui"
         ],
         "ai_processed_ingredients": [
-            "- ui",
-            "- suiker"
+            "ui",
+            "suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi155598/ah-rucola-slamelange-grootverpakking": {
@@ -30992,8 +30992,8 @@
             "lollo rossa"
         ],
         "ai_processed_ingredients": [
-            "- Rucola",
-            "- Snijbiet"
+            "Rucola",
+            "Snijbiet"
         ]
     },
     "https://www.ah.nl//producten/product/wi378693/ah-champignons-gesneden": {
@@ -31014,7 +31014,7 @@
         "url": "https://www.ah.nl//producten/product/wi101131/ah-biologisch-aardappelschijfjes",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi525265/ah-biologisch-shiitake": {
@@ -31023,7 +31023,7 @@
         "url": "https://www.ah.nl//producten/product/wi525265/ah-biologisch-shiitake",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi169198/ah-biologisch-iets-kruimige-aardappelen": {
@@ -31032,7 +31032,7 @@
         "url": "https://www.ah.nl//producten/product/wi169198/ah-biologisch-iets-kruimige-aardappelen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi822/ah-gebroken-sperziebonen": {
@@ -31086,7 +31086,7 @@
         "url": "https://www.ah.nl//producten/product/wi121475/ah-bloemkoolroosjes-grootverpakking",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi418284/ah-verse-pureersoep-tomaat-oregano": {
@@ -31199,10 +31199,10 @@
             "rode ui"
         ],
         "ai_processed_ingredients": [
-            "- Radijs",
-            "- Witte kool",
-            "- Bleekselderij",
-            "- Prei"
+            "Radijs",
+            "Witte kool",
+            "Bleekselderij",
+            "Prei"
         ]
     },
     "https://www.ah.nl//producten/product/wi189479/ah-gele-uien": {
@@ -31211,7 +31211,7 @@
         "url": "https://www.ah.nl//producten/product/wi189479/ah-gele-uien",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi494451/ah-nasi-bami-groente-kleinverpakking": {
@@ -31227,11 +31227,11 @@
             "rode chilipeper"
         ],
         "ai_processed_ingredients": [
-            "- Spitskool",
-            "- Prei",
-            "- Taugé",
-            "- Rode ui",
-            "- Wortel"
+            "Spitskool",
+            "Prei",
+            "Taugé",
+            "Rode ui",
+            "Wortel"
         ]
     },
     "https://www.ah.nl//producten/product/wi167874/ah-terra-kikkererwten": {
@@ -31359,8 +31359,8 @@
             "ui"
         ],
         "ai_processed_ingredients": [
-            "- ui",
-            "- suiker"
+            "ui",
+            "suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi198387/ah-groentesoep-verspakket": {
@@ -31608,7 +31608,7 @@
         "url": "https://www.ah.nl//producten/product/wi238974/ah-tijm",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi99028/ah-luxe-roerbak-provencaals": {
@@ -31662,7 +31662,7 @@
         "url": "https://www.ah.nl//producten/product/wi525262/ah-biologisch-portobello",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi365661/ah-avocado-stukjes": {
@@ -31689,8 +31689,8 @@
             "sojaboon"
         ],
         "ai_processed_ingredients": [
-            "- Sojabonen",
-            "- Suiker"
+            "Sojabonen",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi418286/ah-slamelange-rode-biet": {
@@ -31704,9 +31704,9 @@
             "bosui"
         ],
         "ai_processed_ingredients": [
-            "- Rode biet",
-            "- Babyspinazie",
-            "- Veldsla"
+            "Rode biet",
+            "Babyspinazie",
+            "Veldsla"
         ]
     },
     "https://www.ah.nl//producten/product/wi216034/ah-rauwkost-amsterdamse-ui": {
@@ -31753,7 +31753,7 @@
         "url": "https://www.ah.nl//producten/product/wi238973/ah-selderij",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suikers"
+            "Suikers"
         ]
     },
     "https://www.ah.nl//producten/product/wi168090/ah-roerbakgroente-italiaans-champignons": {
@@ -31829,8 +31829,8 @@
             "botersla"
         ],
         "ai_processed_ingredients": [
-            "- Botersla",
-            "- Suiker"
+            "Botersla",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi395949/ah-fijngesneden-spitskool": {
@@ -31839,7 +31839,7 @@
         "url": "https://www.ah.nl//producten/product/wi395949/ah-fijngesneden-spitskool",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi226366/ah-bloemkoolroosjes": {
@@ -31850,8 +31850,8 @@
             "bloemkool"
         ],
         "ai_processed_ingredients": [
-            "- Bloemkool",
-            "- Suiker"
+            "Bloemkool",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi579310/ah-sweet-palermo-rode-puntpaprika": {
@@ -31860,7 +31860,7 @@
         "url": "https://www.ah.nl//producten/product/wi579310/ah-sweet-palermo-rode-puntpaprika",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi235200/ah-biologisch-tauge": {
@@ -31956,7 +31956,7 @@
         "url": "https://www.ah.nl//producten/product/wi395577/ah-shanghai-paksoi",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi168091/ah-veldsla-grootverpakking": {
@@ -31967,8 +31967,8 @@
             "veldsla"
         ],
         "ai_processed_ingredients": [
-            "- Veldsla",
-            "- Suiker"
+            "Veldsla",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi525249/ah-luxe-wok-japans": {
@@ -32074,7 +32074,7 @@
         "url": "https://www.ah.nl//producten/product/wi108672/ah-biologisch-iets-kruimige-aardappelen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi67690/ah-wokgroente-chinees-kleinverpakking": {
@@ -32089,10 +32089,10 @@
             "taugé"
         ],
         "ai_processed_ingredients": [
-            "- Rode paprika",
-            "- Witte kool",
-            "- Prei",
-            "- Sperzieboon"
+            "Rode paprika",
+            "Witte kool",
+            "Prei",
+            "Sperzieboon"
         ]
     },
     "https://www.ah.nl//producten/product/wi163903/celavita-kleintje-kriel-familieverpakking": {
@@ -32201,7 +32201,7 @@
     },
     "https://www.ah.nl//producten/product/wi62593/heinz-beanz": {
         "name": "Heinz Beanz",
-        "ingredients": "Ingrediënten: Witte bonen 51%, tomaten 34%, water, suiker, azijn, gemodificeerd zetmeel, zout, specerijen- en kruidenextract",
+        "ingredients": "Ingrediënten: Witte bonen 51%, tomaten 34%, water, suiker, azijn, gemodificeerd zetmeel, zout, specerijenen kruidenextract",
         "url": "https://www.ah.nl//producten/product/wi62593/heinz-beanz",
         "processed_ingredients": [
             "witte bonen",
@@ -32211,7 +32211,7 @@
             "azijn",
             "gemodificeerd zetmeel",
             "zout",
-            "specerijen- en kruidenextract"
+            "specerijenen kruidenextract"
         ],
         "ai_processed_ingredients": [
             "Witte bonen",
@@ -32340,31 +32340,31 @@
         ],
         "ai_processed_ingredients": [
             "Groente",
-            "- Romatomaat",
-            "- Rode ui",
-            "- Winterpeen",
-            "- Rode paprika",
-            "- Bleekselderij",
+            "Romatomaat",
+            "Rode ui",
+            "Winterpeen",
+            "Rode paprika",
+            "Bleekselderij",
             "Gedroogde rode splitlinze",
             "Gember",
             "Knoflook",
             "Zout",
             "Kruiden",
-            "- Tijm",
-            "- Laurier",
+            "Tijm",
+            "Laurier",
             "Specerijen",
-            "- Selderij",
-            "- Mosterd",
+            "Selderij",
+            "Mosterd",
             "Suiker",
             "Smaakversterker (mononatriumglutamaat [E621])",
             "Maltodextrine",
             "Palmvet",
             "Gedroogde groente",
-            "- Wortel",
-            "- Prei",
-            "- Selderij",
-            "- Tomaat",
-            "- Ui",
+            "Wortel",
+            "Prei",
+            "Selderij",
+            "Tomaat",
+            "Ui",
             "Aroma",
             "Kleurstof (ammoniakkaramel [E150c])"
         ]
@@ -32392,9 +32392,9 @@
             "Zout",
             "Maltodextrine",
             "Gedroogde groente ",
-            "- Knoflookpoeder",
-            "- Uipoeder",
-            "- Paprika",
+            "Knoflookpoeder",
+            "Uipoeder",
+            "Paprika",
             "Kruiden en specerijen",
             "Gistextract",
             "Aardappelzetmeel"
@@ -32450,7 +32450,7 @@
         "url": "https://www.ah.nl//producten/product/wi98974/ah-boerenkool-deelblokjes",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi517597/ah-ijsbergsla-fijngesneden": {
@@ -32560,8 +32560,8 @@
             "verstevigingsmiddel calciumchloride e509"
         ],
         "ai_processed_ingredients": [
-            "- Zwarte boon",
-            "- Water"
+            "Zwarte boon",
+            "Water"
         ]
     },
     "https://www.ah.nl//producten/product/wi234843/mutti-tomaten-concentraat-dubbel": {
@@ -32616,13 +32616,13 @@
             "flespompoen"
         ],
         "ai_processed_ingredients": [
-            "- Flespompoen",
-            "- Suiker"
+            "Flespompoen",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi399645/no-fairytales-wortel-tortilla": {
         "name": "No Fairytales Wortel tortilla",
-        "ingredients": "Ingrediënten: TARWEBLOEM (calcium, niacine, ijzer, vitamine B1), groenten (45%): wortel (45%), glycerol, TARWE-EIWIT, raapzaadolie, rijsmiddel (difosfaten, natriumcarbonaat), voedingszuur (appelzuur, ascorbinezuur), emulgator (xanthaangom, mono- en diglyceriden van vetzuren), linzenbloem, conserveermiddel (kaliumsorbaat), zout",
+        "ingredients": "Ingrediënten: TARWEBLOEM (calcium, niacine, ijzer, vitamine B1), groenten (45%): wortel (45%), glycerol, TARWE-EIWIT, raapzaadolie, rijsmiddel (difosfaten, natriumcarbonaat), voedingszuur (appelzuur, ascorbinezuur), emulgator (xanthaangom, monoen diglyceriden van vetzuren), linzenbloem, conserveermiddel (kaliumsorbaat), zout",
         "url": "https://www.ah.nl//producten/product/wi399645/no-fairytales-wortel-tortilla",
         "processed_ingredients": [
             "tarwebloem calcium",
@@ -32638,7 +32638,7 @@
             "voedingszuur appelzuur",
             "voedingszuur ascorbinezuur",
             "emulgator xanthaangom",
-            "emulgator mono- en diglyceriden van vetzuren",
+            "emulgator monoen diglyceriden van vetzuren",
             "linzenbloem",
             "conserveermiddel kaliumsorbaat",
             "zout"
@@ -32656,7 +32656,7 @@
             "Appelzuur",
             "Ascorbinezuur",
             "Xanthaangom",
-            "Mono- en diglyceriden van vetzuren",
+            "Monoen diglyceriden van vetzuren",
             "Linzenbloem"
         ]
     },
@@ -32705,7 +32705,7 @@
         "url": "https://www.ah.nl//producten/product/wi525871/ah-zoete-uien",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi395953/ah-bloemkoolroosjes": {
@@ -32716,8 +32716,8 @@
             "bloemkool"
         ],
         "ai_processed_ingredients": [
-            "- Bloemkool",
-            "- Suiker"
+            "Bloemkool",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi168788/ah-augurken-plakjes-zoetzuur": {
@@ -32901,8 +32901,8 @@
             "wortel"
         ],
         "ai_processed_ingredients": [
-            "- Krulsla",
-            "- Radicchio"
+            "Krulsla",
+            "Radicchio"
         ]
     },
     "https://www.ah.nl//producten/product/wi133238/ah-jonge-bladsla-met-rucola": {
@@ -32988,7 +32988,7 @@
         "url": "https://www.ah.nl//producten/product/wi377126/ah-knoflook",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi409912/ah-biologisch-spitskool": {
@@ -32997,7 +32997,7 @@
         "url": "https://www.ah.nl//producten/product/wi409912/ah-biologisch-spitskool",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi525266/ah-sojabonen": {
@@ -33008,8 +33008,8 @@
             "sojaboon"
         ],
         "ai_processed_ingredients": [
-            "- Sojabonen",
-            "- Suiker"
+            "Sojabonen",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi226439/iglo-spinazie-fijn-gehakt": {
@@ -33031,8 +33031,8 @@
             "bloemkool"
         ],
         "ai_processed_ingredients": [
-            "- Bloemkool",
-            "- Suiker"
+            "Bloemkool",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi533524/ah-biologisch-bloemkoolroosjes": {
@@ -33069,9 +33069,9 @@
             "gele paprika"
         ],
         "ai_processed_ingredients": [
-            "- Wortel",
-            "- Rode paprika",
-            "- Groene paprika"
+            "Wortel",
+            "Rode paprika",
+            "Groene paprika"
         ]
     },
     "https://www.ah.nl//producten/product/wi41096/celavita-kleintje-kriel": {
@@ -33203,8 +33203,8 @@
             "rode paprika"
         ],
         "ai_processed_ingredients": [
-            "- Wortel",
-            "- Komkommer"
+            "Wortel",
+            "Komkommer"
         ]
     },
     "https://www.ah.nl//producten/product/wi165859/ah-biologisch-rode-kool": {
@@ -33229,8 +33229,8 @@
             "spitskool"
         ],
         "ai_processed_ingredients": [
-            "- Wortel",
-            "- Paarse spitskool"
+            "Wortel",
+            "Paarse spitskool"
         ]
     },
     "https://www.ah.nl//producten/product/wi498545/ah-japanse-teriyaki-verspakket": {
@@ -33307,8 +33307,8 @@
             "citroengras"
         ],
         "ai_processed_ingredients": [
-            "- Citroengras",
-            "- Suiker"
+            "Citroengras",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi31265/ah-terra-chilibonen": {
@@ -33499,8 +33499,8 @@
             "courgette"
         ],
         "ai_processed_ingredients": [
-            "- Wortel",
-            "- Rode paprika"
+            "Wortel",
+            "Rode paprika"
         ]
     },
     "https://www.ah.nl//producten/product/wi171796/bonduelle-zwarte-bonen": {
@@ -33537,7 +33537,7 @@
         "url": "https://www.ah.nl//producten/product/wi238678/ah-biologisch-krieltjes",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi823/ah-gebroken-sperziebonen": {
@@ -33554,7 +33554,7 @@
     },
     "https://www.ah.nl//producten/product/wi574721/ah-gesneden-verspakket-tex-mex-burrito-s": {
         "name": "AH Gesneden verspakket tex mex burrito's",
-        "ingredients": "Ingrediënten: groente (18% spitskool, 14% rode ui, 14% wortel, 7,1% gele paprika, 7,1% rode paprika), volkoren tarwemeel, water, melk, specerijen, stabilisator (glycerol [E422], xanthaangom [E415]), raapolie, suiker, 0,7% tomatenpuree, zout, azijn, suikerstroop, kruiden, gemodificeerd maïszetmeel, rijsmiddel (natriumcarbonaten [E500]), zuurteregelaar (appelzuur [E296]), conserveermiddel (kaliumsorbaat [E202], calciumpropionaat [E282]), emulgator (mono- en diglyceriden van vetzuren [E471]), aardappelzetmeel, natuurlijk aroma, zuursel, rookaroma, verdikkingsmiddel (guarpitmeel [E412]), aroma, microbieel stremsel, kleurstof (carotenen [E160a]).Waarvan toegevoegde suikers 0.6g per 100 gram en waarvan toegevoegd zout 0.31g per 100 gram",
+        "ingredients": "Ingrediënten: groente (18% spitskool, 14% rode ui, 14% wortel, 7,1% gele paprika, 7,1% rode paprika), volkoren tarwemeel, water, melk, specerijen, stabilisator (glycerol [E422], xanthaangom [E415]), raapolie, suiker, 0,7% tomatenpuree, zout, azijn, suikerstroop, kruiden, gemodificeerd maïszetmeel, rijsmiddel (natriumcarbonaten [E500]), zuurteregelaar (appelzuur [E296]), conserveermiddel (kaliumsorbaat [E202], calciumpropionaat [E282]), emulgator (monoen diglyceriden van vetzuren [E471]), aardappelzetmeel, natuurlijk aroma, zuursel, rookaroma, verdikkingsmiddel (guarpitmeel [E412]), aroma, microbieel stremsel, kleurstof (carotenen [E160a]).Waarvan toegevoegde suikers 0.6g per 100 gram en waarvan toegevoegd zout 0.31g per 100 gram",
         "url": "https://www.ah.nl//producten/product/wi574721/ah-gesneden-verspakket-tex-mex-burrito-s",
         "processed_ingredients": [
             "groente spitskool",
@@ -33580,7 +33580,7 @@
             "zuurteregelaar appelzuur e296",
             "conserveermiddel kaliumsorbaat e202",
             "conserveermiddel calciumpropionaat e282",
-            "emulgator mono- en diglyceriden van vetzuren e471",
+            "emulgator monoen diglyceriden van vetzuren e471",
             "aardappelzetmeel",
             "natuurlijk aroma",
             "zuursel",
@@ -33615,7 +33615,7 @@
             "Appelzuur [E296]",
             "Kaliumsorbaat [E202]",
             "Calciumpropionaat [E282]",
-            "Mono- en diglyceriden van vetzuren [E471]",
+            "Monoen diglyceriden van vetzuren [E471]",
             "Aardappelzetmeel",
             "Natuurlijk aroma",
             "Zuursel",
@@ -33636,10 +33636,10 @@
             "rode chilipeper"
         ],
         "ai_processed_ingredients": [
-            "- Witte kool",
-            "- Prei",
-            "- Groene paprika",
-            "- Rode ui"
+            "Witte kool",
+            "Prei",
+            "Groene paprika",
+            "Rode ui"
         ]
     },
     "https://www.ah.nl//producten/product/wi162734/bonduelle-broccoliroosjes": {
@@ -33680,11 +33680,11 @@
             "rode kidneyboon"
         ],
         "ai_processed_ingredients": [
-            "- Witte kool",
-            "- Rode paprika",
-            "- Maïs",
-            "- Prei",
-            "- Sperzieboon"
+            "Witte kool",
+            "Rode paprika",
+            "Maïs",
+            "Prei",
+            "Sperzieboon"
         ]
     },
     "https://www.ah.nl//producten/product/wi416509/ah-zongedroogde-tomaten-jullienne": {
@@ -33719,8 +33719,8 @@
             "bloemkool"
         ],
         "ai_processed_ingredients": [
-            "- Bloemkool",
-            "- Suiker"
+            "Bloemkool",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi492738/ah-chili-con-carne-verspakket": {
@@ -33827,8 +33827,8 @@
             "natuurlijk aroma"
         ],
         "ai_processed_ingredients": [
-            "- Sperziebonen",
-            "- Water"
+            "Sperziebonen",
+            "Water"
         ]
     },
     "https://www.ah.nl//producten/product/wi442839/no-fairytales-paprika-en-chili-tortilla": {
@@ -33980,12 +33980,12 @@
         ],
         "ai_processed_ingredients": [
             "Paddenstoelen",
-            "- Kastanjechampignon",
-            "- Oesterzwam",
-            "- Bundelzwam",
+            "Kastanjechampignon",
+            "Oesterzwam",
+            "Bundelzwam",
             "Kruiden",
-            "- Tijm",
-            "- Oregano"
+            "Tijm",
+            "Oregano"
         ]
     },
     "https://www.ah.nl//producten/product/wi41078/ah-gesneden-uien": {
@@ -33996,8 +33996,8 @@
             "ui"
         ],
         "ai_processed_ingredients": [
-            "- ui",
-            "- suiker"
+            "ui",
+            "suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi39619/ah-sperziebonen-fijn-heel": {
@@ -34027,7 +34027,7 @@
         "url": "https://www.ah.nl//producten/product/wi409996/ah-biologisch-boerenkool-deelblokjes",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi532245/ah-biologisch-krieltjes-vastkokend": {
@@ -34036,7 +34036,7 @@
         "url": "https://www.ah.nl//producten/product/wi532245/ah-biologisch-krieltjes-vastkokend",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi833/ah-doperwten-en-wortelen": {
@@ -34118,7 +34118,7 @@
             "water"
         ],
         "ai_processed_ingredients": [
-            "- zwarte boon"
+            "zwarte boon"
         ]
     },
     "https://www.ah.nl//producten/product/wi234873/mutti-pomodoro-san-marzano": {
@@ -34150,15 +34150,15 @@
             "gehydrolyseerd plantaardig eiwit"
         ],
         "ai_processed_ingredients": [
-            "- Witte boon",
-            "- Water",
-            "- Tomatenpuree",
-            "- Suiker",
-            "- Azijn",
-            "- Zout",
-            "- Kruiden",
-            "- Specerijen",
-            "- Gemodificeerd maïszetmeel"
+            "Witte boon",
+            "Water",
+            "Tomatenpuree",
+            "Suiker",
+            "Azijn",
+            "Zout",
+            "Kruiden",
+            "Specerijen",
+            "Gemodificeerd maïszetmeel"
         ]
     },
     "https://www.ah.nl//producten/product/wi238972/ah-rozemarijn": {
@@ -34167,7 +34167,7 @@
         "url": "https://www.ah.nl//producten/product/wi238972/ah-rozemarijn",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi226361/bonduelle-franse-sperzieboontjes-zeer-fijn": {
@@ -34490,7 +34490,7 @@
         "url": "https://www.ah.nl//producten/product/wi482839/ah-krieltjes-mix-vastkokend",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi806/ah-wortelen": {
@@ -34669,7 +34669,7 @@
         "url": "https://www.ah.nl//producten/product/wi99045/ah-nederlandse-witte-asperges",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi117039/hak-haricots-verts": {
@@ -34682,8 +34682,8 @@
             "zout"
         ],
         "ai_processed_ingredients": [
-            "- prinsessenbonen",
-            "- water"
+            "prinsessenbonen",
+            "water"
         ]
     },
     "https://www.ah.nl//producten/product/wi182993/bonduelle-crispy-mais-bio": {
@@ -34894,7 +34894,7 @@
         "url": "https://www.ah.nl//producten/product/wi187351/ah-gourmande-aardappelen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi582314/ah-roerbakgroente-italiaans": {
@@ -34949,7 +34949,7 @@
         "url": "https://www.ah.nl//producten/product/wi428726/ah-biologisch-iets-kruimige-roodschillige-aardappelen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi365662/ah-gegrilde-groenten": {
@@ -35128,8 +35128,8 @@
             "courgette"
         ],
         "ai_processed_ingredients": [
-            "- Courgette",
-            "- Suiker"
+            "Courgette",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi127726/ah-biologisch-vastkokende-aardappelen": {
@@ -35138,7 +35138,7 @@
         "url": "https://www.ah.nl//producten/product/wi127726/ah-biologisch-vastkokende-aardappelen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi495903/ah-gesneden-verspakket-poke-bowl": {
@@ -35299,8 +35299,8 @@
             "bloemkool"
         ],
         "ai_processed_ingredients": [
-            "- Bloemkool",
-            "- Suiker"
+            "Bloemkool",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi547130/ah-biologisch-gekookte-maiskolven": {
@@ -35488,10 +35488,10 @@
             "water"
         ],
         "ai_processed_ingredients": [
-            "- Cannellini",
-            "- Bomen",
-            "- Water",
-            "- Suiker"
+            "Cannellini",
+            "Bomen",
+            "Water",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi195555/bonduelle-rode-kidneybonen": {
@@ -35505,9 +35505,9 @@
             "verstevigingsmiddel e509"
         ],
         "ai_processed_ingredients": [
-            "- Rode kidneybonen",
-            "- Water",
-            "- Zout"
+            "Rode kidneybonen",
+            "Water",
+            "Zout"
         ]
     },
     "https://www.ah.nl//producten/product/wi505383/ah-gesneden-verspakket-pompoen-risotto": {
@@ -35809,8 +35809,8 @@
             "zeezout"
         ],
         "ai_processed_ingredients": [
-            "- Rode kidneybonen",
-            "- Water"
+            "Rode kidneybonen",
+            "Water"
         ]
     },
     "https://www.ah.nl//producten/product/wi416529/heinz-tomato-frito": {
@@ -35919,7 +35919,7 @@
         "url": "https://www.ah.nl//producten/product/wi53313/ah-haricots-verts",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi468585/ah-terra-linzen": {
@@ -36193,7 +36193,7 @@
         ]
     },
     "https://www.ah.nl//producten/product/wi395952/ah-bloemkool-en-broccoliroosjes": {
-        "name": "AH Bloemkool- en broccoliroosjes",
+        "name": "AH Bloemkoolen broccoliroosjes",
         "ingredients": "Ingrediënten: 56% bloemkool, 44% broccoliWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
         "url": "https://www.ah.nl//producten/product/wi395952/ah-bloemkool-en-broccoliroosjes",
         "processed_ingredients": [
@@ -36218,10 +36218,10 @@
             "rode chilipeper"
         ],
         "ai_processed_ingredients": [
-            "- Witte kool",
-            "- Prei",
-            "- Groene paprika",
-            "- Rode ui"
+            "Witte kool",
+            "Prei",
+            "Groene paprika",
+            "Rode ui"
         ]
     },
     "https://www.ah.nl//producten/product/wi578944/ah-snoepgroente-bleekselderij": {
@@ -36246,8 +36246,8 @@
             "zeezout"
         ],
         "ai_processed_ingredients": [
-            "- Witte bonen",
-            "- Water"
+            "Witte bonen",
+            "Water"
         ]
     },
     "https://www.ah.nl//producten/product/wi104081/bonduelle-kikkererwten": {
@@ -36524,11 +36524,11 @@
             "zout"
         ],
         "ai_processed_ingredients": [
-            "- Rode paprika",
-            "- Water",
-            "- Zonnebloemolie",
-            "- Azijn",
-            "- Knoflook"
+            "Rode paprika",
+            "Water",
+            "Zonnebloemolie",
+            "Azijn",
+            "Knoflook"
         ]
     },
     "https://www.ah.nl//producten/product/wi378630/heinz-tomaten-gepeld-biologisch": {
@@ -36710,7 +36710,7 @@
         "url": "https://www.ah.nl//producten/product/wi238140/ah-biologisch-vastkokende-aardappelen",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- EU "
+            "EU "
         ]
     },
     "https://www.ah.nl//producten/product/wi140616/ah-jalapenos": {
@@ -36769,7 +36769,7 @@
         "url": "https://www.ah.nl//producten/product/wi200547/ah-salie",
         "processed_ingredients": [],
         "ai_processed_ingredients": [
-            "- Suiker"
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi457008/ah-broccolirijst-kleinverpakking": {
@@ -36780,8 +36780,8 @@
             "broccoli"
         ],
         "ai_processed_ingredients": [
-            "- Broccoli",
-            "- Suiker"
+            "Broccoli",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi525234/ah-biologisch-gesneden-shiitake": {
@@ -36804,8 +36804,8 @@
             "bloemkool"
         ],
         "ai_processed_ingredients": [
-            "- Bloemkool",
-            "- Suiker"
+            "Bloemkool",
+            "Suiker"
         ]
     },
     "https://www.ah.nl//producten/product/wi569512/hak-kikkererwten": {
@@ -36948,10 +36948,10 @@
             "rode paprika"
         ],
         "ai_processed_ingredients": [
-            "- Gele wortel",
-            "- Prei",
-            "- Spitskool",
-            "- Rode ui"
+            "Gele wortel",
+            "Prei",
+            "Spitskool",
+            "Rode ui"
         ]
     },
     "https://www.ah.nl//producten/product/wi525356/ah-aardappel-ovenschaal-spek-en-ui": {
@@ -37094,11 +37094,11 @@
             "rode peper"
         ],
         "ai_processed_ingredients": [
-            "- Gele wortel",
-            "- Prei",
-            "- Taugé",
-            "- Rode ui",
-            "- Rode paprika"
+            "Gele wortel",
+            "Prei",
+            "Taugé",
+            "Rode ui",
+            "Rode paprika"
         ]
     },
     "https://www.ah.nl//producten/product/wi130484/ah-semi-zongedroogde-tomaten": {
@@ -37115,12 +37115,12 @@
             "kruiden"
         ],
         "ai_processed_ingredients": [
-            "- Semigedroogde tomaat",
-            "- Zonnebloemolie",
-            "- Zout",
-            "- Knoflookgranulaat",
-            "- Knoflook",
-            "- Kappertje"
+            "Semigedroogde tomaat",
+            "Zonnebloemolie",
+            "Zout",
+            "Knoflookgranulaat",
+            "Knoflook",
+            "Kappertje"
         ]
     }
 }

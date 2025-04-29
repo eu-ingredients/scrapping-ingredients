@@ -22,4 +22,5 @@ dev-dependencies = [
     "ipykernel>=6.24.0",
     "mypy>=1.5.2",
     "uv>=0.6.14",
+    "pandas>=2.2.3",
 ]
