@@ -6,7 +6,7 @@ from tqdm import tqdm
 ollama.create(
     model="ingredients-preprocessing",
     from_="llama3.2",
-    system="Geef een de lijst van alle ingrediënten in de input text. Geef alleen de ingrediënten terug, zonder enige uitleg. Als een ingredient haakjes heeft splits het in meerdere ingredienten. De ingrediënten moeten in een lijst staan, met elk ingrediënt op een nieuwe regel.",
+    system="Geef een de lijst van alle ingrediënten in de input tekst. Geef alleen de ingrediënten terug, zonder enige uitleg. Als een ingrediënt haakjes heeft splits het in meerdere ingrediënten. De ingrediënten moeten in een lijst staan, met elk ingrediënt op een nieuwe regel.",
     parameters={
         "temperature": 0.1,
     },
