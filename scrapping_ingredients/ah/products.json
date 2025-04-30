@@ -170,7 +170,7 @@
         "processed_ingredients": [
             "magere melk",
             "melkeiwit",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "room",
             "rundergelatine",
             "gemodificeerd maïszetmeel",
@@ -1626,18 +1626,18 @@
             "voedingsvezel polydextrose",
             "bevochtigingsmiddel glycerol e422",
             "bevochtigingsmiddel sorbitolen e420",
-            "cacaoboter°",
+            "cacaoboter",
             "wei-eiwit",
             "water",
             "vollemelkpoeder",
-            "cacaomassa°",
+            "cacaomassa",
             "gecondenseerde melk",
             "pindapasta",
             "palmvet",
             "zout",
-            "natuurlijke aroma´s",
+            "natuurlijke aromas",
             "kleurstof karamel e150a",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "vulstof cellulose e460",
             "emulgator monoen diglyceriden van vetzuren e471",
             "emulgator lecithinen e322 soja",
@@ -2342,7 +2342,7 @@
             "glucosestroop",
             "karnemelkpoeder",
             "zeezout",
-            "rijsmiddel ammoniumwaterstofcarbonaat % uitgedrukt in het eindproduct"
+            "rijsmiddel ammoniumwaterstofcarbonaat uitgedrukt in het eindproduct"
         ],
         "ai_processed_ingredients": [
             "TARWEBLOEM",
@@ -2511,12 +2511,12 @@
             "magere melk",
             "melkeiwit",
             "room",
-            "cacaopoeder°",
+            "cacaopoeder",
             "gemodificeerd zetmeel maïs",
             "gemodificeerd zetmeel tapioca",
             "verdikkingsmiddel carrageen e407",
             "verdikkingsmiddel cellulosegom e466",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "zoetstof acesulfaam-k e950",
             "zoetstof sucralose e955",
             "natuurlijk aroma",
@@ -2638,7 +2638,7 @@
             "melk",
             "melkeiwitten",
             "zoetstoffen erytritol en steviolglycosiden uit stevia",
-            "magere cacaopoeder^1",
+            "magere cacaopoeder1",
             "stabilisatoren carrageen en guarpitmeel",
             "bcaa leucine",
             "isoleucine en valine",
@@ -2646,7 +2646,7 @@
             "magnesiumcarbonaat",
             "vitamine d3",
             "lactase",
-            "^1rainforest alliance certified",
+            "1rainforest alliance certified",
             "raorg"
         ],
         "ai_processed_ingredients": [
@@ -2688,7 +2688,7 @@
             "zoetstof steviolglycosiden uit stevia",
             "geconcentreerd citroensap",
             "lactase",
-            "lactosegehalte < /"
+            "lactosegehalte"
         ],
         "ai_processed_ingredients": [
             "Magere KWARK",
@@ -3171,7 +3171,7 @@
         "processed_ingredients": [
             "yoghurt 3",
             "yoghurt 6 vet",
-            "% kers",
+            "kers",
             "suiker",
             "zonnebloempitten",
             "gemodificeerd maïszetmeel",
@@ -3307,15 +3307,15 @@
             "suiker",
             "bloem rijst",
             "bloem tarwe",
-            "cacaoboter°",
+            "cacaoboter",
             "maïs",
             "vollemelkpoeder",
             "volkoren tarwemeel",
             "rozijn",
             "stabilisator glycerol e422",
-            "cacaomassa°",
-            "hazelnoot°",
-            "cacaopoeder°",
+            "cacaomassa",
+            "hazelnoot",
+            "cacaopoeder",
             "maltodextrine",
             "zonnebloemolie",
             "natuurlijk aroma",
@@ -5084,7 +5084,7 @@
             "hibiscusconcentraat",
             "zoetstof steviolglycosiden uit stevia",
             "lactase",
-            "lactosegehalte </"
+            "lactosegehalte"
         ],
         "ai_processed_ingredients": [
             "* Magere KWARK",
@@ -5376,8 +5376,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,8% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (20%), suiker (4,7%), natuurlijk aroma (bevat MELK), zuurteregelaar (kaliumcarbonat), stabilisatoren (gellangom, carrageen)Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "natuurlijk aroma bevat melk",
             "zuurteregelaar kaliumcarbonat",
@@ -5889,8 +5889,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (3,0% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (19,8%), suiker (4,7%), magere cacaopoeder (0,1%), natuurlijke aroma's, zuurteregelaar (kaliumcarbonaat), emulgatoren (monoen diglyceriden van vetzuren van plantaardige oorsprong), stabilisatoren (carrageenan, guarpitmeel)For allergens, see ingredients in HOOFDLETTERS.Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "magere cacaopoeder",
             "natuurlijke aroma's",
@@ -7365,7 +7365,7 @@
             "havervlok",
             "bloem rijst",
             "bloem tarwe",
-            "hazelnoot°",
+            "hazelnoot",
             "maïs",
             "suiker",
             "stabilisator glycerol e422",
@@ -7457,7 +7457,7 @@
             "zoetstof maltitolen e965",
             "zoetstof sucralose e955",
             "zoetstof acesulfaam-k e950",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "mango",
             "varkensgelatine",
             "weipoeder",
@@ -7500,8 +7500,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,1% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (24,8%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen), enzym (lactase), zoetstof (acesulfam-K)For allergens see ingredients in bold.Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "zuurteregelaar kaliumcarbonaat",
             "stabilisatoren gellangom",
             "stabilisatoren carrageen",
@@ -7682,7 +7682,7 @@
             "vruchtensap uit geconcentreerd sap aardbei",
             "vruchtensap uit geconcentreerd sap framboos",
             "vruchtensap uit geconcentreerd sap kers",
-            "voedingsvezel bevat polydextrose en/of inuline",
+            "voedingsvezel bevat polydextrose enof inuline",
             "stabilisatoren pectine",
             "guargom",
             "dikaliumfosfaat en trinatriumcitraat",
@@ -7710,7 +7710,7 @@
         "processed_ingredients": [
             "melk",
             "water",
-            "koffie-extract°",
+            "koffie-extract",
             "suiker",
             "karamelaroma",
             "zuurteregelaar natriumcarbonaten e500"
@@ -8120,10 +8120,10 @@
         "processed_ingredients": [
             "melk vet",
             "suiker",
-            "cacao^1",
+            "cacao1",
             "aroma",
             "stabilisator carrageen",
-            "^1 rainforest alliance certifiedᵀᴹ find out more at raorg"
+            "1 rainforest alliance certifiedᵀᴹ find out more at raorg"
         ],
         "ai_processed_ingredients": [
             "MELK",
@@ -8827,10 +8827,10 @@
         "ingredients": "IngrediëntenIngrediënten: 75% halfvolle melk, arabicakoffie°, suiker, gekaramelliseerde suikerstroop, cacaopoeder°, stabilisator (natriumfosfaten [E339], carrageen [E407]).Waarvan toegevoegde suikers 5.9g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter°Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.orgAllergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [
             "halfvolle melk",
-            "arabicakoffie°",
+            "arabicakoffie",
             "suiker",
             "gekaramelliseerde suikerstroop",
-            "cacaopoeder°",
+            "cacaopoeder",
             "stabilisator natriumfosfaten e339",
             "stabilisator carrageen e407"
         ],
@@ -9112,7 +9112,7 @@
             "geëxtraheerde vanillestokjes",
             "vanille-extract",
             "lactase",
-            "lactosegehalte < /"
+            "lactosegehalte"
         ],
         "ai_processed_ingredients": [
             "* Magere KWARK",
@@ -9602,7 +9602,7 @@
             "cornflakes gerstmoutextract",
             "glucose-fructosestroop",
             "stabilisator glycerol",
-            "zeezout <",
+            "zeezout",
             "natuurlijk aroma",
             "emulgator lecithinen"
         ],
@@ -10063,7 +10063,7 @@
             "volle melk",
             "magere melk",
             "suiker",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "stabilisator cellulosegom e466",
             "stabilisator cellulose e460",
             "stabilisator carrageen e407",
@@ -10398,7 +10398,7 @@
         "ingredients": "IngrediëntenIngrediënten: 71% volle melk, arabicakoffie°, suiker, room , gekaramelliseerde suikerstroop, stabilisator (natriumfosfaat [E339], carrageen [E407]). Waarvan toegevoegde suikers 5.7g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter°Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.orgAllergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [
             "volle melk",
-            "arabicakoffie°",
+            "arabicakoffie",
             "suiker",
             "room",
             "gekaramelliseerde suikerstroop",
@@ -10668,8 +10668,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (2% vet) (75%), Starbucks Arabica® koffie (water, koffie-extract) (19,3%), suiker (5,5%), natuurlijke aroma's (MELK), zuurteregelaar (kaliumcarbonaat)Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks arabica® koffie water",
-            "starbucks arabica® koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "natuurlijke aroma's melk",
             "zuurteregelaar kaliumcarbonaat"
@@ -10885,7 +10885,7 @@
             "plantaardig margarine plantaardige vetten en oliën in wisselende verhoudingen koolzaad",
             "plantaardig margarine water",
             "plantaardig margarine zout",
-            "plantaardig margarine emulgator monoen diglyceriden van vetzuren; aroma",
+            "plantaardig margarine emulgator monoen diglyceriden van vetzuren aroma",
             "maltodextrine",
             "rijststroop",
             "gemodificeerd tapiocazetmeel",
@@ -11031,7 +11031,7 @@
         "ingredients": "IngrediëntenIngrediënten: 75% halfvolle melk, arabicakoffie°, suiker, gekaramelliseerde suikerstroop, stabilisator (carrageen [E407], natriumfosfaat [E339]).Waarvan toegevoegde suikers 6.0g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter°Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.orgAllergie-informatieBevat: Melk, Lactose",
         "processed_ingredients": [
             "halfvolle melk",
-            "arabicakoffie°",
+            "arabicakoffie",
             "suiker",
             "gekaramelliseerde suikerstroop",
             "stabilisator carrageen e407",
@@ -12025,11 +12025,11 @@
         "processed_ingredients": [
             "melk retentaat",
             "magere melk",
-            "cacao^1",
+            "cacao1",
             "stabilisator cellulose",
             "stabilisator cellulosegom en carrageen",
             "voedingszuur citroenzuur",
-            "zoetstof acesulfaam-k en sucralose ^1 rainforest alliance certified find out more at raorg"
+            "zoetstof acesulfaam-k en sucralose 1 rainforest alliance certified find out more at raorg"
         ],
         "ai_processed_ingredients": [
             "* MELK",
@@ -12245,7 +12245,7 @@
             "zoetstof maltitolen e965",
             "zoetstof sucralose e955",
             "zoetstof acesulfaam-k e950",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "aardbei",
             "varkensgelatine",
             "weipoeder",
@@ -12302,7 +12302,7 @@
             "zoetstof maltitolen e965",
             "zoetstof sucralose e955",
             "zoetstof acesulfaam-k e950",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "varkensgelatine",
             "weipoeder",
             "emulgator monoen diglyceriden van vetzuren e471",
@@ -13133,7 +13133,7 @@
         "processed_ingredients": [
             "melk",
             "water",
-            "koffie-extract°",
+            "koffie-extract",
             "suiker",
             "aroma",
             "zuurteregelaar natriumcarbonaten e500"
@@ -13410,8 +13410,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,3% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (20,8%), MELKeiwitpoeder (3,8%), stabilisatoren (gellangom, carrageen), zuurteregelaar (natriumcitraat, kaliumcarbonaat), natuurlijk aroma (bevat MELK), zoetstof (acesulfaam-K).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "melkeiwitpoeder",
             "stabilisatoren gellangom",
             "stabilisatoren carrageen",
@@ -14403,7 +14403,7 @@
             "glucose-fructosestroop",
             "roggebloem",
             "water",
-            "rijsmiddelen e450/e500",
+            "rijsmiddelen e450e500",
             "kruiden en specerijen bevat zoethout",
             "aardappelzetmeel",
             "specerijen",
@@ -14519,8 +14519,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,3% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (20,6%), MELKeiwitpoeder (3,6%), mager cacaopoeder (0.5%), stabilisatoren (gellangom, carrageen), zuurteregelaar (natriumcitraat, kaliumcarbonaat), natuurlijk aroma, zoetstof (acesulfaam-K).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "melkeiwitpoeder",
             "mager cacaopoeder",
             "stabilisatoren gellangom",
@@ -14968,7 +14968,7 @@
         "processed_ingredients": [
             "melk",
             "water",
-            "koffie-extract°",
+            "koffie-extract",
             "aroma",
             "zuurteregelaar natriumcarbonaten e500",
             "zoetstof sucralose e955"
@@ -15117,8 +15117,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (2% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (19,3%), suiker (5,5%), natuurlijke aroma's, zuurteregelaar (kaliumcarbonaat)Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "natuurlijke aroma's",
             "zuurteregelaar kaliumcarbonaat"
@@ -15408,7 +15408,7 @@
             "cacaoboter",
             "bruine rijsteiwit",
             "amandelen",
-            "emulgator zonnebloemlecithine; natuurlijk vanille aroma",
+            "emulgator zonnebloemlecithine natuurlijk vanille aroma",
             "vanilline"
         ],
         "ai_processed_ingredients": [
@@ -15793,8 +15793,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (bevat 3,1% vet) 75%, Starbucks® Arabica kofie (water, koffie extract) 19,7%, suiker, magere cacaopoeder 0,2%, natuurlijk aroma, aromas, zuurteregelaar (kaliumcarbonaten), stabilisatoren (carrageen, guarpitmeel), emulgators (mono-en diglyceriden van vetzuren van plantaardige oorsprong)For allergens, see ingredients in bold.Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk bevat vet",
-            "starbucks® arabica kofie water",
-            "starbucks® arabica kofie koffie extract",
+            "starbucks arabica kofie water",
+            "starbucks arabica kofie koffie extract",
             "suiker",
             "magere cacaopoeder",
             "natuurlijk aroma",
@@ -15829,10 +15829,10 @@
             "maltodextrine",
             "voedingsvezel inuline",
             "water",
-            "cacaomassa°",
+            "cacaomassa",
             "honing",
-            "cacaopoeder°",
-            "cacaoboter°",
+            "cacaopoeder",
+            "cacaoboter",
             "melasse",
             "zout",
             "emulgator lecithine e322",
@@ -16541,7 +16541,7 @@
         "processed_ingredients": [
             "water",
             "wei-eiwit isolaat melk",
-            "zuurteregelaar appelzuur; natuurlijk aroma",
+            "zuurteregelaar appelzuur natuurlijk aroma",
             "zwarte wortelconcentraat",
             "zout",
             "zoetstof sucralose"
@@ -16588,9 +16588,9 @@
             "sojasaus zout",
             "sojasaus tarwe",
             "rijsmiddelen natriumcarbonaten",
-            "difosfaten; sake water",
-            "difosfaten; sake gefermenteerde rijst",
-            "difosfaten; sake alcohol",
+            "difosfaten sake water",
+            "difosfaten sake gefermenteerde rijst",
+            "difosfaten sake alcohol",
             "zout",
             "gember",
             "knoflook",
@@ -16599,7 +16599,7 @@
             "maltodextrine",
             "kippenvleesextract",
             "kippenvet",
-            "kleurstof paprika-extract; gistextract"
+            "kleurstof paprika-extract gistextract"
         ],
         "ai_processed_ingredients": [
             "TARWEBLOEM",
@@ -16731,8 +16731,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,3% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (20,9%), MELKeiwitpoeder (3,8%), stabilisatoren (gellangom, carrageen), zuurteregelaar (natriumcitraat, kaliumcarbonaat), zoetstof (acesulfaam-K).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "melkeiwitpoeder",
             "stabilisatoren gellangom",
             "stabilisatoren carrageen",
@@ -16876,7 +16876,7 @@
             "roompoeder melk",
             "kaneel",
             "natuurlijk vanille aroma",
-            "emulgator zonnebloemlecithine; zeezout"
+            "emulgator zonnebloemlecithine zeezout"
         ],
         "ai_processed_ingredients": [
             "Hier is de lijst van ingrediënten:",
@@ -17258,8 +17258,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,8% vet)(75%), Starbucks® Arabica koffie (water, koffie-extract) (20,3%), suiker (4,5%), natuurlijk aroma, stabilisatoren (gellangom, carrageen), zuurteregelaar (kaliumcarbonaat), Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "natuurlijk aroma",
             "stabilisatoren gellangom",
@@ -18853,7 +18853,7 @@
         "processed_ingredients": [
             "water",
             "wei-eiwit isolaat melk",
-            "zuurteregelaar appelzuur; natuurlijk aroma",
+            "zuurteregelaar appelzuur natuurlijk aroma",
             "appelsapconcentraat",
             "saffloerconcentraat",
             "citroensapconcentraat",
@@ -18981,7 +18981,7 @@
             "kleurstoffen carotenen",
             "kleurstoffen karamel",
             "zout",
-            "cafeïnegehalte 40mg/100ml"
+            "cafeïnegehalte 40mg100ml"
         ],
         "ai_processed_ingredients": [
             "Magere MELK",
@@ -19050,7 +19050,7 @@
             "pompoenpitten",
             "inuline",
             "rijstsiroop",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "Pinda's (Aardnoten)",
@@ -19109,7 +19109,7 @@
             "melkeiwit",
             "maïszetmeel",
             "natuurlijk aroma",
-            "stabilisator natriumfosfaat; zoetstof sucralose",
+            "stabilisator natriumfosfaat zoetstof sucralose",
             "lactase"
         ],
         "ai_processed_ingredients": [
@@ -19175,8 +19175,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,1% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (24,8%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen), enzym (lactase), zoetstof (acesulfaam-K)Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "zuurteregelaar kaliumcarbonaat",
             "stabilisatoren gellangom",
             "stabilisatoren carrageen",
@@ -19295,7 +19295,7 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,3% vet), 2,1% cacao^1, WEI eiwit, stabilisatoren: cellulose, cellulosegom, carrageen, smaakversterker: erythritol, zoetstoffen: acesulfaam-K, sucralose, ^1Rainforest Alliance Certified. Find out more at ra.orgAllergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "cacao^1",
+            "cacao1",
             "wei eiwit",
             "stabilisatoren cellulose",
             "cellulosegom",
@@ -19303,7 +19303,7 @@
             "smaakversterker erythritol",
             "zoetstoffen acesulfaam-k",
             "sucralose",
-            "^1rainforest alliance certified find out more at raorg"
+            "1rainforest alliance certified find out more at raorg"
         ],
         "ai_processed_ingredients": [
             "MELK",
@@ -19486,8 +19486,8 @@
         "name": "Starbucks Blissful retreat limited edition mocha",
         "ingredients": "IngrediëntenIngrediënten: MELK (3% vet) (75%) Starbucks® Arabica koffie (water, koffie-extract) (18,8%), suiker (4,7%), cichorei-inuline, magere cacaopoeder (0,6%), zuurteregelaar (kaliumcarbonaat), natuurlijk aroma, zeezout (0,08%), stabilisatoren (gellangom, carrageen).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
-            "melk vet starbucks® arabica koffie water",
-            "melk vet starbucks® arabica koffie koffie-extract",
+            "melk vet starbucks arabica koffie water",
+            "melk vet starbucks arabica koffie koffie-extract",
             "suiker",
             "cichorei-inuline",
             "magere cacaopoeder",
@@ -19554,7 +19554,7 @@
             "soja",
             "specerijen",
             "sesam",
-            "olie chilliepoeder bevat tarwebloem / gluten zie dikgedrukt",
+            "olie chilliepoeder bevat tarwebloem gluten zie dikgedrukt",
             "soja",
             "sesam",
             "kemiri product"
@@ -19604,8 +19604,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,8% vet) (75%), Starbucks® Arabica koffie (water, koffieextract) (20%), suiker (4,7%), aroma met karamelsmaak (bevat MELK), zuurteregelaar (kaliumcarbonaat), emulgatoren (monoen diglyceriden van vetzuren van plantaardige oorsprong), stabilisatoren (carrageen, guarpitmeel).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffieextract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffieextract",
             "suiker",
             "aroma met karamelsmaak bevat melk",
             "zuurteregelaar kaliumcarbonaat",
@@ -19638,7 +19638,7 @@
             "zout",
             "paprika",
             "rijsmiddel ammoniumwaterstofcarbonaat",
-            "chilipeper % uitgedrukt in het eindproduct"
+            "chilipeper uitgedrukt in het eindproduct"
         ],
         "ai_processed_ingredients": [
             "TARWEBLOEM",
@@ -19823,7 +19823,7 @@
             "krokante brokjes eiwit zetmeel",
             "krokante brokjes eiwit zout",
             "omhulsel met pure chocoladesmaak zoetstoffen isolmalt",
-            "omhulsel met pure chocoladesmaak sucralose; palmen palpitolie",
+            "omhulsel met pure chocoladesmaak sucralose palmen palpitolie",
             "omhulsel met pure chocoladesmaak magere cacaopoeder",
             "omhulsel met pure chocoladesmaak emulgatoren lecithine soja",
             "omhulsel met pure chocoladesmaak polyglycerolpolyricinoleaat",
@@ -19911,7 +19911,7 @@
             "cacaoboter",
             "gevriesdroogde appels 1",
             "kaneel",
-            "emulgator zonnebloemlecithine; natuurlijk aroma"
+            "emulgator zonnebloemlecithine natuurlijk aroma"
         ],
         "ai_processed_ingredients": [
             "Dadels",
@@ -20069,7 +20069,7 @@
             "pinda’s",
             "noten",
             "selderij",
-            "mosterd & weekdieren worden verwerkt"
+            "mosterd weekdieren worden verwerkt"
         ],
         "ai_processed_ingredients": [
             "TARWE-meel",
@@ -20171,7 +20171,7 @@
             "cashewnoot",
             "rozijn",
             "amandel",
-            "cacao°",
+            "cacao",
             "natuurlijk aroma"
         ],
         "ai_processed_ingredients": [
@@ -20194,9 +20194,9 @@
             "zuurteregelaar e501",
             "zuurteregelaar e500",
             "verdikkingsmiddel e412",
-            "kleurstof e101; kruidenolie geraffineerde palmolie geraffineerde palmolie",
+            "kleurstof e101 kruidenolie geraffineerde palmolie geraffineerde palmolie",
             "geraffineerde palmolie antioxidant e319",
-            "sjalot; kruidenpoeder suiker",
+            "sjalot kruidenpoeder suiker",
             "zout",
             "smaakversterkers e621",
             "smaakversterkers e631",
@@ -20205,13 +20205,13 @@
             "aroma bevat soja",
             "ui",
             "kleurstof e150a",
-            "antiklontermiddel e551; zoete sojasaus suiker",
+            "antiklontermiddel e551 zoete sojasaus suiker",
             "water",
             "zout",
             "tarwe",
             "soja",
             "specerijen",
-            "sesam-olie; chilipoeder gefabriceerd in een omgeving waar ook producten worden verwerkt die pinda's",
+            "sesam-olie chilipoeder gefabriceerd in een omgeving waar ook producten worden verwerkt die pinda's",
             "schaaldieren",
             "vis",
             "eieren",
@@ -20303,7 +20303,7 @@
             "soja",
             "specerijen",
             "sesam olie gebakken ui ui",
-            "plantaardige olie bevat anti-oxidant e319 chili poeder bevat tarwebloem / gluten zie dikgedrukt product"
+            "plantaardige olie bevat anti-oxidant e319 chili poeder bevat tarwebloem gluten zie dikgedrukt product"
         ],
         "ai_processed_ingredients": [
             "TARWEBLOEM",
@@ -20400,18 +20400,18 @@
             "eiwitmengsel calciumcaseïnaat melk",
             "eiwitmengsel wei-eiwitisolaat melk",
             "zoetstoffen maltitol",
-            "sucralose; rundercollageenhydrolysaat",
-            "bevochtigingsmiddel glycerol; water",
+            "sucralose rundercollageenhydrolysaat",
+            "bevochtigingsmiddel glycerol water",
             "palmolie",
             "cacaoboter",
             "volle melkpoeder",
             "magere cacaopoeder",
             "tarwemeel",
             "koolzaadolie",
-            "vulstof polydextrose; tarwezetmeel",
-            "emulgator sojalecithine; zout",
+            "vulstof polydextrose tarwezetmeel",
+            "emulgator sojalecithine zout",
             "rijsmiddelen ammoniumcarbonaten",
-            "natriumcarbonaten; zuurteregelaar natriumhydroxide; aroma's"
+            "natriumcarbonaten zuurteregelaar natriumhydroxide aroma's"
         ],
         "ai_processed_ingredients": [
             "eiwitmengsel",
@@ -20542,7 +20542,7 @@
             "havermelk poeder",
             "roompoeder melk",
             "suiker",
-            "emulgator zonnebloemlecithine; zeezout",
+            "emulgator zonnebloemlecithine zeezout",
             "cacaoboter",
             "vanille extract"
         ],
@@ -20807,7 +20807,7 @@
             "basilicum",
             "oregano",
             "kardemomzaad",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "Water",
@@ -20930,7 +20930,7 @@
             "melkchocolade met soja-eiwit volle melkpoeder",
             "melkchocolade met soja-eiwit cacaomassa",
             "melkchocolade met soja-eiwit lactose melk",
-            "melkchocolade met soja-eiwit emulgatoren lecithinen soja; natuurlijk vanillearoma",
+            "melkchocolade met soja-eiwit emulgatoren lecithinen soja natuurlijk vanillearoma",
             "melk-eiwit",
             "suikersiroop",
             "geraspte kokos",
@@ -21370,7 +21370,7 @@
             "maanzaad",
             "emulgator zonnebloemlecithine",
             "natuurlijk citroen aroma",
-            "citroenschil poeder <"
+            "citroenschil poeder"
         ],
         "ai_processed_ingredients": [
             "Dadels",
@@ -21553,8 +21553,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (3% vet) (75%), Starbucks® Arabica koffie (water, koffieextract) (19,1%), suiker (4,7%), cichorei-inuline, natuurlijke aroma's, magere cacaopoeder (0,1%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen).Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffieextract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffieextract",
             "suiker",
             "cichorei-inuline",
             "natuurlijke aroma's",
@@ -21642,7 +21642,7 @@
             "maïszetmeel",
             "natuurlijk aroma",
             "lactase",
-            "stabilisator natriumfosfaat; zoetstof sucralose"
+            "stabilisator natriumfosfaat zoetstof sucralose"
         ],
         "ai_processed_ingredients": [
             "Halfvolle melk",
@@ -21883,8 +21883,8 @@
         "processed_ingredients": [
             "haverbasis water",
             "haverbasis haver",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "koolzaadolie",
             "magere cacaopoeder",
@@ -22151,7 +22151,7 @@
             "melk",
             "water",
             "melkeiwit",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "stabilisator cellulose e460",
             "stabilisator natriumcarboxymethylcellulose e466",
             "natuurlijke aroma’s",
@@ -22182,7 +22182,7 @@
             "maïszetmeel",
             "natuurlijk aroma",
             "lactase",
-            "stabilisator natriumfosfaat; zoetstof sucralose"
+            "stabilisator natriumfosfaat zoetstof sucralose"
         ],
         "ai_processed_ingredients": [
             "Halfvolle melk",
@@ -22233,7 +22233,7 @@
         "processed_ingredients": [
             "sesamzaad",
             "rijstsiroop",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "SESAMZAAD",
@@ -22245,22 +22245,22 @@
         "name": "Grenade Salted caramel protein bar",
         "ingredients": "IngrediëntenIngrediënten: MELKchocolade met zoetstof (25%) (zoetstof: maltitol; cacaoboter, volle MELKpoeder, cacaomassa, emulgator: SOJAlecithine; natuurlijk aroma), eiwitmengsel (calciumcaseïnaat (MELK), wei eiwitisolaat (MELK)), bevochtigingsmiddel: glycerol, gehydrolyseerde rundergelatine, chocoladeschilfers met zoetstof (8%) (zoetstof: maltitol; cacaomassa, emulgator: SOJAlecithine; vetarm cacaopoeder, natuurlijk vanillearoma), vulstof: polydextrose, palmvet, witte chocolade met zoetstof (zoetstof: maltitol; cacaoboter, volle MELKpoeder, emulgator: SOJAlecithine; natuurlijk aroma), vetarm cacaopoeder, zeezout, aroma, zoetstof: sucraloseKan ook sporen van gluten, ei, aardnoot en noten bevatten.Voor allergenen zie HOOFDLETTERS ingrediënten.Allergie-informatieBevat: Melk, SojaKan bevatten: Eieren, Glutenbevattende Granen, Noten, Pinda's",
         "processed_ingredients": [
-            "melkchocolade met zoetstof zoetstof maltitol; cacaoboter",
+            "melkchocolade met zoetstof zoetstof maltitol cacaoboter",
             "melkchocolade met zoetstof volle melkpoeder",
             "melkchocolade met zoetstof cacaomassa",
-            "melkchocolade met zoetstof emulgator sojalecithine; natuurlijk aroma",
+            "melkchocolade met zoetstof emulgator sojalecithine natuurlijk aroma",
             "eiwitmengsel calciumcaseïnaat melk",
             "eiwitmengsel wei eiwitisolaat melk",
             "bevochtigingsmiddel glycerol",
             "gehydrolyseerde rundergelatine",
-            "chocoladeschilfers met zoetstof zoetstof maltitol; cacaomassa",
-            "chocoladeschilfers met zoetstof emulgator sojalecithine; vetarm cacaopoeder",
+            "chocoladeschilfers met zoetstof zoetstof maltitol cacaomassa",
+            "chocoladeschilfers met zoetstof emulgator sojalecithine vetarm cacaopoeder",
             "chocoladeschilfers met zoetstof natuurlijk vanillearoma",
             "vulstof polydextrose",
             "palmvet",
-            "witte chocolade met zoetstof zoetstof maltitol; cacaoboter",
+            "witte chocolade met zoetstof zoetstof maltitol cacaoboter",
             "witte chocolade met zoetstof volle melkpoeder",
-            "witte chocolade met zoetstof emulgator sojalecithine; natuurlijk aroma",
+            "witte chocolade met zoetstof emulgator sojalecithine natuurlijk aroma",
             "vetarm cacaopoeder",
             "zeezout",
             "aroma",
@@ -22551,8 +22551,8 @@
             "oploskoffie",
             "lactase",
             "stabilisatoren gellangom",
-            "carrageen; zuurteregelaars natriumfosfaat",
-            "natriumcarbonaat; natuurlijke aroma's",
+            "carrageen zuurteregelaars natriumfosfaat",
+            "natriumcarbonaat natuurlijke aroma's",
             "zoetstof sucralose"
         ],
         "ai_processed_ingredients": [
@@ -22658,16 +22658,16 @@
         "name": "NXT Level Pocket protein raspberry cheesecake",
         "ingredients": "IngrediëntenWitte chocolade met zoetstof 25,5% (zoetstof: maltitolen; cacaoboter, volle MELKpoeder, emulgator: lecithinen (SOJA); natuurlijk aroma), MELKproteïne, frambozensmaaklaag 14,5% (vulmiddel: polydextrose; sojaolie, zoetstof: xylitol; magere MELKpoeder, zout, emulgator: citroenzuuresters van monoen diglyceriden van vetzuren; aroma, kleurstof: karmijn), bevochtigingsmiddel: glycerol; gehydrolyseerd TARWEgluten, gehydrolyseerd collageen, SOJA-eiwit, oplosbare maïsvezels, sojaolie, magere yoghurtpoeder (MELK), aroma, zout, zoetstof: sucralose; kleurstof: carotenenAllergie-informatieBevat: Glutenbevattende Granen, Soja, Lactose, MelkKan bevatten: Eieren, Pinda's, Noten",
         "processed_ingredients": [
-            "witte chocolade met zoetstof zoetstof maltitolen; cacaoboter",
+            "witte chocolade met zoetstof zoetstof maltitolen cacaoboter",
             "witte chocolade met zoetstof volle melkpoeder",
-            "witte chocolade met zoetstof emulgator lecithinen soja; natuurlijk aroma",
+            "witte chocolade met zoetstof emulgator lecithinen soja natuurlijk aroma",
             "melkproteïne",
-            "frambozensmaaklaag vulmiddel polydextrose; sojaolie",
-            "frambozensmaaklaag zoetstof xylitol; magere melkpoeder",
+            "frambozensmaaklaag vulmiddel polydextrose sojaolie",
+            "frambozensmaaklaag zoetstof xylitol magere melkpoeder",
             "frambozensmaaklaag zout",
-            "frambozensmaaklaag emulgator citroenzuuresters van monoen diglyceriden van vetzuren; aroma",
+            "frambozensmaaklaag emulgator citroenzuuresters van monoen diglyceriden van vetzuren aroma",
             "frambozensmaaklaag kleurstof karmijn",
-            "bevochtigingsmiddel glycerol; gehydrolyseerd tarwegluten",
+            "bevochtigingsmiddel glycerol gehydrolyseerd tarwegluten",
             "gehydrolyseerd collageen",
             "soja-eiwit",
             "oplosbare maïsvezels",
@@ -22675,7 +22675,7 @@
             "magere yoghurtpoeder melk",
             "aroma",
             "zout",
-            "zoetstof sucralose; kleurstof carotenen"
+            "zoetstof sucralose kleurstof carotenen"
         ],
         "ai_processed_ingredients": [
             "Witte chocolade",
@@ -22746,8 +22746,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (1,8% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (20%), suiker (4,7%), natuurlijk aroma (bevat MELK), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen)Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "natuurlijk aroma bevat melk",
             "zuurteregelaar kaliumcarbonaat",
@@ -23117,8 +23117,8 @@
         "ingredients": "IngrediëntenIngrediënten: MELK (3% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (19,3%), suiker (4,5%), cichorei inuline, natuurlijke aroma's, magere cacaopoeder (0,1%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen)Allergie-informatieBevat: Melk",
         "processed_ingredients": [
             "melk vet",
-            "starbucks® arabica koffie water",
-            "starbucks® arabica koffie koffie-extract",
+            "starbucks arabica koffie water",
+            "starbucks arabica koffie koffie-extract",
             "suiker",
             "cichorei inuline",
             "natuurlijke aroma's",
@@ -24105,10 +24105,10 @@
             "krokante brokjes eiwit zetmeel",
             "krokante brokjes eiwit zout",
             "omhulsel met witte chocoladesmaak zoetstoffen isomalt",
-            "omhulsel met witte chocoladesmaak sucralose; palmen palpitolie",
+            "omhulsel met witte chocoladesmaak sucralose palmen palpitolie",
             "omhulsel met witte chocoladesmaak weipoeder melk",
             "omhulsel met witte chocoladesmaak tarwemeel gluten",
-            "omhulsel met witte chocoladesmaak emulgator lecithine soja; aroma",
+            "omhulsel met witte chocoladesmaak emulgator lecithine soja aroma",
             "fructo-oligosacchariden",
             "polydextrose",
             "melkeiwitten wei-eiwitisolaat",
@@ -24273,7 +24273,7 @@
         "name": "Jimmy's Iced coffee original",
         "ingredients": "IngrediëntenIngrediënten; Halfvolle MELK (62%), Arabica koffie (water, koffie*)(36%), ongeraffineerde demerara suiker, zuurteregelaar (natriumbicarbonaat)Allergie-informatieBevat: Melk",
         "processed_ingredients": [
-            "; halfvolle melk",
+            "halfvolle melk",
             "arabica koffie water",
             "arabica koffie koffie",
             "ongeraffineerde demerara suiker",
@@ -24290,16 +24290,16 @@
         "ingredients": "Ingrediëntenchocolade met zoetstof 25,5% (cacaomassa, zoetstof: maltitolen; cacaoboter, emulgator: lecithine(SOJA); natuurlijk aroma), MELKeiwitblend (calciumcaseïnaat (MELK), wei-eiwit (MELK), MELKeiwit), laag met cacaosmaak 14,5% (vulstof: polydextrose; sojaolie, magere MELKpoeder, zoetstof: xylitol; magere cacaopoeder 0,2%, emulgator: lecithine(SOJA); zout), bevochtigingsmiddel: glycerol; gehydrolyseerde TARWEGLUTEN, gehydrolyseerde collageen, SOJA-eiwit, oplosbare maïsvezel, sojaolie, roompoeder (MELK) 0,6%, aroma, zout, natuurlijk aroma (MELK), zoetstof: sucralose.Allergie-informatieBevat: Glutenbevattende Granen, Soja, Lactose, MelkKan bevatten: Eieren, Pinda's, Noten",
         "processed_ingredients": [
             "chocolade met zoetstof cacaomassa",
-            "chocolade met zoetstof zoetstof maltitolen; cacaoboter",
-            "chocolade met zoetstof emulgator lecithine soja; natuurlijk aroma",
+            "chocolade met zoetstof zoetstof maltitolen cacaoboter",
+            "chocolade met zoetstof emulgator lecithine soja natuurlijk aroma",
             "melkeiwitblend calciumcaseïnaat melk",
             "melkeiwitblend wei-eiwit melk",
             "melkeiwitblend melkeiwit",
-            "laag met cacaosmaak vulstof polydextrose; sojaolie",
+            "laag met cacaosmaak vulstof polydextrose sojaolie",
             "laag met cacaosmaak magere melkpoeder",
-            "laag met cacaosmaak zoetstof xylitol; magere cacaopoeder",
-            "laag met cacaosmaak emulgator lecithine soja; zout",
-            "bevochtigingsmiddel glycerol; gehydrolyseerde tarwegluten",
+            "laag met cacaosmaak zoetstof xylitol magere cacaopoeder",
+            "laag met cacaosmaak emulgator lecithine soja zout",
+            "bevochtigingsmiddel glycerol gehydrolyseerde tarwegluten",
             "gehydrolyseerde collageen",
             "soja-eiwit",
             "oplosbare maïsvezel",
@@ -24389,7 +24389,7 @@
             "gemalen koekjes zout",
             "lactase",
             "natuurlijk aroma",
-            "melkfermenten melklactosegehalte </100ml"
+            "melkfermenten melklactosegehalte 100ml"
         ],
         "ai_processed_ingredients": [
             "* Magere MELK",
@@ -25045,7 +25045,7 @@
             "rijstsiroop",
             "rozijnen rozijnen",
             "rozijnen zonnebloemolie",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "Rijstmeel",
@@ -25070,7 +25070,7 @@
             "gemoute gerstmeel",
             "gist",
             "antioxidant rozemarijnextract",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "TARWE",
@@ -25363,7 +25363,7 @@
             "wafel zetmeel",
             "wafel magere cacaopoeder",
             "wafel natriumchloride",
-            "wafel emulgator lecithine soja; verdikkingsmiddel guarpitmeel; rijsmiddel ammoniumcarbonaat; antioxidant ascorbinezuur",
+            "wafel emulgator lecithine soja verdikkingsmiddel guarpitmeel rijsmiddel ammoniumcarbonaat antioxidant ascorbinezuur",
             "magere cacaopoeder",
             "cacaopasta",
             "vulstof polydextrose",
@@ -25534,9 +25534,9 @@
         "name": "Grenade Salted peanut protein bar",
         "ingredients": "IngrediëntenIngrediënten: Witte chocolade met zoetstof (31%) (zoetstof: maltitol; cacaoboter, volle MELKpoeder, emulgator: SOJAlecithine; natuurlijk aroma), eiwitmengsel (calciumcaseïnaat (MELK), wei-eiwit-isolaat (MELK)), bevochtigingsmiddel: glycerol, gehydrolyseerde rundergelatine, geroosterde AARDNOTEN (7%), water, isomalto-oligosaccharide, palmvet, AARDNOOTpasta (2.3%) (AARDNOOTpitten, AARDNOOTolie), aroma, zout, zoetstof: sucraloseKan ook sporen van ei, gluten en noten bevatten.Voor allergenen zie HOOFDLETTERS ingrediënten.Allergie-informatieBevat: Melk, Pinda's, SojaKan bevatten: Eieren, Glutenbevattende Granen, Noten",
         "processed_ingredients": [
-            "witte chocolade met zoetstof zoetstof maltitol; cacaoboter",
+            "witte chocolade met zoetstof zoetstof maltitol cacaoboter",
             "witte chocolade met zoetstof volle melkpoeder",
-            "witte chocolade met zoetstof emulgator sojalecithine; natuurlijk aroma",
+            "witte chocolade met zoetstof emulgator sojalecithine natuurlijk aroma",
             "eiwitmengsel calciumcaseïnaat melk",
             "eiwitmengsel wei-eiwit-isolaat melk",
             "bevochtigingsmiddel glycerol",
@@ -25722,10 +25722,10 @@
         "name": "Optimum Nutrition Chocolate sea salt crunch bar",
         "ingredients": "IngrediëntenIngrediënten: MELKchocolade met zoetstof (31 %) (zoetstof: maltitolen; cacaoboter, volle MELKpoeder, cacaomassa, emulgator: lecithinen [SOJA]; vanille-extract), bevochtigingsmiddel (glycerol), collageen hydrolysaat, MELK-eiwit, WEI-eiwit, krokante stukjes SOJA (6,4 %) (SOJA-eiwit, rijstmeel, GERSTEmoutextract [GLUTEN], zout), zoetstoffen (maltitolen, sucralose), SOJA-eiwit, cacaoboter, koolzaadolie, magere MELKpoeder, volle MELKpoeder, magere cacaopoeder, aroma, zeezout (0,3 %),zout, cacaomassa, emulgatoren (lecithinen [SOJA]), vanille-extract. VOOR ALLERGENEN ZIE DE VETGEDRUKTE INGREDIËNTEN IN HOOFDLETTERS. Kan bevatten: eieren, noten en pinda's.Allergie-informatieBevat: Melk, Soja, Gerst, Glutenbevattende GranenKan bevatten: Eieren, Noten, Pinda's",
         "processed_ingredients": [
-            "melkchocolade met zoetstof zoetstof maltitolen; cacaoboter",
+            "melkchocolade met zoetstof zoetstof maltitolen cacaoboter",
             "melkchocolade met zoetstof volle melkpoeder",
             "melkchocolade met zoetstof cacaomassa",
-            "melkchocolade met zoetstof emulgator lecithinen soja; vanille-extract",
+            "melkchocolade met zoetstof emulgator lecithinen soja vanille-extract",
             "bevochtigingsmiddel glycerol",
             "collageen hydrolysaat",
             "melk-eiwit",
@@ -25802,12 +25802,12 @@
             "eiwitmengsel melk eiwit",
             "eiwitmengsel wei-eiwit melk",
             "eiwitmengsel calciumcaseïnaat melk",
-            "witte chocolade met zoetstof zoetstof maltitol; cacaoboter",
+            "witte chocolade met zoetstof zoetstof maltitol cacaoboter",
             "witte chocolade met zoetstof volle melkpoeder",
-            "witte chocolade met zoetstof emulgator sojalecithine; natuurlijk aroma",
+            "witte chocolade met zoetstof emulgator sojalecithine natuurlijk aroma",
             "zoetstoffen maltitol",
-            "sucralose; rundercollageenhydrolysaat",
-            "bevochtigingsmiddel glycerol; vulstof polydextrose; soja eiwitten",
+            "sucralose rundercollageenhydrolysaat",
+            "bevochtigingsmiddel glycerol vulstof polydextrose soja eiwitten",
             "soja-cacao-crispies soja eiwitten",
             "soja-cacao-crispies mager cacaopoeder",
             "soja-cacao-crispies tapiocazetmeel",
@@ -25818,8 +25818,8 @@
             "cacaoboter",
             "volle melkpoeder",
             "emulgators citroenzuurester",
-            "sojalecithine; roompoeder melk",
-            "kleurstof calciumcarbonaat; vanille"
+            "sojalecithine roompoeder melk",
+            "kleurstof calciumcarbonaat vanille"
         ],
         "ai_processed_ingredients": [
             "Melk eiwit",
@@ -26484,7 +26484,7 @@
             "agavesiroop",
             "rozijnen rozijnen",
             "rozijnen zonnebloemolie",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "Aardnoten",
@@ -26510,7 +26510,7 @@
             "gemoute gerstmeel",
             "gist",
             "antioxidant rozemarijnextract",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "* TARWE",
@@ -26870,10 +26870,10 @@
         "name": "Optimum Nutrition Chocolate berry crunch bar",
         "ingredients": "IngrediëntenIngrediënten: : Laagje MELKchocolade met zoetstof (31 %) (zoetstof: maltitolen; cacaoboter, volle MELKpoeder, cacaomassa, emulgator: lecithinen [SOJA]; vanille-extract), bevochtigingsmiddel (glycerol), collageen hydrolysaat, MELKeiwit, krokante stukjes SOJA (6,4 %) (SOJA-eiwit, rijstmeel, GERSTEmoutextract [GLUTEN], zout), SOJA-eiwit, WEI-eiwit, zoetstoffen (maltitolen, sucralose), cacaoboter, koolzaadolie, magere MELKpoeder, gedroogde aardbeienpoeder (aardbei [0,6 %], maïszetmeel), voedingszuur (citroenzuur), volle MELKpoeder, natuurlijke aroma, gevriesdroogde zure kersen (0,2 %), gevriesdroogde frambozen (0,1 %), emulgator (lecithinen), vanille-extract. VOOR ALLERGENEN ZIE DE VETGEDRUKTE INGREDIËNTEN IN HOOFDLETTERS. Kan bevatten: eieren, noten en pinda's.Allergie-informatieBevat: Melk, Soja, Gerst, Glutenbevattende GranenKan bevatten: Eieren, Noten, Pinda's",
         "processed_ingredients": [
-            "laagje melkchocolade met zoetstof zoetstof maltitolen; cacaoboter",
+            "laagje melkchocolade met zoetstof zoetstof maltitolen cacaoboter",
             "laagje melkchocolade met zoetstof volle melkpoeder",
             "laagje melkchocolade met zoetstof cacaomassa",
-            "laagje melkchocolade met zoetstof emulgator lecithinen soja; vanille-extract",
+            "laagje melkchocolade met zoetstof emulgator lecithinen soja vanille-extract",
             "bevochtigingsmiddel glycerol",
             "collageen hydrolysaat",
             "melkeiwit",
@@ -27015,7 +27015,7 @@
             "zoetstof maltitol e965",
             "havervlok",
             "volkoren tarwemeel",
-            "hazelnoot°",
+            "hazelnoot",
             "maïs",
             "kokosvet",
             "bevochtigingsmiddel glycerol e422",
@@ -27079,7 +27079,7 @@
             "tarwegluten",
             "gemodificeerd tapiocazetmeel",
             "rijstolie",
-            "zout; saus water",
+            "zout saus water",
             "kikkererwten",
             "kokosmelk",
             "sperziebonen",
@@ -27157,22 +27157,22 @@
         "processed_ingredients": [
             "eiwitmengsel calciumcaseïnaat melk",
             "eiwitmengsel wei-eiwitisolaat melk",
-            "melkchocolade met zoetstof zoetstof maltitol; cacaoboter",
+            "melkchocolade met zoetstof zoetstof maltitol cacaoboter",
             "melkchocolade met zoetstof volle melkpoeder",
             "melkchocolade met zoetstof cacaomassa",
-            "melkchocolade met zoetstof emulgator sojalecithine; natuurlijk aroma",
+            "melkchocolade met zoetstof emulgator sojalecithine natuurlijk aroma",
             "rundercollageenhydrolysaat",
-            "bevochtigingsmiddel glycerol; zoetstoffen maltitol",
-            "sucralose; palmolie",
+            "bevochtigingsmiddel glycerol zoetstoffen maltitol",
+            "sucralose palmolie",
             "water",
             "magere cacaopoeder",
             "tarwemeel",
             "maiszetmeel",
             "koolzaadolie",
-            "vulstof polydextrose; zeezout",
+            "vulstof polydextrose zeezout",
             "tarwezetmeel",
-            "emulgator sojalecithine; rijsmiddelen ammoniumcarbonaten",
-            "natriumcarbonaten; zuurteregelaar natriumhydroxide; aroma's"
+            "emulgator sojalecithine rijsmiddelen ammoniumcarbonaten",
+            "natriumcarbonaten zuurteregelaar natriumhydroxide aroma's"
         ],
         "ai_processed_ingredients": [
             "eiwitmengsel",
@@ -27209,7 +27209,7 @@
         "ingredients": "IngrediëntenIngrediënten: Laagje pure chocolade met zoetstof (20 %) (cacaomassa, zoetstof: xylitol; cacaoboter, emulgator: lecithine), proteïnemengsel (erwtenproteïne-isolate, SOJAproteïne-isolaat), zoetstoffen (maltitol, steviolglycosiden uit stevia), krokante stukjes SOJA met cacao (14 %) (SOJAproteïne-isolaat, cacaopoeder, zetmeel), laagje met karamelsmaak (10 %) (zoetstof: maltitol; bevochtigingsmiddel: plantaardige glycerol; cacaoboter, water, emulgator: lecithine; verdikkingstof: Arabische gom; magere cacaopoeder, grof zeezout), bevochtigingsmiddel (plantaardige glycerol), PINDApasta, emulgator (lecithine), magere cacaopoeder, kokosolie, natuurlijk aroma, antioxidant (tocoferolrijk extract). VOOR ALLERGENEN ZIE DE VETGEDRUKTE INGREDIËNTEN IN HOOFDLETTERS. Kan bevatten: sesam, sulfieten en noten.Allergie-informatieBevat: Soja, Pinda'sKan bevatten: Sesamzaad, Sulfieten, Noten",
         "processed_ingredients": [
             "laagje pure chocolade met zoetstof cacaomassa",
-            "laagje pure chocolade met zoetstof zoetstof xylitol; cacaoboter",
+            "laagje pure chocolade met zoetstof zoetstof xylitol cacaoboter",
             "laagje pure chocolade met zoetstof emulgator lecithine",
             "proteïnemengsel erwtenproteïne-isolate",
             "proteïnemengsel sojaproteïne-isolaat",
@@ -27218,9 +27218,9 @@
             "krokante stukjes soja met cacao sojaproteïne-isolaat",
             "krokante stukjes soja met cacao cacaopoeder",
             "krokante stukjes soja met cacao zetmeel",
-            "laagje met karamelsmaak zoetstof maltitol; bevochtigingsmiddel plantaardige glycerol; cacaoboter",
+            "laagje met karamelsmaak zoetstof maltitol bevochtigingsmiddel plantaardige glycerol cacaoboter",
             "laagje met karamelsmaak water",
-            "laagje met karamelsmaak emulgator lecithine; verdikkingstof arabische gom; magere cacaopoeder",
+            "laagje met karamelsmaak emulgator lecithine verdikkingstof arabische gom magere cacaopoeder",
             "laagje met karamelsmaak grof zeezout",
             "bevochtigingsmiddel plantaardige glycerol",
             "pindapasta",
@@ -27348,8 +27348,8 @@
             "lactase",
             "stabilisatoren gellangom",
             "natuurlijke aroma's",
-            "carrageen; zuurteregelaars natriumfosfaat",
-            "natriumcarbonaat; cafeïne",
+            "carrageen zuurteregelaars natriumfosfaat",
+            "natriumcarbonaat cafeïne",
             "zoetstof sucralose"
         ],
         "ai_processed_ingredients": [
@@ -27484,7 +27484,7 @@
             "magere cacaopoeder",
             "stabilisatoren cellulose",
             "cellulose gum",
-            "polyfosfaten; carrageen",
+            "polyfosfaten carrageen",
             "zout",
             "zoetstof sucraloseallergenen zijn vetgedrukt weergegeven"
         ],
@@ -27597,21 +27597,21 @@
         "processed_ingredients": [
             "eiwitmengsel calciumcaseïnaat melk",
             "eiwitmengsel wei-eiwitisolaat melk",
-            "melkchocolade met zoetstof zoetstof maltitol; cacaoboter",
+            "melkchocolade met zoetstof zoetstof maltitol cacaoboter",
             "melkchocolade met zoetstof volle melkpoeder",
             "melkchocolade met zoetstof cacaomassa",
-            "melkchocolade met zoetstof emulgator sojalecithine; natuurlijk aroma",
+            "melkchocolade met zoetstof emulgator sojalecithine natuurlijk aroma",
             "rundercollageenhydrolysaat",
-            "bevochtigingsmiddel glycerol; zoetstoffen maltitol",
-            "sucralose; palmolie",
+            "bevochtigingsmiddel glycerol zoetstoffen maltitol",
+            "sucralose palmolie",
             "water",
             "magere cacaopoeder",
             "tarwemeel",
             "tarwezetmeel",
             "koolzaadolie",
-            "vulstof polydextrose; zout",
-            "emulgator sojalecithine; rijsmiddelen ammoniumcarbonaten",
-            "natriumcarbonaten; zuurteregelaar natriumhydroxide; aroma"
+            "vulstof polydextrose zout",
+            "emulgator sojalecithine rijsmiddelen ammoniumcarbonaten",
+            "natriumcarbonaten zuurteregelaar natriumhydroxide aroma"
         ],
         "ai_processed_ingredients": [
             "Calciumcaseïnaat (melk)",
@@ -27649,7 +27649,7 @@
             "polydextrose",
             "botervet melk",
             "magere melkpoeder",
-            "emulgator lecithinen soja; natuurlijke vanillearoma",
+            "emulgator lecithinen soja natuurlijke vanillearoma",
             "zoetstof sucralose ten ministe cacaobestanddelen voor allergenen zie de vetgedrukte in hoofdletters"
         ],
         "ai_processed_ingredients": [
@@ -27859,7 +27859,7 @@
             "quinoa",
             "psylliumvezels",
             "zout",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "Boekweitmeel",
@@ -28015,7 +28015,7 @@
             "erwtenzetmeel",
             "kikkererwtenmeel",
             "zeezout",
-            "=biologisch"
+            "biologisch"
         ],
         "ai_processed_ingredients": [
             "Hier is de lijst van ingrediënten:",
@@ -28198,13 +28198,13 @@
         "ingredients": "IngrediëntenIngrediënten: Laagje MELKchocolade, met zoetstof (32%) (zoetstof: maltitol; cacaoboter, volle MELKpoeder, cacaomassa, emulgator: lecithinen (SOJA); vanille-extrat), laagje met karamelsmaak (16%) (zoetstof: maltitol; gecondenseerde MELK, cacaoboter, bevochtigingsmiddel: sorbitol; emulgator: monoen diglyceriden van vetzuren; aroma, zout, kleurstof: karamel), MELK-eiwit, collageen hydrolysaat, krokante stukjes SOJA met cacao (9,1%) (SOJA-eiwit, cacaopoeder, zetmeel), bevochtigingsmiddel (glycerol), vand, SOJA-eiwit, kokosvet, magere cacaopoeder, aroma. Voor allergenen zie de vetgedrukte ingrediënten in hoofdletters. Kan bevatten; eieren, noten en aardnoten.Allergie-informatieBevat: Melk, SojaKan bevatten: Eieren, Noten, Pinda's",
         "processed_ingredients": [
             "laagje melkchocolade",
-            "met zoetstof zoetstof maltitol; cacaoboter",
+            "met zoetstof zoetstof maltitol cacaoboter",
             "met zoetstof volle melkpoeder",
             "met zoetstof cacaomassa",
-            "met zoetstof emulgator lecithinen soja; vanille-extrat",
-            "laagje met karamelsmaak zoetstof maltitol; gecondenseerde melk",
+            "met zoetstof emulgator lecithinen soja vanille-extrat",
+            "laagje met karamelsmaak zoetstof maltitol gecondenseerde melk",
             "laagje met karamelsmaak cacaoboter",
-            "laagje met karamelsmaak bevochtigingsmiddel sorbitol; emulgator monoen diglyceriden van vetzuren; aroma",
+            "laagje met karamelsmaak bevochtigingsmiddel sorbitol emulgator monoen diglyceriden van vetzuren aroma",
             "laagje met karamelsmaak zout",
             "laagje met karamelsmaak kleurstof karamel",
             "melk-eiwit",
@@ -28254,14 +28254,14 @@
             "eiwit-melkchocolade wel-eiwitconcentraat melk",
             "eiwit-melkchocolade cacaoboter",
             "eiwit-melkchocolade volle melkpoeder",
-            "eiwit-melkchocolade zoetstof maltitol; cacaomassa",
+            "eiwit-melkchocolade zoetstof maltitol cacaomassa",
             "eiwit-melkchocolade natuurlijk vanillearoma",
             "stukjes soja-eiwitisolaat",
-            "laagje met karamelsmaak bevochtigingsmiddel glycerol; maltodextrine",
+            "laagje met karamelsmaak bevochtigingsmiddel glycerol maltodextrine",
             "laagje met karamelsmaak fructo-oligosacchariden",
-            "laagje met karamelsmaak zoetstof maltitol; kokosolie",
+            "laagje met karamelsmaak zoetstof maltitol kokosolie",
             "laagje met karamelsmaak magere melkpoeder",
-            "laagje met karamelsmaak kleurstof karamel; emulgator lecithine soja; zout",
+            "laagje met karamelsmaak kleurstof karamel emulgator lecithine soja zout",
             "laagje met karamelsmaak natuurlijke aroma's",
             "fructo-oligosacchariden",
             "rozijnen",
@@ -28342,7 +28342,7 @@
         "ingredients": "Ingrediëntenwei-eiwitisolaat (MELK)(93%), voedingszuur: citroenzuur; emulgator: zonnebloemlechitine; muntpoeder 1.2%, natuurlijk citroenaroma, zoetstof: sucralose.Allergie-informatieBevat: MelkKan bevatten: Lactose",
         "processed_ingredients": [
             "wei-eiwitisolaat melk",
-            "voedingszuur citroenzuur; emulgator zonnebloemlechitine; muntpoeder",
+            "voedingszuur citroenzuur emulgator zonnebloemlechitine muntpoeder",
             "natuurlijk citroenaroma",
             "zoetstof sucralose"
         ],
@@ -28529,19 +28529,19 @@
             "voedingsvezel polydextrose",
             "bevochtigingsmiddel glycerol e422",
             "bevochtigingsmiddel sorbitolen e420",
-            "cacaoboter°",
+            "cacaoboter",
             "water",
             "vollemelkpoeder",
             "soja-eiwit",
             "palmvet",
             "gecondenseerde melk",
             "havermout",
-            "aroma´s",
+            "aromas",
             "zout",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "emulgator monoen diglyceriden van vetzuren e471",
             "emulgator lecithinen e322",
-            "natuurlijke aroma´s",
+            "natuurlijke aromas",
             "kleurstof karamel e150a",
             "vanille-extract"
         ],
@@ -28670,7 +28670,7 @@
         "processed_ingredients": [
             "halfvolle melk",
             "suiker",
-            "magerecacaopoeder°",
+            "magerecacaopoeder",
             "natuurlijke aroma's",
             "stabilisator cellulosegom e466",
             "stabilisator cellulose e460",
@@ -28779,7 +28779,7 @@
             "bloem rijste",
             "bloem tarwe",
             "maïs",
-            "hazelnoot°",
+            "hazelnoot",
             "stabilisator glycerol e422",
             "suiker",
             "zonnebloemolie",
@@ -32374,7 +32374,7 @@
         "ingredients": "Ingrediënten: Aardappelen (96%; herkomst EU), zonnebloemolie, zout, maltodextrine, gedroogde groente (knoflookpoeder, uipoeder, paprika), kruiden en specerijen (0,3%), gistextract, aardappelzetmeel, dextrose.",
         "url": "https://www.ah.nl//producten/product/wi377964/celavita-patatas-bravas",
         "processed_ingredients": [
-            "aardappelen ; herkomst eu",
+            "aardappelen herkomst eu",
             "zonnebloemolie",
             "zout",
             "maltodextrine",
@@ -32954,7 +32954,7 @@
         "ingredients": "Ingrediënten: Aardappelen (97%; herkomst EU), olie (zonnebloem, raapzaad), zout, rozemarijn (0,2%), zeezout, maltodextrine, gistextract, uipoeder, knoflookpoeder, suiker, kruiden en specerijen, natuurlijk ui aroma.",
         "url": "https://www.ah.nl//producten/product/wi214623/celavita-roast-potatoes",
         "processed_ingredients": [
-            "aardappelen ; herkomst eu",
+            "aardappelen herkomst eu",
             "olie zonnebloem",
             "olie raapzaad",
             "zout",
@@ -33150,7 +33150,7 @@
             "kappertje",
             "water",
             "wijnazijn",
-            "zouteu/niet-eu landbouw van biologische oorsprong"
+            "zouteuniet-eu landbouw van biologische oorsprong"
         ],
         "ai_processed_ingredients": [
             "*   Kappertje",
@@ -35378,7 +35378,7 @@
             "water",
             "tomatenpuree",
             "maiszetmeel",
-            "natuurlijke aroma‘s",
+            "natuurlijke aromas",
             "zeezout"
         ],
         "ai_processed_ingredients": [
@@ -36473,7 +36473,7 @@
         "url": "https://www.ah.nl//producten/product/wi234850/mutti-polpa-fijne-tomatenpulp-met-basilicum",
         "processed_ingredients": [
             "tomaat",
-            "basilicum \"basilico genovese dop\"",
+            "basilicum basilico genovese dop",
             "zout"
         ],
         "ai_processed_ingredients": [

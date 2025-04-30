@@ -1,4 +1,4 @@
-import re
+import regex as re
 
 
 def remove_brackets_from_ingredients_text(ingredients_text: str) -> str:
@@ -68,7 +68,7 @@ def remove_brackets_from_ingredients_text(ingredients_text: str) -> str:
 
 def clean_up_ingredient(ingredient: str) -> str:
     # Remove all symbols we do not care about
-    ingredient = re.sub(r"[\.:\*¹²³⁴⁵⁶⁷⁸⁹]", "", ingredient)
+    ingredient = re.sub(r"[^\p{L}\s\d\-\`\'\’]", "", ingredient)
     # Remove all extra spaces
     ingredient = re.sub(r"\s+", " ", ingredient)
     return ingredient.strip()

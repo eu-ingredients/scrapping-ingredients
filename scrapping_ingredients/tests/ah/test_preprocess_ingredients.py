@@ -306,6 +306,40 @@ def test_preprocess_ingredients_ah_rauwkost_amsterdamse_uin():
     assert result == expected_result
 
 
+def test_preprocess_ingredients_Hero_B_tween_mueslireep_zero_melkchocolade():
+    ingredients_text = "IngrediëntenIngrediënten: Zoetstof (maltitolsiroop), volkoren graanvlokken 18% (GERST, TARWE), volkoren TARWEcrispies (volkoren TARWEmeel 9%, TARWEGLUTEN, GERSTmoutextract), cacao bevattende volkoren TARWEcrispies (volkoren TARWEmeel 9%, cacaopoeder met verminderd vetgehalte**, TARWEGLUTEN, volle MELKpoeder), volle MELKchocolade met zoetstoﬀen 9% (zoetstof (maltitol), cacaoboter**, volle MELKpoeder, cacaomassa**, emulgator (ammoniumfosfatiden, polyglycerolpolyricinoleaat)), cornﬂakes (mais, zout, GERSTmoutextract), geroosterde PINDA’S (4%), kokosvet, stabilisator (glycerol), zout, natuurlijk cacao-aroma met andere natuurlijke aroma's, emulgator (lecithinen). Kan andere NOTEN bevatten.Allergie-informatieBevat: Gerst, Tarwe, Glutenbevattende Granen, Melk, Pinda'sKan bevatten: Noten"
+    expected_result = [
+        "zoetstof maltitolsiroop",
+        "volkoren graanvlokken gerst",
+        "volkoren graanvlokken tarwe",
+        "volkoren tarwecrispies volkoren tarwemeel",
+        "volkoren tarwecrispies tarwegluten",
+        "volkoren tarwecrispies gerstmoutextract",
+        "cacao bevattende volkoren tarwecrispies volkoren tarwemeel",
+        "cacao bevattende volkoren tarwecrispies cacaopoeder met verminderd vetgehalte",
+        "cacao bevattende volkoren tarwecrispies tarwegluten",
+        "cacao bevattende volkoren tarwecrispies volle melkpoeder",
+        "volle melkchocolade met zoetstoﬀen zoetstof maltitol",
+        "volle melkchocolade met zoetstoﬀen cacaoboter",
+        "volle melkchocolade met zoetstoﬀen volle melkpoeder",
+        "volle melkchocolade met zoetstoﬀen cacaomassa",
+        "volle melkchocolade met zoetstoﬀen emulgator ammoniumfosfatiden",
+        "volle melkchocolade met zoetstoﬀen emulgator polyglycerolpolyricinoleaat",
+        "cornﬂakes mais",
+        "cornﬂakes zout",
+        "cornﬂakes gerstmoutextract",
+        "geroosterde pinda’s",
+        "kokosvet",
+        "stabilisator glycerol",
+        "zout",
+        "natuurlijk cacao-aroma met andere natuurlijke aroma's",
+        "emulgator lecithinen",
+    ]
+    result = preprocess_ingredients(ingredients_text)
+
+    assert result == expected_result
+
+
 def test_preprocess_ingredients_unox_cup_a_soup_kip():
     ingredients_text = "IngrediëntenIngrediënten: Deegwaar 24% (harde TARWEGRIES, zout), dextrose, aardappelzetmeel, aroma, wortel¹ 4,8%, zout, gistextract, suiker, palmvet, stukjes kippenvlees 2,3% (kippenvlees, palmolie, zout, antioxidant (E304i, E307), gejodeerd zout, mineraalzout (kalium), kippenvet 0,9% (kippenvet, antioxidant E392), prei¹, specerijen¹ (kurkuma, peterseliewortel), uipoeder¹, BLADSELDERIJ 0,2%. Kan ei, soja, melk, mosterd bevatten.¹ op duurzame wijze geteeld.Allergie-informatieBevat: Selderij, Glutenbevattende Granen, TarweKan bevatten: Soja, Eieren, Melk, Mosterd"
 
