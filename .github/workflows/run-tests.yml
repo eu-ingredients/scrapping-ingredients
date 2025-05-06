@@ -28,5 +28,5 @@ jobs:
           python-version: "3.x"
       - name: Pytest
         run: |
-          pip install pytest
+          pip install pytest regex
           python -m pytest
